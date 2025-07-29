@@ -1,0 +1,59 @@
+﻿OBJECTID,CDTFA_COUNTY,CDTFA_COPRI,CENSUS_PLACE_NAME,CENSUS_GEOID,CENSUS_PLACE_TYPE,GNIS_PLACE_NAME,GNIS_ID,CDT_COUNTY_ABBR,PRIMARY_DOMAIN,CENSUS_POPULATION,CDT_NAME_SHORT,OFFSHORE,AREA_SQMI,GlobalID
+1,Alameda County,01000,Alameda County,06001,County,Alameda County,1675839,ALA,,,Alameda,,746.72208177619,db15db52-c25a-49f9-9198-d776a76623e9
+2,Alpine County,02000,Alpine County,06003,County,Alpine County,1675840,ALP,,,Alpine,,743.406638139696,2d9b05da-d6ce-45aa-bdc7-0bcc653d414f
+3,Amador County,03000,Amador County,06005,County,Amador County,1675841,AMA,,,Amador,,606.019047336338,98ee69f7-d62c-48cc-8b45-2059e5e21ed4
+4,Butte County,04000,Butte County,06007,County,Butte County,1675842,BUT,,,Butte,,1677.81577652945,9b138eed-7cbd-4746-8667-63c675ffa3c5
+5,Calaveras County,05000,Calaveras County,06009,County,Calaveras County,1675885,CAL,,,Calaveras,,1035.5465454233,1b34c080-5e04-41ac-858c-4c5f3de12cd2
+6,Colusa County,06000,Colusa County,06011,County,Colusa County,1675902,COL,,,Colusa,,1156.73127311089,2b8b7bd9-9386-41e3-a65d-2a22b1f04473
+7,Contra Costa County,07000,Contra Costa County,06013,County,Contra Costa County,1675903,CCA,,,Contra Costa,,747.98137256487,c47cb9f2-fbd7-4f00-a616-d90befdddd3c
+8,Del Norte County,08000,Del Norte County,06015,County,Del Norte County,1682074,DNE,,,Del Norte,,1014.74036480873,a21acfec-e221-4911-a7ff-0e4cfb894c10
+9,El Dorado County,09000,El Dorado County,06017,County,El Dorado County,277273,EDO,,,El Dorado,,1788.96533270595,e34bd5a2-6d6c-4bdf-bb40-1eacf6130644
+10,Fresno County,10000,Fresno County,06019,County,Fresno County,277274,FRE,,,Fresno,,6012.99866815943,08b327e2-761d-427d-9775-f09024299cc0
+11,Glenn County,11000,Glenn County,06021,County,Glenn County,277275,GLE,,,Glenn,,1325.9848023558,14a45d39-ce20-450e-a361-3120d9218fea
+12,Humboldt County,12000,Humboldt County,06023,County,Humboldt County,1681908,HUM,,,Humboldt,,3612.1118046281,ea3ae742-4339-492f-9d30-0b13e69064d5
+13,Imperial County,13000,Imperial County,06025,County,Imperial County,277277,IMP,,,Imperial,,4481.89573944921,8eccbb9e-140c-47db-8c02-144049993dcd
+14,Inyo County,14000,Inyo County,06027,County,Inyo County,1804637,INY,,,Inyo,,10228.3855014651,079bd172-1fdc-493b-aaa6-f39b078d415c
+15,Kern County,15000,Kern County,06029,County,Kern County,2054176,KER,,,Kern,,8165.41437930863,e794ad8b-9573-4084-a2ed-d5de75474045
+16,Kings County,16000,Kings County,06031,County,Kings County,277280,KIN,,,Kings,,1391.91496284925,4164694e-6341-476d-9a0b-197c5cc6ea5a
+17,Lake County,17000,Lake County,06033,County,Lake County,277281,LAK,,,Lake,,1327.87190481003,ad85d474-21e7-4b79-b25d-18cfdc5e1399
+18,Lassen County,18000,Lassen County,06035,County,Lassen County,1693324,LAS,,,Lassen,,4721.23915014373,df77f338-a48a-4fb3-8e2b-14f660b6829f
+19,Los Angeles County,19000,Los Angeles County,06037,County,Los Angeles County,277283,LAC,,,Los Angeles,,4088.35340817995,72d0f80c-5f4d-48d5-be9b-ab345cbc2804
+20,Madera County,20000,Madera County,06039,County,Madera County,277284,MAD,,,Madera,,2152.44994102363,d70e1f5c-062f-4d50-80dd-2333b783544f
+21,Marin County,21000,Marin County,06041,County,Marin County,277285,MRN,,,Marin,,530.850854035301,990ff42f-13c3-4345-8b62-10f59b229b96
+22,Mariposa County,22000,Mariposa County,06043,County,Mariposa County,277286,MPA,,,Mariposa,,1461.92741337038,92f8aee0-95df-4993-94cc-f182119242d2
+23,Mendocino County,23000,Mendocino County,06045,County,Mendocino County,277287,MEN,,,Mendocino,,3513.10545354768,1ba746a6-afdd-4256-a0fc-aff275363edb
+24,Merced County,24000,Merced County,06047,County,Merced County,277288,MER,,,Merced,,1977.60293852998,ce420df3-031b-4e04-9f58-e748fb21a60c
+25,Modoc County,25000,Modoc County,06049,County,Modoc County,277289,MOD,,,Modoc,,4202.6753485479,d66d52bd-0f57-40ed-a5a0-08161c9df4ca
+26,Mono County,26000,Mono County,06051,County,Mono County,277290,MNO,,,Mono,,3130.78935020609,1a374cf2-9acc-4bc4-a01b-b0dc65dfdabc
+27,Monterey County,27000,Monterey County,06053,County,Monterey County,277291,MON,,,Monterey,,3313.96057292291,abc469d5-2f94-4819-bec5-a1895354b22f
+28,Napa County,28000,Napa County,06055,County,Napa County,277292,NAP,,,Napa,,792.307801749261,c8a459e0-235b-48f0-9611-654a5974053d
+29,Nevada County,29000,Nevada County,06057,County,Nevada County,1682927,NEV,,,Nevada,,974.896405574666,3855d3db-d033-4c55-9b57-3f5dcfebf18b
+30,Orange County,30000,Orange County,06059,County,Orange County,277294,ORA,,,Orange,,799.04779432302,3b03bd93-243a-4a06-9019-2b9e324baf7f
+31,Placer County,31000,Placer County,06061,County,Placer County,277295,PLA,,,Placer,,1499.93583689943,38d96394-3308-46d1-a17b-de5bc989dbac
+32,Plumas County,32000,Plumas County,06063,County,Plumas County,277296,PLU,,,Plumas,,2613.53883099344,e1caa673-308b-4499-ad86-9b7a873680c6
+33,Riverside County,33000,Riverside County,06065,County,Riverside County,277297,RIV,,,Riverside,,7301.84819505707,a2bd1588-bff9-4cce-b699-9bfb25013171
+34,Sacramento County,34000,Sacramento County,06067,County,Sacramento County,277298,SAC,,,Sacramento,,993.692589943212,0d17bbe1-d3ec-4fad-b747-facd187eab61
+35,San Benito County,35000,San Benito County,06069,County,San Benito County,277299,SBT,,,San Benito,,1389.76857863584,b112343b-4aa5-4c56-b0c4-de67ada19208
+36,San Bernardino County,36000,San Bernardino County,06071,County,San Bernardino County,277300,SBD,,,San Bernardino,,20106.2081827222,1d17f2ed-a4e9-4cc1-ab49-a7c9ddfdc7f9
+37,San Diego County,37000,San Diego County,06073,County,San Diego County,277301,SDO,,,San Diego,,4259.05392486605,e3380520-079c-4dbd-a625-3cbdfee4bc71
+38,San Francisco County,38000,San Francisco County,06075,County,San Francisco County,,SFC,,,San Francisco,,47.2963275044277,7988a44c-6484-4aee-af73-446f89779d98
+39,San Joaquin County,39000,San Joaquin County,06077,County,San Joaquin County,277303,SJQ,,,San Joaquin,,1426.11842248475,67b1661a-5e91-4175-983f-6060a49ca959
+40,San Luis Obispo County,40000,San Luis Obispo County,06079,County,San Luis Obispo County,277304,SLO,,,San Luis Obispo,,3322.83390671674,412eebb4-3fc1-44db-8149-84ecd6e19ef0
+41,San Mateo County,41000,San Mateo County,06081,County,San Mateo County,277305,SMO,,,San Mateo,,455.256927223479,29999f93-09d8-480a-9a48-910e555687ea
+42,Santa Barbara County,42000,Santa Barbara County,06083,County,Santa Barbara County,277306,SBC,,,Santa Barbara,,2745.59380550167,ad5810e7-97e5-4b5f-93ac-9b010e077386
+43,Santa Clara County,43000,Santa Clara County,06085,County,Santa Clara County,277307,SCL,,,Santa Clara,,1300.67268817912,1eda1dd1-f6eb-41be-a35b-462b7437d537
+44,Santa Cruz County,44000,Santa Cruz County,06087,County,Santa Cruz County,277308,SCR,,,Santa Cruz,,446.128076788607,9c42d79f-23aa-47b6-aecc-2b96e0b5891f
+45,Shasta County,45000,Shasta County,06089,County,Shasta County,1682610,SHA,,,Shasta,,3852.10251955634,0e63e622-65c0-484c-88c0-1909859bb85f
+46,Sierra County,46000,Sierra County,06091,County,Sierra County,277310,SIE,,,Sierra,,961.051325087229,509620ef-29f0-4192-a0f5-d2a2d43aeefb
+47,Siskiyou County,47000,Siskiyou County,06093,County,Siskiyou County,277311,SIS,,,Siskiyou,,6347.28775743808,ac010863-005e-46d1-b671-01d662e0a768
+48,Solano County,48000,Solano County,06095,County,Solano County,277312,SOL,,,Solano,,851.762555062759,3bdc3fe5-269a-49d1-93ac-52109242e6d4
+49,Sonoma County,49000,Sonoma County,06097,County,Sonoma County,1657246,SON,,,Sonoma,,1590.21123498288,81527a1a-7df7-40f2-aba7-f0203f719cfd
+50,Stanislaus County,50000,Stanislaus County,06099,County,Stanislaus County,277314,STA,,,Stanislaus,,1516.42801780026,62da8d74-053a-44cb-9faa-7cf76b20799c
+51,Sutter County,51000,Sutter County,06101,County,Sutter County,277315,SUT,,,Sutter,,608.453744519682,3082cb1c-9ba9-4e06-9f93-f42ecdfc5e3c
+52,Tehama County,52000,Tehama County,06103,County,Tehama County,1692767,TEH,,,Tehama,,2957.851830768,41b9ff70-dda4-42f1-a594-1cd93ef71e3b
+53,Trinity County,53000,Trinity County,06105,County,Trinity County,277317,TRI,,,Trinity,,3207.44817608571,3af42e41-5867-4404-a53c-b333bc2991ce
+54,Tulare County,54000,Tulare County,06107,County,Tulare County,277318,TUL,,,Tulare,,4837.15591011857,5b525992-7c0d-43fe-b124-2789a9601e03
+55,Tuolumne County,55000,Tuolumne County,06109,County,Tuolumne County,277319,TUO,,,Tuolumne,,2275.41337343473,bb85833e-fc20-41aa-982d-6848caaf7b4e
+56,Ventura County,56000,Ventura County,06111,County,Ventura County,277320,VEN,,,Ventura,,1855.75025449085,ba97c51a-72bf-4946-bc5a-7a98ac042d71
+57,Yolo County,57000,Yolo County,06113,County,Yolo County,277321,YOL,,,Yolo,,1021.39855174768,a8680980-15a0-4577-9a5b-f7677924455e
+58,Yuba County,58000,Yuba County,06115,County,Yuba County,277322,YUB,,,Yuba,,643.702231426439,25cd48b7-dcb4-459c-9a20-caa00c1b81eb

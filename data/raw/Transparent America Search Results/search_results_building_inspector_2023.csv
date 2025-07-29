@@ -1,0 +1,1004 @@
+Employee Name, Job Title, Base Pay, Overtime Pay, Other Pay, Benefits, Total Pay & Benefits, Year, Notes, Agency, Status
+"Felipe Peniche","Building Mechanical Inspector",124050.22,74648.21,17351.5,59352.34,275402.27,2023,"None","Los Angeles",
+"Donald Crichlow","Senior Building Mechanical Inspector",132185.44,79099.12,878.78,59419.98,271583.32,2023,"None","Los Angeles",
+"Edward Garcia","Senior Building Mechanical Inspector",137485.36,76514.42,5794.87,49521.6,269316.25,2023,"None","Los Angeles",
+"Raul Barajas","Building Mechanical Inspector",127201.56,75697.19,7425.91,55227.82,265552.48,2023,"None","Los Angeles",
+"Scott Finnila","Senior Building Mechanical Inspector",135660.34,53435.84,9401.93,62795.9,261294.01,2023,"None","Los Angeles",
+"Steven Lane","Building Inspector, Principal",132166.0,51382.0,8273.0,31596.0,259181.36,2023,"None","Newport Beach",FT
+"Christopher Goodwin","Chief Building/Construction Inspector",191261.0,0.0,1243.0,65583.0,258087.0,2023,"None","Los Angeles Unified",
+"Alejandro de Artola","Building Mechanical Inspector",120531.17,73695.46,8603.92,54611.39,257441.94,2023,"None","Los Angeles",
+"Matthew Greene","Chief Building Inspector",190587.54,0.0,7612.8,52791.75,250992.09,2023,"None","San Francisco",FT
+"Jeffery R Taylor","Senior Building Inspector",123856.0,3833.0,45117.0,46134.0,247665.06,2023,"None","Martinez",FT
+"Dennis Zafiratos","Supervising Building Inspector",150758.0,0.0,7184.0,44772.0,243618.23,2023,"None","Hayward",FT
+"Albert Arellanes","Building/Construction Inspector",138969.0,45236.0,6779.0,52570.0,243554.0,2023,"None","Los Angeles Unified",
+"Mark Walls","Chief Building Inspector",181291.02,0.0,9970.88,51691.95,242953.85,2023,"None","San Francisco",FT
+"John Hinchion","Chief Building Inspector",183144.0,0.0,7311.84,51580.17,242036.01,2023,"None","San Francisco",FT
+"Weston Gray","Senior Building Inspector",147079.39,2463.92,2371.53,47709.93,240494.7,2023,"None","Milpitas",FT
+"Richard Whalen","Senior Building Inspector",147078.4,0.0,3841.48,47861.93,240055.88,2023,"None","Milpitas",FT
+"Ulric Carpenter","Senior Building Mechanical Inspector",126885.52,0.0,57902.55,55221.71,240009.78,2023,"None","Los Angeles",
+"Felix Ceballos","Building Inspector",120898.88,52438.18,11364.9,55044.93,239746.89,2023,"None","Los Angeles",
+"Mauricio Hernandez","Senior Building Inspector",165617.0,7220.33,17640.21,47995.67,238473.21,2023,"None","San Francisco",FT
+"Mark van Slooten","Senior Building Mechanical Inspector",156721.24,3864.03,7988.15,69042.56,237615.98,2023,"None","Los Angeles",
+"Patrick Day","Senior Building Inspector",137485.36,30001.02,4711.47,63012.72,235210.57,2023,"None","Los Angeles",
+"Nick Larocca","Senior Building Inspector",151456.13,8276.63,7433.46,67480.93,234647.15,2023,"None","Los Angeles",
+"Daniel Varnum","Building Inspector",120898.88,45984.71,13004.27,54720.45,234608.31,2023,"None","Los Angeles",
+"Thomas van Dusen","Deputy Chief Building/Construction Inspector",168845.0,0.0,855.0,64618.0,234318.0,2023,"None","Los Angeles Unified",
+"Neil Friedman","Chief Building Inspector",182623.04,0.0,0.0,50274.7,232897.74,2023,"None","San Francisco",FT
+"Eric Shimp","Supervising Building Inspector",139349.0,0.0,14937.0,47181.0,231680.64,2023,"None","Alameda",FT
+"Jesus Murillo","Senior Building Inspector",93804.0,72506.0,7431.0,37014.0,231526.6,2023,"None","South Gate",FT
+"Kim Beauchamp","Building Mechanical Inspector",119661.0,43242.44,10262.49,58050.49,231216.42,2023,"None","Los Angeles",
+"Matthew Jenkins","Building Mechanical Inspector",141295.86,23784.3,5104.4,60770.19,230954.75,2023,"None","Los Angeles",
+"Michael Pelham","Senior Building Mechanical Inspector",133992.62,33296.14,4484.54,59135.65,230908.95,2023,"None","Los Angeles",
+"Kevin T Birmingham","Senior Building Inspector",173169.6,541.48,6926.78,48966.76,229604.62,2023,"None","San Francisco",FT
+"Eric Schwan","Supervising Building/Construction Inspector",160788.0,0.0,4098.0,63568.0,228454.0,2023,"None","Los Angeles Unified",
+"Richard Steinbach","Senior Building Mechanical Inspector",133992.62,28129.94,3738.49,62301.25,228162.3,2023,"None","Los Angeles",
+"Ernest Allred","Supervising Building/Construction Inspector",163311.0,0.0,1709.0,62978.0,227998.0,2023,"None","Los Angeles Unified",
+"Brett Howard","Senior Building Inspector",165617.01,5840.11,9275.13,46896.51,227628.76,2023,"None","San Francisco",FT
+"Joseph Ospital","Senior Building Inspector",169170.02,0.0,9304.29,48702.73,227177.04,2023,"None","San Francisco",FT
+"Christophe Wilson","Building Mechanical Inspector",118913.94,42718.0,7512.96,57828.91,226973.81,2023,"None","Los Angeles",
+"Kayi Zhang","Senior Building Inspector",168644.24,0.0,9275.39,48698.85,226618.48,2023,"None","San Francisco",FT
+"Matthew Nestor","Supervising Building/Construction Inspector",164939.0,0.0,3523.0,57754.0,226216.0,2023,"None","Los Angeles Unified",
+"Christopher Hodge","Supervising Building/Construction Inspector",163159.0,0.0,4427.0,58445.0,226031.0,2023,"None","Los Angeles Unified",
+"Gary Lam","Building Inspector - Senior",138972.0,1237.0,13194.0,36745.0,225218.03,2023,"None","South San Francisco",FT
+"Thomas Silipin","Senior Building Inspector",156806.23,0.0,5245.93,62877.28,224929.44,2023,"None","Redwood City",FT
+"Terry McMeekin","Building/Construction Inspector (Class 1)",139936.0,11237.0,16745.0,56756.0,224674.0,2023,"None","Los Angeles Unified",
+"Sean Wirch","Senior Building Mechanical Inspector",133992.62,21840.46,6471.06,61976.77,224280.91,2023,"None","Los Angeles",
+"Keith Fitzgerald","Deputy Chief Building/Construction Inspector",168795.0,0.0,2688.0,52721.0,224204.0,2023,"None","Los Angeles Unified",
+"John Cuneo","Senior Building Inspector",165617.02,1285.67,9108.93,48132.95,224144.57,2023,"None","San Francisco",FT
+"Joaquin Greenough","Building Mechanical Inspector",115000.44,46719.87,6684.74,55728.21,224133.26,2023,"None","Los Angeles",
+"Robert Minshull","Building Inspector",149614.62,430.09,0.0,73950.08,223994.79,2023,"None","Santa Clara County",FT
+"Oscar san Roman","Supervising Building/Construction Inspector",163311.0,0.0,1854.0,58439.0,223604.0,2023,"None","Los Angeles Unified",
+"Brian Geoffrey Barron","Building Inspector",149614.62,0.0,0.0,73950.1,223564.72,2023,"None","Santa Clara County",FT
+"Ruben Salas","Senior Building Mechanical Inspector",132185.44,27257.35,3219.63,60825.28,223487.7,2023,"None","Los Angeles",
+"Michael Bologna","Supervising Building/Construction Inspector",163071.0,0.0,1781.0,58400.0,223252.0,2023,"None","Los Angeles Unified",
+"John Finnegan","Senior Building Inspector",165617.07,0.0,9108.93,48132.95,222858.95,2023,"None","San Francisco",FT
+"Mira Lee","Senior Building Inspector",165617.01,0.0,9108.93,48132.94,222858.88,2023,"None","San Francisco",FT
+"Irene Wong","Senior Building Inspector",165617.0,0.0,9108.93,48132.93,222858.86,2023,"None","San Francisco",FT
+"Man Keung Ng","Senior Building Inspector",165617.0,0.0,9108.93,48132.93,222858.86,2023,"None","San Francisco",FT
+"Thomas Fessler","Senior Building Inspector",165617.0,0.0,9108.93,48132.93,222858.86,2023,"None","San Francisco",FT
+"Stephen Kwok","Senior Building Inspector",165923.09,0.0,9125.7,47735.22,222784.01,2023,"None","San Francisco",FT
+"Mark Rude","Senior Building Mechanical Inspector",133992.62,25522.52,837.37,62301.25,222653.76,2023,"None","Los Angeles",
+"Wenceslao Reynoso","Building Inspector, Senior",114543.0,13083.0,36908.0,27549.0,222469.43,2023,"None","Vernon",FT
+"Phillip Brandenburg","Senior Combination Building Inspector",132904.0,15388.0,11621.0,62195.0,222108.0,2023,"None","West Hollywood",FT
+"John Kitcko","Senior Building Inspector",137485.38,13638.52,7380.47,63337.2,221841.57,2023,"None","Los Angeles",
+"Richard L Gomes","Sr Building Inspector",163421.38,0.0,0.0,58397.15,221818.53,2023,"None","Santa Clara County",FT
+"William Michalak","Building Mechanical Inspector",117545.74,31570.21,14200.67,57423.11,220739.73,2023,"None","Los Angeles",
+"John Hayes","Building Mechanical Inspector",124050.22,32454.86,4455.43,59027.86,219988.37,2023,"None","Los Angeles",
+"Carl E Malchow","Senior Building Inspector",165617.0,0.0,6624.68,47720.78,219962.46,2023,"None","San Francisco",FT
+"Kevin Sargsyan","Building Mechanical Inspector",117185.83,36833.42,12137.23,53677.48,219833.96,2023,"None","Los Angeles",
+"Johnny Gusman","Senior Building Inspector",143499.43,0.0,2999.23,72978.65,219477.31,2023,"None","Redwood City",FT
+"Linn Melvin","Building Mechanical Inspector",119661.0,31623.07,10108.17,58050.49,219442.73,2023,"None","Los Angeles",
+"Jerrel Brookes Webber","Building Inspector Specialist",139695.0,625.0,10520.0,41798.0,218544.28,2023,"None","Fremont",FT
+"Behrouz Hashemi","Building Inspector",120158.24,28334.53,14922.86,55032.37,218448.0,2023,"None","Los Angeles",
+"Gregory Perez","Supervising Building/Construction Inspector",153888.0,48.0,3354.0,60825.0,218115.0,2023,"None","Los Angeles Unified",
+"Willie Ross","Senior Building Mechanical Inspector",137485.36,16281.76,5815.21,57953.52,217535.85,2023,"None","Los Angeles",
+"Juan Escoto Delgado","Building Mechanical Inspector",122865.11,31630.16,7374.09,55628.11,217497.47,2023,"None","Los Angeles",
+"Carey McElroy","Building Inspector",150852.0,14788.25,6034.08,45180.9,216855.23,2023,"None","San Francisco",FT
+"Trevor John Byrne","Building Inspector",150208.5,5982.62,15895.67,44065.54,216152.33,2023,"None","San Francisco",FT
+"Justin Carlotti","Building Inspector",136606.0,0.0,0.0,46550.0,215261.55,2023,"None","Pleasanton",FT
+"Julius B Deocampo","Senior Building Inspector",120120.3,29544.05,9775.33,44857.86,215011.5,2023,"None","Irvine",FT
+"Kyle Shea","Senior Building Inspector",131218.43,95.48,2649.36,80844.62,214807.89,2023,"None","Palo Alto",
+"Alfredo Vasquez","Lead Building Inspector",146521.0,0.0,1300.0,31509.0,214071.9,2023,"None","Pleasanton",FT
+"Roy Alba","Senior Building Inspector",148565.0,863.0,6623.0,28906.0,213783.92,2023,"None","Los Gatos",FT
+"Cameron Chaban","Senior Building Inspector",135694.97,7793.13,7646.48,62481.69,213616.27,2023,"None","Los Angeles",
+"Gilbert Vargas","Supervising Building/Construction Inspector",153884.0,73.0,4104.0,55522.0,213583.0,2023,"None","Los Angeles Unified",
+"Robert Minassians","Senior Building Mechanical Inspector",137485.36,12704.39,2932.1,60171.6,213293.45,2023,"None","Los Angeles",
+"Robert Dunbar","Senior Building Inspector",131218.43,0.0,1200.0,80844.49,213262.92,2023,"None","Palo Alto",
+"Christopher A Grove","Building Inspector",149614.48,0.0,0.0,63575.62,213190.1,2023,"None","Santa Clara County",FT
+"John de Marta","Building Inspector Ii",133235.0,14555.0,3921.0,36711.0,213083.32,2023,"None","Fremont",FT
+"Warren L Krause","Sr Building Inspector",163421.42,0.0,0.0,48477.19,211898.61,2023,"None","Santa Clara County",FT
+"Gary King","Senior Building Inspector",140732.31,0.0,900.0,29795.82,211893.17,2023,"None","Milpitas",FT
+"Christopher M Chaires","Lead Building Inspector",127171.21,23780.52,10353.46,39208.12,211853.72,2023,"None","Irvine",FT
+"Enrique Mireles","Building Mechanical Inspector",127201.56,17526.29,6759.24,60287.02,211774.11,2023,"None","Los Angeles",
+"Joseph Takacs","Building Inspector",149614.72,0.0,218.7,61763.81,211597.23,2023,"None","Santa Clara County",FT
+"David Tsau","Senior Building Inspector",137485.36,16947.85,1341.33,55588.32,211362.86,2023,"None","Los Angeles",
+"David Hickman","Senior Building Mechanical Inspector",137485.36,9428.65,974.12,63337.2,211225.33,2023,"None","Los Angeles",
+"Joseph Yu","Building Inspector",155257.01,996.33,8539.13,46245.79,211038.26,2023,"None","San Francisco",FT
+"Gregory Anderson","Senior Building Inspector",135283.0,0.0,20434.0,22368.0,210981.94,2023,"None","Los Altos",
+"Ronnie S Bouma","Senior Building Engineering Inspector",116340.0,28716.0,3008.0,62866.0,210930.0,2023,"None","Los Angeles County",
+"Matthew Avila","Sr. Building Inspector",129338.0,378.0,0.0,81086.0,210802.0,2023,"None","Newark",FT
+"Arnold Victor Gee","Suprvsing Building Inspector",150169.0,0.0,13397.0,46209.0,209775.0,2023,"None","Alameda County",FT
+"Claudio Moreno","Senior Building Mechanical Inspector",133992.62,8571.41,4858.12,62301.25,209723.4,2023,"None","Los Angeles",
+"Osvaldo Paramo","Building Mechanical Inspector",120531.17,25173.83,5485.83,58308.59,209499.42,2023,"None","Los Angeles",
+"Jeff Batelle","Building Inspector",149614.58,0.0,0.0,59644.09,209258.67,2023,"None","Santa Clara County",FT
+"Michael Temple","Senior Building Mechanical Inspector",137485.36,18269.66,3395.81,49939.68,209090.51,2023,"None","Los Angeles",
+"Richard Pence Jr","Building Inspector - Senior",135976.0,4559.0,19134.0,14513.0,208957.3,2023,"None","South San Francisco",FT
+"Robert Power","Building Inspector",150208.52,5759.28,8551.73,44314.88,208834.41,2023,"None","San Francisco",FT
+"Jeffrey S Zwibel","Senior Building Inspector",119889.22,19189.66,14281.42,44685.15,208737.88,2023,"None","Irvine",FT
+"David W Chaffe","Senior Building Inspector",119889.18,20893.98,20903.66,36227.07,208606.32,2023,"None","Irvine",FT
+"Kathryn Butterworth","Building Mechanical Inspector",120531.17,22708.2,6572.11,57984.11,207795.59,2023,"None","Los Angeles",
+"Steven C Ledon","Building Inspector",149614.62,0.0,86.8,57828.97,207530.39,2023,"None","Santa Clara County",FT
+"James Powers","Senior Building Inspector",137485.36,11786.11,8156.53,49846.08,207274.08,2023,"None","Los Angeles",
+"Augustus Albas","Senior Building Mechanical Inspector",137485.36,1093.11,5353.44,63337.2,207269.11,2023,"None","Los Angeles",
+"Edward Donnelly","Senior Building Inspector",157303.14,49.62,4719.07,45196.42,207268.25,2023,"None","San Francisco",FT
+"Robert Sunseri","Senior Building Mechanical Inspector",137485.36,1192.51,5567.17,63012.72,207257.76,2023,"None","Los Angeles",
+"Brooks MacNeil","Senior Building Inspector",124811.0,0.0,3851.64,51631.93,206996.51,2023,"None","Burlingame",FT
+"Daniel Gonzalez","Senior Building Mechanical Inspector",130404.3,13133.88,2059.7,61236.96,206834.84,2023,"None","Los Angeles",
+"James Lee","Building Inspector",138255.0,0.0,500.0,40467.0,206386.35,2023,"None","Cupertino",FT
+"Jeffrey Duran","Senior Building Inspector",137485.36,8059.28,794.29,60022.8,206361.73,2023,"None","Los Angeles",
+"Antonio Torrez","Building Inspector",138255.0,399.0,0.0,40467.0,206285.35,2023,"None","Cupertino",FT
+"Robert Mac Donald","Senior Building Inspector",132629.6,1018.4,2672.88,69850.65,206171.53,2023,"None","Palo Alto",
+"Brian Sullivan","Building Mechanical Inspector",119163.76,22690.2,6355.15,57903.01,206112.12,2023,"None","Los Angeles",
+"Mario Jeronimo","Building Inspector Ii",133122.0,27.0,5288.0,38441.0,205814.96,2023,"None","Mountain View",FT
+"David Nolta","Building Inspector",134946.0,0.0,0.0,39774.0,205523.88,2023,"None","Pleasanton",FT
+"Gregory Pomish","Senior Building Inspector",137485.36,3422.54,4670.35,59847.12,205425.37,2023,"None","Los Angeles",
+"Stephen E Rainsbury","Building Inspector Ii",130979.0,156.0,6422.0,38574.0,205409.27,2023,"None","Mountain View",FT
+"Mike Chung","Building Inspector",157267.4,0.0,2482.66,45655.01,205405.07,2023,"None","San Francisco",FT
+"Hagop Badossian","Senior Building Mechanical Inspector",118804.23,33074.44,5330.0,48196.22,205404.89,2023,"None","Los Angeles",
+"Paul James Jones","Building Inspector",149614.66,0.0,0.0,55771.46,205386.12,2023,"None","Santa Clara County",FT
+"Manuel Garcia","Building/Construction Inspector",135898.0,3731.0,12729.0,52873.0,205231.0,2023,"None","Los Angeles Unified",
+"Charles Boghoskhan","Senior Building Mechanical Inspector",140574.21,1714.13,1757.1,61087.75,205133.19,2023,"None","Los Angeles",
+"John Mattillo","Senior Building Mechanical Inspector",137485.36,397.51,7102.48,59964.48,204949.83,2023,"None","Los Angeles",
+"Mickey Yamashita","Building Mechanical Inspector",124050.22,12869.25,12313.16,55655.14,204887.77,2023,"None","Los Angeles",
+"Mike Wang","Building Mechanical Inspector",119038.85,20280.62,7572.78,57865.96,204758.21,2023,"None","Los Angeles",
+"Alfredo Flores","Senior Building Mechanical Inspector",98141.96,53170.99,8169.93,45088.23,204571.11,2023,"None","Los Angeles",
+"Agustin Alvarez Morales","Building Mechanical Inspector",120898.88,19044.81,6396.89,58093.17,204433.75,2023,"None","Los Angeles",
+"James Vorhis","Building Mechanical Inspector",124050.22,18375.48,5937.9,56037.94,204401.54,2023,"None","Los Angeles",
+"Mark Duncan","Building Inspector",150208.54,444.27,8261.4,45436.19,204350.4,2023,"None","San Francisco",FT
+"James J Peterson","Building Inspector Ii",130979.0,805.0,5240.0,38370.0,204148.76,2023,"None","Mountain View",FT
+"Will McConnaughy","Senior Building Mechanical Inspector",137485.36,596.27,3003.84,63012.72,204098.19,2023,"None","Los Angeles",
+"Christophe Cochran","Building Mechanical Inspector",124050.22,21258.76,7088.84,51603.46,204001.28,2023,"None","Los Angeles",
+"Devin Washoe","Building Inspector Specialist",133173.0,1828.0,778.0,43476.0,203927.3,2023,"None","Fremont",FT
+"Chi Chiu Lau","Building Inspector",150208.63,0.0,8261.4,45436.19,203906.22,2023,"None","San Francisco",FT
+"Hector Hernandez","Building Inspector",150208.53,0.0,8261.39,45436.19,203906.11,2023,"None","San Francisco",FT
+"Lena Farid Sousou","Building Inspector Specialist",139963.0,0.0,7702.0,30330.0,203901.28,2023,"None","Fremont",FT
+"Tessa Myers","Building/Np Inspector",127342.62,0.0,2173.85,38958.46,203860.37,2023,"None","Milpitas",FT
+"Carlos Matamoros","Building Mechanical Inspector",120898.88,23124.27,6622.46,53171.31,203816.92,2023,"None","Los Angeles",
+"Peter Eisenbeiser","Building Inspector",150208.5,2512.69,6008.34,45062.31,203791.84,2023,"None","San Francisco",FT
+"Damien Martin","Building Inspector",141964.4,6085.48,11866.21,43784.51,203700.6,2023,"None","San Francisco",FT
+"Herbert Giron","Building Mechanical Inspector",105211.44,34790.86,10169.26,53440.27,203611.83,2023,"None","Los Angeles",
+"Alan Novak","Building Inspector",133504.48,4207.99,7429.88,58459.27,203601.62,2023,"None","Los Angeles",
+"Ernesto Corral","Senior Building Inspector",137485.36,2285.61,492.81,63337.2,203600.98,2023,"None","Los Angeles",
+"Pierre Vega","Senior Building Mechanical Inspector",137485.36,0.0,5473.78,60171.6,203130.74,2023,"None","Los Angeles",
+"Jonah Glen","Senior Building Inspector",144251.21,0.0,2904.16,55719.96,202875.33,2023,"None","Redwood City",FT
+"Marc A Cavalieri","Senior Building Inspector",127410.94,474.59,1412.84,47113.94,202601.39,2023,"None","Burlingame",FT
+"Mark A Ben","Building Inspector Iii",102488.0,38585.0,3225.0,20081.0,202513.38,2023,"None","Anaheim",FT
+"Paul O\&#39;Sullivan","Senior Building Inspector",147724.0,1606.0,7502.0,16613.0,202470.92,2023,"None","Cupertino",FT
+"William Thompson","Senior Building Inspector",137485.36,0.0,1253.08,63337.2,202075.64,2023,"None","Los Angeles",
+"Jeff Bytheway","Senior Building Inspector",137485.36,0.0,4160.0,60171.6,201816.96,2023,"None","Los Angeles",
+"Daniel Helminiak","Building Inspector",150208.5,228.42,6008.34,45062.31,201507.57,2023,"None","San Francisco",FT
+"Zeydi Stewart","Building Mechanical Inspector",120406.86,20020.08,2732.79,58271.71,201431.44,2023,"None","Los Angeles",
+"Michael Gunnell","Building Inspector",150208.53,0.0,6008.33,45062.31,201279.17,2023,"None","San Francisco",FT
+"Yuet Ming Chan","Building Inspector",150208.5,0.0,6008.34,45062.31,201279.15,2023,"None","San Francisco",FT
+"Jimmy Guaiumi","Building Inspector",150208.5,0.0,6008.33,45062.31,201279.14,2023,"None","San Francisco",FT
+"Winston Dunning","Senior Building Inspector",137485.36,0.0,3619.56,59964.48,201069.4,2023,"None","Los Angeles",
+"Vasil Mihalev","Building Inspector",119674.24,15876.96,7379.5,58054.42,200985.12,2023,"None","Los Angeles",
+"Abram Estrada","Senior Building Engineering Inspector",116422.0,18191.0,5426.0,60870.0,200909.0,2023,"None","Los Angeles County",
+"Ryan Cerny","Supervising Building Inspector",117338.0,27779.0,4706.0,44795.0,200833.92,2023,"None","Malibu",FT
+"Lawrence E Munn","Building Inspector Sr Cert",120692.87,12015.84,12400.04,26504.39,200803.19,2023,"None","Antioch",FT
+"Elena Martinez","Sr Combo Building Inspector",121554.13,3941.35,0.0,41083.36,200747.92,2023,"None","Costa Mesa",
+"Rodney Weathers","Building Inspector",138255.0,399.0,0.0,34739.0,200557.35,2023,"None","Cupertino",FT
+"Colin Barham","Building Inspector Iii",126047.34,0.0,13028.96,61332.31,200408.61,2023,"None","Livermore",FT
+"Michel Abajan","Building Mechanical Inspector",120531.17,20799.44,6857.0,52131.47,200319.08,2023,"None","Los Angeles",
+"Sean Haupt","Building Mechanical Inspector",113864.1,26713.54,6720.66,53016.73,200315.03,2023,"None","Los Angeles",
+"Raul Olagi","Building Mechanical Inspector",112626.68,25609.89,6100.47,55964.11,200301.15,2023,"None","Los Angeles",
+"Da Liu","Senior Building Mechanical Inspector",133992.62,16337.04,1054.63,48810.13,200194.42,2023,"None","Los Angeles",
+"Braulio Tienda","Building Inspector",149277.0,0.0,5971.05,44878.01,200126.06,2023,"None","San Francisco",FT
+"Ramon Carlos Paz","Senior Building Engineering Inspector",116422.0,23145.0,5382.0,55123.0,200072.0,2023,"None","Los Angeles County",
+"Scott L. Thompson","Building Inspector Ii",131544.0,0.0,6927.0,37077.0,199910.89,2023,"None","Fremont",FT
+"Jason Boruta","Building Inspector",120158.24,20101.3,1370.69,58197.97,199828.2,2023,"None","Los Angeles",
+"Steven Back","Building Mechanical Inspector",119661.0,19799.86,7312.19,52991.29,199764.34,2023,"None","Los Angeles",
+"John King","Building/Construction Inspector",135891.0,0.0,10002.0,53814.0,199707.0,2023,"None","Los Angeles Unified",
+"Christopher Schroeder","Building Inspector",150208.54,0.0,4506.09,44813.19,199527.82,2023,"None","San Francisco",FT
+"Jarret E Schneider","Building Inspector Iii",100207.0,21664.0,7253.0,32941.0,199442.81,2023,"None","Anaheim",FT
+"Edward Ryan","Building Inspector",153926.74,0.0,750.0,44724.48,199401.22,2023,"None","San Francisco",FT
+"Chester Chiu","Building Inspector",150823.13,1888.8,1942.75,44503.23,199157.91,2023,"None","San Francisco",FT
+"Chris Sanchez","Building Inspector, Principal",132166.0,8995.0,-1499.0,32829.0,199089.97,2023,"None","Newport Beach",FT
+"Kenneth Gonzalez","Building Inspector",154340.0,0.0,0.0,44645.86,198985.86,2023,"None","San Francisco",FT
+"Robert Gold","Senior Building Mechanical Inspector",133992.62,3573.75,2431.7,58928.53,198926.6,2023,"None","Los Angeles",
+"Mark Bevelaqua","Senior Building Inspector",137485.36,0.0,5786.87,55588.32,198860.55,2023,"None","Los Angeles",
+"Joe Pena","Building Inspector",148739.71,0.0,5372.18,44695.75,198807.64,2023,"None","San Francisco",FT
+"Kenneth Nagle","Senior Building Mechanical Inspector",134390.82,0.0,1829.99,62419.36,198640.17,2023,"None","Los Angeles",
+"Rafael Espinoza","Building Inspector",120158.24,12402.18,8043.87,57873.49,198477.78,2023,"None","Los Angeles",
+"Mel Khachatourian","Building Mechanical Inspector",124050.22,24570.24,3822.26,45954.82,198397.54,2023,"None","Los Angeles",
+"Murray Armstrong","Senior Combination Building Inspector",128567.0,3626.0,4218.0,61857.0,198268.0,2023,"None","West Hollywood",FT
+"Aristomenis Knoles","Supervising Building Inspector",124088.0,27006.0,4203.0,42955.0,198252.0,2023,"None","Sonoma County",FT
+"Nick Daneri","Senior Building Inspector",133992.62,3624.23,1683.16,58928.53,198228.54,2023,"None","Los Angeles",
+"Shawn Lopez","Building Inspector Ii",133576.0,3902.0,851.0,35508.0,197773.38,2023,"None","Morgan Hill",FT
+"Jeffrey Christian","Senior Building Inspector",137485.36,0.0,519.0,59640.0,197644.36,2023,"None","Los Angeles",
+"Stuart Chapman","Building Mechanical Inspector",117185.83,19160.74,7549.35,53619.16,197515.08,2023,"None","Los Angeles",
+"Leonard Williams","Building Inspector Supervisor",116883.0,0.0,15685.0,64876.0,197444.0,2023,"None","Richmond",FT
+"Charles Powell II","Building Mechanical Inspector",114108.37,27508.6,7724.96,48037.61,197379.54,2023,"None","Los Angeles",
+"Henry Kim","Building Mechanical Inspector",117664.84,27284.21,8397.73,43967.31,197314.09,2023,"None","Los Angeles",
+"Justin Curtis","Building Mechanical Inspector",119908.5,17947.91,1140.1,58123.9,197120.41,2023,"None","Los Angeles",
+"Harold Rule","Senior Building Inspector",119889.07,22823.7,17852.66,25695.15,196953.01,2023,"None","Irvine",FT
+"Vigen Yeghiazarian","Building/Construction Inspector",135898.0,5526.0,3744.0,51739.0,196907.0,2023,"None","Los Angeles Unified",
+"Yin Sheng Lei","Building Inspector",150208.5,865.68,1502.08,44314.88,196891.14,2023,"None","San Francisco",FT
+"Lawrence Riordan","Supervising Building Inspector",121340.35,3054.35,8195.73,44747.68,196712.94,2023,"None","Santa Cruz",
+"Angel Gomez","Building/Construction Inspector",135888.0,4800.0,4599.0,51236.0,196523.0,2023,"None","Los Angeles Unified",
+"Mark A Hillabrandt","Building Inspector",127781.0,0.0,1440.0,42351.0,196277.02,2023,"None","Los Gatos",FT
+"Evan Cooper","Building Mechanical Inspector",134318.22,1456.19,-1901.49,62397.82,196270.74,2023,"None","Los Angeles",
+"Joseph McGarry","Building Mechanical Inspector",120531.17,11599.62,5745.42,58176.69,196052.9,2023,"None","Los Angeles",
+"Fergal Clancy","Building Inspector",150208.56,4.38,1502.08,44314.88,196029.9,2023,"None","San Francisco",FT
+"Mario Cuevas","Building Mechanical Inspector",117664.84,15622.03,8653.57,54085.71,196026.15,2023,"None","Los Angeles",
+"James Kelly","Building Inspector",146780.12,0.0,5276.93,43883.44,195940.49,2023,"None","San Francisco",FT
+"Derrick Spencer","Senior Building Inspector",137485.36,795.01,7796.86,49846.08,195923.31,2023,"None","Los Angeles",
+"David Burkhead","Building Inspector",120898.88,15232.81,4709.14,55044.93,195885.76,2023,"None","Los Angeles",
+"Matthew Armour","Building Inspector",150065.69,0.0,1500.65,44270.9,195837.24,2023,"None","San Francisco",FT
+"Oganes Tarakhchyan","Building Mechanical Inspector",119661.0,28966.02,11175.67,35802.97,195605.66,2023,"None","Los Angeles",
+"Dale M. Kent","Senior Building Inspector",118723.41,0.0,2799.44,40071.51,195425.37,2023,"None","Concord",FT
+"Joel Watson","Senior Building Inspector",120120.27,12994.5,15070.91,36371.93,195360.06,2023,"None","Irvine",FT
+"Laurentino Padilla","Building Inspector",125881.73,377.39,1980.59,67050.45,195290.16,2023,"None","Redwood City",FT
+"Keith C Moerk","Building Inspector Ii",133235.0,0.0,7666.0,29646.0,195208.32,2023,"None","Fremont",FT
+"Robert Chavez","Senior Building Mechanical Inspector",133992.62,677.97,3187.36,57242.05,195100.0,2023,"None","Los Angeles",
+"John Durborough","Principal Building Inspector",128377.62,0.0,8020.1,58689.43,195087.15,2023,"None","Sacramento County",
+"Oscar Garcia","Building Inspector",149509.14,1333.44,1800.24,42404.55,195047.37,2023,"None","Santa Clara County",FT
+"Van Zeng","Building Inspector",142659.2,2245.95,5915.46,44135.72,194956.33,2023,"None","San Francisco",FT
+"Jesus Rodriguez","Building Mechanical Inspector",115809.41,18125.81,4027.7,56908.11,194871.03,2023,"None","Los Angeles",
+"Joseph Buchanan","Building Inspector",120898.88,9131.72,6409.2,58417.65,194857.45,2023,"None","Los Angeles",
+"Joseph J Slouka","Building Inspector Iii",102493.0,10126.0,5833.0,38816.0,194840.11,2023,"None","Anaheim",FT
+"Juan Luna Valenzuela","Senior Building Mechanical Inspector",118804.1,19728.4,4012.93,52238.66,194784.09,2023,"None","Los Angeles",
+"David Matson","Senior Building Mechanical Inspector",137485.36,0.0,1641.8,55588.32,194715.48,2023,"None","Los Angeles",
+"Dustin Charles Cardwell","Building Inspector Ii",127419.0,0.0,675.0,42909.0,194637.22,2023,"None","Fremont",FT
+"Salvador Mendoza","Building Inspector",122389.0,820.0,8074.0,48128.0,194541.88,2023,"None","Los Altos",
+"Lorin Preston","Building/Np Inspector",127342.66,0.0,3447.8,27938.83,194465.26,2023,"None","Milpitas",FT
+"Misael Esparza","Building Mechanical Inspector",120406.86,11394.69,4570.78,57947.23,194319.56,2023,"None","Los Angeles",
+"Kenneth Wood","Building Inspector Ii",134998.0,479.0,5400.0,53428.0,194305.0,2023,"None","Newark",FT
+"Michael Obrien","Building Inspector",150208.5,0.0,0.0,44065.54,194274.04,2023,"None","San Francisco",FT
+"Thomas Keane","Building Inspector",150208.5,0.0,0.0,44065.54,194274.04,2023,"None","San Francisco",FT
+"Joel Williams","Senior Building Mechanical Inspector",133992.62,871.64,470.63,58928.53,194263.42,2023,"None","Los Angeles",
+"Michael Mikane","Senior Building Inspector",133992.62,3777.11,215.32,56124.13,194109.18,2023,"None","Los Angeles",
+"Ted Ries","Senior Building Inspector",132185.44,2285.59,4573.33,54905.54,193949.9,2023,"None","Los Angeles",
+"Dennis J Williams","Senior Building Inspector",123856.0,0.0,3665.0,38578.0,193732.28,2023,"None","Martinez",FT
+"Malcolm Lastrapes","Building/Construction Inspector",135885.0,2303.0,5209.0,50284.0,193681.0,2023,"None","Los Angeles Unified",
+"Nickolas Alaimo","Building Inspector",121704.0,65.0,500.0,42236.0,193395.36,2023,"None","South San Francisco",FT
+"Paul Becker","Senior Building Mechanical Inspector",140978.1,407.61,1020.89,50882.02,193288.62,2023,"None","Los Angeles",
+"Brennon Boone","Building/Np Inspector",117257.7,0.0,2036.39,41219.7,193149.86,2023,"None","Milpitas",FT
+"Horace Fultz","Senior Building Mechanical Inspector",137485.36,2227.1,3443.84,49846.08,193002.38,2023,"None","Los Angeles",
+"Robert Johnson","Building/Np Inspector",127342.76,0.0,2173.93,27807.11,192709.29,2023,"None","Milpitas",FT
+"Anthony D. Anton","Senior Building Inspector",119158.26,495.27,5281.65,33520.61,192504.83,2023,"None","Concord",FT
+"Jose de la Mora","Building/Construction Inspector",135895.0,2012.0,2697.0,51847.0,192451.0,2023,"None","Los Angeles Unified",
+"Michael J Ricci","Senior Building Engineering Inspector",114444.0,15003.0,3702.0,59272.0,192421.0,2023,"None","Los Angeles County",
+"Alfred G Calabro","Senior Building Inspector",120120.16,10655.49,12483.69,38409.3,192382.6,2023,"None","Irvine",FT
+"Gregg Cummings","Building Mechanical Inspector",117185.83,21341.14,4464.33,49243.0,192234.3,2023,"None","Los Angeles",
+"Richard la Bare","Building Inspector, Senior",119931.0,948.0,16311.0,22478.0,192230.27,2023,"None","Newport Beach",FT
+"Stephen M Miller","Building Inspector",121930.0,0.0,480.0,36605.0,192098.71,2023,"None","Hayward",FT
+"Anson Maglasang","Senior Building Mechanical Inspector",137485.36,1689.42,3036.04,49846.08,192056.9,2023,"None","Los Angeles",
+"Manuel Tejada","Building Mechanical Inspector",121700.43,8732.36,6354.46,55165.31,191952.56,2023,"None","Los Angeles",
+"Oscar L Marquez","Principal Building Inspector",114562.0,13083.0,8921.0,55335.0,191901.0,2023,"None","Long Beach",FT
+"John Klarin","Building Mechanical Inspector",124050.22,886.94,7448.09,59352.34,191737.59,2023,"None","Los Angeles",
+"Jonathan Hom","Building Mechanical Inspector",121779.71,12807.88,7007.68,50030.02,191625.29,2023,"None","Los Angeles",
+"Edwin Gregoryona","Building Inspector",118539.21,15810.45,5259.1,51994.49,191603.25,2023,"None","Los Angeles",
+"Marshall Shelton","Building Inspector, Senior",119931.0,0.0,5038.0,33887.0,191495.62,2023,"None","Newport Beach",FT
+"Ernesto Lopez","Building/Construction Inspector",134733.0,5887.0,17.0,50854.0,191491.0,2023,"None","Los Angeles Unified",
+"Vincent Bologna","Building/Construction Inspector",135899.0,3377.0,1028.0,51122.0,191426.0,2023,"None","Los Angeles Unified",
+"John Jordan","Building Inspector - Class I",132099.0,13464.0,9333.0,36127.0,191023.0,2023,"None","Irvine Unified",
+"Alicia Mobley","Building Inspector Ii",118630.62,0.0,8467.45,63743.25,190841.32,2023,"None","Livermore",FT
+"Kevin Woodhouse","Building/Construction Inspector",135901.0,1917.0,1628.0,51281.0,190727.0,2023,"None","Los Angeles Unified",
+"Joseph Losado","Principal Building Inspector",117831.67,0.0,5950.2,66900.54,190682.41,2023,"None","Contra Costa County",
+"Juan Gutierrez","Senior Building Inspector",107312.0,0.0,1901.0,81031.0,190244.0,2023,"None","San Leandro",FT
+"Joseph Rojas","Building Engineering Inspector",110353.0,12818.0,7966.0,58853.0,189990.0,2023,"None","Los Angeles County",
+"Richard Robles","Building Mechanical Inspector",111210.33,21321.79,3743.71,53668.69,189944.52,2023,"None","Los Angeles",
+"Patrick Springer","Senior Building Inspector",138308.0,0.0,2000.0,39582.0,189899.0,2023,"None","Menlo Park",FT
+"Jose Aguilar","Building/Construction Inspector",134837.0,1452.0,2912.0,50659.0,189860.0,2023,"None","Los Angeles Unified",
+"Finn Erik Soren Jensen","Building Inspector Ii",129607.0,1941.0,7660.0,26104.0,189773.76,2023,"None","Fremont",FT
+"Julian Amaya","Senior Building Mechanical Inspector",133992.62,3196.05,3635.24,48810.13,189634.04,2023,"None","Los Angeles",
+"Brian Miller","Building Inspector",119305.89,9612.24,5670.64,54572.45,189161.22,2023,"None","Los Angeles",
+"Brendan Looney","Building Mechanical Inspector",120898.88,7109.01,5820.22,55044.93,188873.04,2023,"None","Los Angeles",
+"Aaron Davie","Building/Construction Inspector",135895.0,0.0,1675.0,51257.0,188827.0,2023,"None","Los Angeles Unified",
+"Danny Rodriguez","Senior Building Inspector",137286.61,2384.96,7931.99,40980.33,188583.89,2023,"None","Los Angeles",
+"Trent Baker","Senior Building Inspector",119340.79,0.0,0.0,34146.24,188543.83,2023,"None","Beverly Hills",
+"David W Huster","Senior Building Inspector",108525.0,0.0,9072.0,55501.0,188416.55,2023,"None","San Jacinto",FT
+"Lawrence A Jeffery","Supvg Building Inspector",121666.91,776.05,124.75,65834.15,188401.86,2023,"None","Orange County",
+"Ryan Rudolph","Principal Building Inspector",128377.6,0.0,4879.66,55055.08,188312.34,2023,"None","Sacramento County",
+"Kenneth Roberts","Building Inspector",120898.88,1703.98,7246.58,58417.65,188267.09,2023,"None","Los Angeles",
+"Bryan Meyer","Building Mechanical Inspector",124050.22,12698.73,5474.09,45954.82,188177.86,2023,"None","Los Angeles",
+"Jacob Stocke","Building/Np Inspector",117479.96,0.0,2074.01,35782.85,188050.0,2023,"None","Milpitas",FT
+"Petersen Michael","Supv Building Inspector",120427.95,0.0,5526.86,62092.17,188046.98,2023,"None","Stanislaus County",FT
+"Bobby L Deherrera","Building Inspector",124015.0,0.0,1440.0,38717.0,187998.15,2023,"None","Los Gatos",FT
+"Antonio V Racanelli","Building Inspector Ii",132988.0,0.0,4709.0,21427.0,187865.93,2023,"None","Mountain View",FT
+"Melanie Kung","Building Inspector",138009.01,0.0,7157.76,42465.49,187632.26,2023,"None","San Francisco",FT
+"John Tchang","Building Mechanical Inspector",119661.0,20263.27,2950.31,44559.37,187433.95,2023,"None","Los Angeles",
+"Grant Woods","Building Inspector",119661.0,7113.83,5822.45,54560.41,187157.69,2023,"None","Los Angeles",
+"Vincent Hanley","Building Mechanical Inspector",120898.88,6247.99,1668.88,58093.17,186908.92,2023,"None","Los Angeles",
+"David Cooks","Building Inspector",125909.31,0.0,0.0,60866.35,186775.66,2023,"None","Redwood City",FT
+"Craig Davis","Senior Building Mechanical Inspector",128562.48,198.75,1421.91,56523.11,186706.25,2023,"None","Los Angeles",
+"Hamik Hartounian","Building Mechanical Inspector",120898.88,4537.99,4114.73,57012.35,186563.95,2023,"None","Los Angeles",
+"Jeffrey Pard","Building Mechanical Inspector",117664.84,11661.44,7463.43,49709.55,186499.26,2023,"None","Los Angeles",
+"Sammy Joseph","Building Inspector",121704.0,593.0,6002.0,27882.0,186370.08,2023,"None","South San Francisco",FT
+"David Myers","Industrial Building Inspector",126150.0,0.0,6394.0,53735.0,186279.0,2023,"None","Richmond",FT
+"James John Crabb","Building Inspector Ii",116422.0,2635.0,7351.0,59750.0,186158.0,2023,"None","Los Angeles County",
+"Robert Hughes","Building Inspector",117723.98,12312.67,4813.8,51298.85,186149.3,2023,"None","Los Angeles",
+"Kurt Haueter","Supv Building Inspector",116386.41,8333.48,9354.02,52054.48,186128.39,2023,"None","Sacramento County",
+"Gabriel Herrera","Building Mechanical Inspector",118913.94,5269.8,7755.84,54131.71,186071.29,2023,"None","Los Angeles",
+"Noal D Grover","Building Inspector",119697.0,190.0,1440.0,41508.0,186058.25,2023,"None","Los Gatos",FT
+"Ismael Caro Tovar","Building Inspector",121930.0,1029.0,0.0,30005.0,186047.71,2023,"None","Hayward",FT
+"Peter Folling","Building Mechanical Inspector",123330.79,179.32,3018.82,59138.95,185667.88,2023,"None","Los Angeles",
+"Paul Davidson","Building Inspector",120898.88,3757.54,2784.12,58093.17,185533.71,2023,"None","Los Angeles",
+"Thomas Woods","Building Mechanical Inspector",117664.84,10859.3,5641.56,51281.31,185447.01,2023,"None","Los Angeles",
+"Eugene Cassidy","Building Mechanical Inspector",119661.0,15202.57,5925.88,44652.97,185442.42,2023,"None","Los Angeles",
+"Craig Vaughan","Building Mechanical Inspector",120531.17,16229.05,5106.54,43542.59,185409.35,2023,"None","Los Angeles",
+"German Rodriguez Mendoza","Building Mechanical Inspector",119057.78,7506.9,5892.58,52812.38,185269.64,2023,"None","Los Angeles",
+"Michael R. Larsen","Building Inspector",108417.25,4496.97,2404.94,38945.77,185127.26,2023,"None","Concord",FT
+"Nancy Lynne Guinn","Senior Building Engineering Inspector",116422.0,4970.0,2928.0,60600.0,184920.0,2023,"None","Los Angeles County",
+"Ryan James Taguines","Building Mechanical Inspector",119661.0,6803.98,463.07,57909.96,184838.01,2023,"None","Los Angeles",
+"Danny Griffin","Senior Combination Building Inspector",125235.0,0.0,1853.0,44123.0,184661.85,2023,"None","Pittsburg",FT
+"Jeffrey Difiore","Building Mechanical Inspector",119661.0,6902.79,3106.54,54677.77,184348.1,2023,"None","Los Angeles",
+"Robert Davis","Building Inspector",120531.17,7852.58,5390.27,50559.71,184333.73,2023,"None","Los Angeles",
+"Cedric McNicol","Building Inspector",122777.0,1081.0,6025.0,23953.0,184303.03,2023,"None","South San Francisco",FT
+"Christophe Leko","Senior Building Mechanical Inspector",133944.18,0.0,1349.03,48795.76,184088.97,2023,"None","Los Angeles",
+"John Kidwell","Building Mechanical Inspector",120898.88,218.47,4344.61,58417.65,183879.61,2023,"None","Los Angeles",
+"Ronald Kidwell","Building Mechanical Inspector",124050.22,0.0,3839.57,55979.62,183869.41,2023,"None","Los Angeles",
+"Andrew Dorso","Building Inspector",120158.24,1747.68,6995.58,54825.25,183726.75,2023,"None","Los Angeles",
+"Christopher Dunton","Building Inspector",149614.64,436.08,3727.2,29931.73,183709.65,2023,"None","Santa Clara County",FT
+"Kevin A Kent","Senior Building Inspector",104181.0,3799.0,1210.0,44868.0,183654.0,2023,"None","Pasadena",FT
+"Richard Dockus","Building Mechanical Inspector",120201.73,0.0,5229.78,58210.87,183642.38,2023,"None","Los Angeles",
+"Freddie Rivera","Building Mechanical Inspector",119412.38,20014.65,6283.93,37880.63,183591.59,2023,"None","Los Angeles",
+"Garth Robertshaw","Principal Building Inspector",119941.6,0.0,5997.12,57624.47,183563.19,2023,"None","Contra Costa County",
+"Mark Visocky","Building Mechanical Inspector",120407.38,6283.56,1853.04,54899.15,183443.13,2023,"None","Los Angeles",
+"Rudolph Trautner","Building Inspector",106421.0,0.0,2063.0,74767.0,183251.0,2023,"None","San Leandro",FT
+"Byron Brashears","Building Mechanical Inspector",120898.88,10486.23,8170.87,43651.65,183207.63,2023,"None","Los Angeles",
+"Dewayne Taylor","Senior Building Inspector",110803.0,0.0,9880.0,62404.0,183087.0,2023,"None","Richmond",FT
+"Patricia Carter","Senior Building Inspector",110803.0,0.0,9815.0,62404.0,183022.0,2023,"None","Richmond",FT
+"Corey Hupp","Building Mechanical Inspector",121562.98,7128.15,3459.81,50865.74,183016.68,2023,"None","Los Angeles",
+"Gordon Zuber","Building Mechanical Inspector",111577.74,14556.75,4078.34,52789.37,183002.2,2023,"None","Los Angeles",
+"Richard Simons","Building Mechanical Inspector",123183.49,717.29,3130.15,55722.54,182753.47,2023,"None","Los Angeles",
+"Angelica L Mejia","Senior Building Engineering Inspector",114479.0,5567.0,3946.0,58400.0,182392.0,2023,"None","Los Angeles County",
+"Miguel Alejandro","Senior Building Engineering Inspector",116422.0,168.0,6756.0,58954.0,182300.0,2023,"None","Los Angeles County",
+"Jeffrey Fulton","Building Inspector",120898.88,131.07,5745.25,55252.05,182027.25,2023,"None","Los Angeles",
+"Rudy Medina","Building Inspector Ii",133577.0,6726.0,7572.0,10206.0,182017.38,2023,"None","Morgan Hill",FT
+"Amy Colin","Building Inspector",107756.87,16892.81,6428.23,50822.53,181900.44,2023,"None","Los Angeles",
+"Joseph Brenek","Building Mechanical Inspector",120770.14,0.0,2702.39,58379.46,181851.99,2023,"None","Los Angeles",
+"Alexander de la Cerda","Senior Building Engineering Inspector",115431.0,1479.0,4090.0,60822.0,181822.0,2023,"None","Los Angeles County",
+"Carl Weaver","Building Inspector",135522.47,45.72,5420.85,40802.86,181791.9,2023,"None","San Francisco",FT
+"Robert Vignalats","Senior Building Inspector",110803.0,0.0,8341.0,62607.0,181751.0,2023,"None","Richmond",FT
+"Duane Johnson","Building Inspector",120898.88,0.0,5699.29,55103.25,181701.42,2023,"None","Los Angeles",
+"James Chavez","Building Mechanical Inspector",106411.6,16074.99,8669.65,50481.84,181638.08,2023,"None","Los Angeles",
+"Michael Lee Orchard","Senior Building Engineering Inspector",116422.0,1611.0,2793.0,60641.0,181467.0,2023,"None","Los Angeles County",
+"Kevin Morgan","Senior Building Inspector",112771.0,517.0,4520.0,15550.0,181308.42,2023,"None","Monterey",FT
+"Troy Sanders","Building Mechanical Inspector",117664.84,1146.44,4970.93,57458.43,181240.64,2023,"None","Los Angeles",
+"Jonathan Chiu","Building Inspector",130864.52,4269.78,7197.49,38781.01,181112.8,2023,"None","San Francisco",FT
+"Matthew Luque","Senior Building Engineering Inspector",115907.0,4507.0,2899.0,57766.0,181079.0,2023,"None","Los Angeles County",
+"Steven Tabor","Senior Building Inspector",119340.83,0.0,0.0,26745.36,181016.69,2023,"None","Beverly Hills",
+"Raul Vasquez","Building Mechanical Inspector",119661.0,8263.57,7978.9,45072.77,180976.24,2023,"None","Los Angeles",
+"David Wayne Pascoe","Senior Building Engineering Inspector",116422.0,8974.0,5521.0,50042.0,180959.0,2023,"None","Los Angeles County",
+"Troy Lillak","Building Inspector",107467.6,0.0,3531.54,38984.39,180947.7,2023,"None","Concord",FT
+"William Racanelli","Senior Building Inspector/Plan Checker",124649.0,380.26,1343.48,36409.3,180867.79,2023,"None","Hillsborough",FT
+"Jose A. Cambero","Building Inspector",108431.26,0.0,7832.99,32675.63,180760.63,2023,"None","Concord",FT
+"Jamey A Thompson","Senior Building Inspector",122561.0,0.0,1741.0,34960.0,180732.85,2023,"None","San Dimas",FT
+"Donald Wong","Senior Building Mechanical Inspector",124998.63,0.0,1666.65,54043.85,180709.13,2023,"None","Los Angeles",
+"Jennifer Rabuchin","Building Mechanical Inspector",119785.31,524.31,5649.68,54714.64,180673.94,2023,"None","Los Angeles",
+"James R Allison","Building Inspector Ii",112291.0,8.0,10144.0,40852.0,180587.26,2023,"None","Tracy",FT
+"Chet Todd","Building Mechanical Inspector",124050.22,0.0,4771.29,51603.46,180424.97,2023,"None","Los Angeles",
+"John Yakubyan","Building Inspector",120898.88,699.09,674.89,58093.17,180366.03,2023,"None","Los Angeles",
+"Timothy William Holden","Senior Building Engineering Inspector",115970.0,6479.0,2336.0,55547.0,180332.0,2023,"None","Los Angeles County",
+"Dawn Louise Melillo","Senior Building Engineering Inspector",112874.0,3986.0,5085.0,58221.0,180166.0,2023,"None","Los Angeles County",
+"Timothy Crowder","Building Mechanical Inspector",119178.11,4818.86,3877.63,52183.99,180058.59,2023,"None","Los Angeles",
+"Russell Bonvouloir","Building Inspector",118416.53,843.75,6370.28,54366.98,179997.54,2023,"None","Los Angeles",
+"Brian Christian","Building Mechanical Inspector",119661.0,349.54,5097.59,54884.89,179993.02,2023,"None","Los Angeles",
+"Dean E Jones","Senior Building Inspector",107242.17,0.0,9898.13,40852.71,179985.86,2023,"None","Santa Cruz",
+"Jose Avila Balbino","Building Mechanical Inspector",106755.15,16657.06,5915.08,50525.42,179852.71,2023,"None","Los Angeles",
+"Chris Francis","Building Inspector",130058.6,0.0,7103.79,42568.0,179730.39,2023,"None","San Francisco",FT
+"Sidney Lau","Building Inspector",129991.1,0.0,7100.06,42556.82,179647.98,2023,"None","San Francisco",FT
+"David Anderson","Building Mechanical Inspector",104878.71,17487.62,5667.65,51514.7,179548.68,2023,"None","Los Angeles",
+"Robert L Luna","Building Inspector",142246.0,1501.0,13910.0,21857.0,179514.0,2023,"None","Campbell",
+"Andrew Beeli","Building Mechanical Inspector",119661.0,0.0,1668.97,58050.49,179380.46,2023,"None","Los Angeles",
+"Emil Opffer","Building Mechanical Inspector",117476.46,6128.88,3613.35,52129.18,179347.87,2023,"None","Los Angeles",
+"William Wren Jr","Building Mechanical Inspector",103381.49,17197.79,10745.43,48006.43,179331.14,2023,"None","Los Angeles",
+"David Scantlin","Building Mechanical Inspector",119646.89,0.0,4765.18,54731.91,179143.98,2023,"None","Los Angeles",
+"Patrick Liebregt","Building Mechanical Inspector",115000.43,7500.96,4444.77,52185.06,179131.22,2023,"None","Los Angeles",
+"John Dodge","Building Inspector",120531.17,13130.84,628.78,44817.47,179108.26,2023,"None","Los Angeles",
+"Ron M Thomas","Building Inspector",117641.0,2049.0,0.0,36924.0,179083.17,2023,"None","Walnut Creek",FT
+"Mark Ferrari","Building Inspector",120158.24,0.0,699.08,58197.97,179055.29,2023,"None","Los Angeles",
+"Dan Chepley","Chief Building Inspector/Plan Check",109009.0,0.0,12251.0,38454.0,179001.83,2023,"None","Carpinteria",FT
+"Enrique Preza","Building Mechanical Inspector",119722.87,0.0,4580.05,54696.12,178999.04,2023,"None","Los Angeles",
+"Christophe Christensen","Building Mechanical Inspector",117185.83,3875.03,5928.14,51932.68,178921.68,2023,"None","Los Angeles",
+"Ricardo Garcilazo Cortes","Senior Building Inspector",108445.68,18134.32,7818.67,34782.28,178919.44,2023,"None","Irvine",FT
+"William Joseph Trujillo","Senior Building Engineering Inspector",114185.0,7827.0,4096.0,52798.0,178906.0,2023,"None","Los Angeles County",
+"Don V Myrah","Building Inspector",143792.0,2.0,2310.0,32788.0,178892.0,2023,"None","Campbell",
+"Richard A Farinella","Senior Building Inspector",120120.09,0.0,3193.42,44857.86,178885.33,2023,"None","Irvine",FT
+"Lusine Aivazian","Senior Building Engineering Inspector",115937.0,0.0,2844.0,59869.0,178650.0,2023,"None","Los Angeles County",
+"Byron Fuentes","Building Inspector",120898.88,12220.12,586.47,44926.53,178632.0,2023,"None","Los Angeles",
+"Anthony Egson","Building Mechanical Inspector",109504.27,23024.0,6014.45,39947.53,178490.25,2023,"None","Los Angeles",
+"Stuart Byles","Building Mechanical Inspector",119661.0,0.0,4553.35,54242.89,178457.24,2023,"None","Los Angeles",
+"Emil Alexandrian","Building Mechanical Inspector",119785.31,0.0,3878.77,54772.96,178437.04,2023,"None","Los Angeles",
+"Samuel Portillo","Senior Building Mechanical Inspector",99917.27,417.71,34743.89,43230.36,178309.23,2023,"None","Los Angeles",
+"Johnny Miranda","Building Mechanical Inspector",119661.0,172.44,5364.7,52991.29,178189.43,2023,"None","Los Angeles",
+"Charles Michael Richardson","Senior Building Engineering Inspector",111659.0,8566.0,2473.0,55427.0,178125.0,2023,"None","Los Angeles County",
+"Jose M Jacobo","Building Inspector I",102970.0,0.0,9665.0,40265.0,178025.51,2023,"None","Gilroy",FT
+"Peter Ellis","Sr Building Inspector",114198.92,0.0,2854.97,60896.49,177950.38,2023,"None","Contra Costa County",
+"Conrad Fromme","Sr Building Inspector",114198.92,0.0,2854.97,60896.49,177950.38,2023,"None","Contra Costa County",
+"Kenneth Samsel","Sr Building Inspector",114198.92,0.0,2854.97,60896.49,177950.38,2023,"None","Contra Costa County",
+"Andreas Munyon","Supv Building Inspector",116386.47,0.0,9334.98,52054.48,177775.93,2023,"None","Sacramento County",
+"David Nicely","Building/Construction Inspector",118673.0,4341.0,8494.0,46182.0,177690.0,2023,"None","Los Angeles Unified",
+"Keith Edghill","Building Mechanical Inspector",119661.0,0.0,4834.1,52991.29,177486.39,2023,"None","Los Angeles",
+"Robert Cornell","Building Mechanical Inspector",119661.0,5683.16,519.0,51548.89,177412.05,2023,"None","Los Angeles",
+"Kim Doepping","Building Mechanical Inspector",117256.86,0.0,2707.85,57337.42,177302.13,2023,"None","Los Angeles",
+"Alejandro Martinez","Senior Building Inspector",99799.0,307.0,20491.0,39466.68,177253.72,2023,"None","Yorba Linda",FT
+"Gilbert Lam","Building Inspector",129583.5,0.0,5438.87,42201.47,177223.84,2023,"None","San Francisco",FT
+"Tennyson A D\&#39;Sena","Building Inspector Iii",119625.0,4305.0,7435.0,45848.0,177213.0,2023,"None","Los Angeles County",
+"Brett C Jensen","Building Inspector Iii",105203.0,13796.0,3301.0,28984.0,177013.08,2023,"None","Anaheim",FT
+"Darryl L Wilhite","Senior Building Engineering Inspector",116422.0,0.0,5541.0,54928.0,176891.0,2023,"None","Los Angeles County",
+"Mark Dovico","Building Mechanical Inspector",119785.31,699.09,6046.93,50338.48,176869.81,2023,"None","Los Angeles",
+"Mike J Wiens","Building Inspector",117641.0,0.0,0.0,35088.0,176749.07,2023,"None","Walnut Creek",FT
+"Trinidad Torres","Sr. Building Inspector",105787.41,3.1,933.62,69906.31,176630.44,2023,"None","Orange County",
+"Wayne Eastman","Principal Building Inspector",118268.0,0.0,6214.12,51937.14,176419.26,2023,"None","Sacramento County",
+"Marcos A Lloren","Building Inspector I",106321.54,0.0,5942.11,38064.11,176393.23,2023,"None","Burlingame",FT
+"Salim Shah","Building Inspector",134740.97,1041.15,0.0,40490.05,176272.17,2023,"None","San Francisco County Office of Education-San Francisco Unified",
+"Sean Birmingham","Building Inspector",134855.11,0.0,1345.64,40026.97,176227.72,2023,"None","San Francisco",FT
+"Juan Picasso","Senior Building Inspector",98745.61,0.0,6281.81,71162.25,176189.67,2023,"None","Chino Hills",FT
+"David Branum","Senior Building Inspector",134905.0,0.0,0.0,41284.0,176189.0,2023,"None","Sunnyvale",FT
+"Javier Ramos","Building Mechanical Inspector",119268.17,0.0,3153.0,53761.83,176183.0,2023,"None","Los Angeles",
+"Matthew Nelson","Building Mechanical Inspector",118589.28,2010.6,4001.71,51555.5,176157.09,2023,"None","Los Angeles",
+"Nicholas Lo Buglio","Building Inspector",132880.0,0.0,1230.07,42011.72,176121.79,2023,"None","San Francisco",FT
+"Jason H Liao","Senior Building Inspector",102581.0,2644.0,2290.0,38966.0,175949.09,2023,"None","Pasadena",FT
+"Timothy Powell","Building Inspector",113801.8,3058.42,6098.73,52939.93,175898.88,2023,"None","Los Angeles",
+"Mark D. Perkins","Building Inspector I",105234.17,2149.22,797.54,38064.65,175827.03,2023,"None","Costa Mesa",
+"Enrique Argumedo","Building Inspector",129801.6,0.0,3894.02,41980.17,175675.79,2023,"None","San Francisco",FT
+"Cheyne Lipfert","Associate Building/Construction Inspector",104762.0,22997.0,4245.0,43622.0,175626.0,2023,"None","Los Angeles Unified",
+"Kirk Linklater","Senior Building Mechanical Inspector",90696.86,11069.14,34665.1,39191.72,175622.82,2023,"None","Los Angeles",
+"Jonathan Quach","Building Inspector",119661.0,10329.89,975.93,44559.37,175526.19,2023,"None","Los Angeles",
+"Jack Kargodorian","Building Mechanical Inspector",120898.88,85.67,3761.63,50668.77,175414.95,2023,"None","Los Angeles",
+"James J Agosto","Senior Building Inspector",119918.44,13149.28,7352.74,24219.1,175335.95,2023,"None","Irvine",FT
+"Jesse Chen","Building Mechanical Inspector",119661.0,436.94,519.0,54677.77,175294.71,2023,"None","Los Angeles",
+"Jeffrey M McIver","Supvg Building Inspector",90860.44,1172.24,26380.87,56863.7,175277.25,2023,"None","Orange County",
+"Katy Martinez Ramirez","Building Inspector",120158.24,1319.5,3236.52,50449.09,175163.35,2023,"None","Los Angeles",
+"David Feiler","Senior Building Mechanical Inspector",117512.84,19312.21,3116.25,35126.89,175068.19,2023,"None","Los Angeles",
+"John Stephens","Building Mechanical Inspector",117344.53,0.0,5343.87,52304.23,174992.63,2023,"None","Los Angeles",
+"Leo Milbauer","Building Mechanical Inspector",120898.88,0.0,3403.76,50668.77,174971.41,2023,"None","Los Angeles",
+"Serafino N Perrone","Building Inspector Ii",102532.65,0.0,1412.84,46513.09,174935.23,2023,"None","Burlingame",FT
+"Steve P Moncur","Building Inspector Ii",105644.0,682.0,11399.0,40372.0,174933.51,2023,"None","Tracy",FT
+"Jason Summers","Senior Building Inspector",118550.18,774.79,1177.6,54406.62,174909.19,2023,"None","Los Angeles",
+"David Lee","Building Mechanical Inspector",124050.22,0.0,5294.45,45536.74,174881.41,2023,"None","Los Angeles",
+"Jon R Holmblad","Senior Building Inspector",118783.3,6048.39,8767.47,30670.08,174865.62,2023,"None","Irvine",FT
+"Shain A Niven","Building Inspector Ii",109359.0,996.0,7655.0,40272.0,174838.39,2023,"None","Tracy",FT
+"Philip Saunders","Building Inspector",144480.2,6.59,4334.33,25983.06,174804.18,2023,"None","San Francisco",FT
+"Michael Crofts","Senior Building Inspector",114737.33,0.0,0.0,26232.0,174727.51,2023,"None","Beverly Hills",
+"Thomas Finnila","Building Mechanical Inspector",118178.92,655.41,5649.37,49862.03,174345.73,2023,"None","Los Angeles",
+"William Tuman","Building Inspector Ii",111555.0,2275.0,-2528.0,33836.0,174333.18,2023,"None","Newport Beach",FT
+"Al Gamble","Building Inspector",118999.26,1958.51,3168.6,50105.34,174231.71,2023,"None","Los Angeles",
+"Christophe Key","Building Mechanical Inspector",118886.34,1398.15,3955.55,49747.37,173987.41,2023,"None","Los Angeles",
+"James D Olson","Building Inspector Ii",130632.0,0.0,3488.0,12055.0,173941.76,2023,"None","Mountain View",FT
+"Aaron Scherbenske","Principal Building Inspector",119004.07,685.73,8089.83,45917.68,173697.31,2023,"None","Contra Costa County",
+"Michael Rosenberg","Building Inspector",120898.88,0.0,754.31,51916.05,173569.24,2023,"None","Los Angeles",
+"Diane Belair","Building Inspector",103331.72,0.0,12503.24,57631.45,173466.41,2023,"None","Garden Grove",FT
+"Daniel Pease","Building Inspector Ii",122004.0,354.0,2000.0,38519.0,173266.57,2023,"None","Menlo Park",FT
+"Aaron L. Thompson","Building Inspector I",105234.0,56.52,0.0,38071.41,172967.08,2023,"None","Costa Mesa",
+"Ramazanali Almasi","Building Inspector",108035.0,5358.37,5278.92,54277.74,172950.03,2023,"None","Los Angeles",
+"Sabas Alonso","Building Mechanical Inspector",104603.0,12551.63,5196.1,50418.69,172769.42,2023,"None","Los Angeles",
+"Robert Key","Building Mechanical Inspector",110847.57,5276.06,4451.76,51797.55,172372.94,2023,"None","Los Angeles",
+"Gregory Eastwood","Sr Building Inspector",114198.92,0.0,1742.56,56182.94,172124.42,2023,"None","Contra Costa County",
+"Aram Avedisian","Building Mechanical Inspector",113390.66,125.9,5742.48,52817.99,172077.03,2023,"None","Los Angeles",
+"Peter C Mikelson","Sr Building Inspector Speclty",107657.67,0.0,1851.33,33953.92,172041.31,2023,"None","Santa Barbara",FT
+"Leticia Torres","Building Engineering Inspector",109816.0,9559.0,6489.0,46169.0,172033.0,2023,"None","Los Angeles County",
+"Steven Sargent","Building Inspector",99496.0,0.0,491.0,71803.0,171790.0,2023,"None","San Leandro",FT
+"Sorin Cirstoiu","Building Inspector",119204.3,4665.64,3708.21,44193.04,171771.19,2023,"None","Los Angeles",
+"Hector Rodriguez","Building Mechanical Inspector",120955.14,0.0,5862.05,44943.21,171760.4,2023,"None","Los Angeles",
+"Vincent Caballero","Building Inspector Ii",112265.0,0.0,2747.0,28689.0,171590.83,2023,"None","Napa",FT
+"Neville Reid","Building Mechanical Inspector",120898.88,174.77,5361.36,44926.53,171361.54,2023,"None","Los Angeles",
+"Geoff H Weatherilt","Principal Building Inspector",116122.0,0.0,4925.0,50197.0,171244.0,2023,"None","Long Beach",FT
+"Mark S Hoagland","Senior Building Engineering Inspector",116422.0,2016.0,2818.0,49952.0,171208.0,2023,"None","Los Angeles County",
+"Darryl Arnold","Building Inspector",117968.69,3582.02,5869.44,43732.95,171153.1,2023,"None","Los Angeles",
+"Victor Moguel","Building/Construction Inspector",107928.0,15.0,21940.0,41150.0,171033.0,2023,"None","Los Angeles Unified",
+"Brendan Morelli","Building Mechanical Inspector",102181.6,9278.44,6569.02,52866.1,170895.16,2023,"None","Los Angeles",
+"Apil Sezenol","Building Inspector",75880.0,602.0,3193.0,59075.0,170736.89,2023,"None","Norco",FT
+"Sergio Leyva","Senior Combo Building Inspector",117624.34,13991.29,2819.83,35931.49,170714.11,2023,"None","Ontario",FT
+"Tam T Trac","Sr. Building Inspector",102360.11,0.0,1642.3,66657.28,170659.69,2023,"None","Orange County",
+"Fadi H Copti","Building Engineering Inspector",104455.0,0.0,9757.0,56276.0,170488.0,2023,"None","Los Angeles County",
+"Paul Hodge","Sr Building Inspector",114198.92,0.0,0.0,56182.94,170381.86,2023,"None","Contra Costa County",
+"James Edwards","Supervisor Building Inspector/Plans Examiner",101898.0,0.0,1441.0,66682.0,170021.0,2023,"None","Nevada County",FT
+"Rene Gastinell","Sr. Building Inspector",105787.4,124.43,1294.02,62812.6,170018.45,2023,"None","Orange County",
+"William Kuehn","Building Mechanical Inspector",124050.22,0.0,260.0,45630.34,169940.56,2023,"None","Los Angeles",
+"Richard Campbell","Building Inspector 2 Rng A",103324.01,4157.79,16959.55,45467.28,169908.63,2023,"None","Sacramento County",
+"Donovan Doyon","Building Inspector 2 Rng A",103324.01,1860.99,14450.0,50252.17,169887.17,2023,"None","Sacramento County",
+"Jeffrey Bull","Building Mechanical Inspector",104878.71,9298.09,5350.98,50293.35,169821.13,2023,"None","Los Angeles",
+"Kirk Sanders","Building Mechanical Inspector",106720.34,5278.32,3565.34,54212.29,169776.29,2023,"None","Los Angeles",
+"Matthew Shih","Building/Np Inspector",112098.74,0.0,1120.71,25322.44,169773.9,2023,"None","Milpitas",FT
+"Dean A Stalder","Building Inspector - Senior",106486.0,0.0,0.0,63223.0,169709.0,2023,"None","Placer County",FT
+"Bruce Campbell","Building Inspector",118958.67,1155.7,5232.94,44351.06,169698.37,2023,"None","Los Angeles",
+"Mark R. Varnes","Senior Building Engineering Inspector",116422.0,6776.0,4242.0,42239.0,169679.0,2023,"None","Los Angeles County",
+"Andrew Nave","Building Mechanical Inspector",115373.36,4982.64,842.94,48412.81,169611.75,2023,"None","Los Angeles",
+"Ross Lovato","Supervising Building Inspector",96757.0,20019.0,1080.0,33868.0,169572.86,2023,"None","Sacramento",FT
+"Robert Daniel Hoatson","Principal Building Inspector",113074.0,0.0,11546.0,25799.0,169521.8,2023,"None","Sacramento",FT
+"John B Briel","Building Inspector Ii",118090.41,6745.92,0.0,44443.23,169279.56,2023,"None","San Mateo County",
+"Jeffery Stemmerding","Senior Building Inspector",138938.0,0.0,0.0,30287.0,169225.0,2023,"None","Sunnyvale",FT
+"Alizah Mayagoitia","Building Mechanical Inspector",100272.08,19753.19,6630.53,42415.67,169071.47,2023,"None","Los Angeles",
+"Robert P. Snook","Senior Combo Building Inspector",98196.44,33782.19,3214.24,33565.85,169038.23,2023,"None","Ontario",FT
+"Michael Faulkner","Building Inspector",127374.54,710.88,0.0,40875.1,168960.52,2023,"None","San Francisco",FT
+"Luis A Teixeira","Sr Building Inspector",88803.62,10142.51,15736.89,28136.76,168636.79,2023,"None","Upland",FT
+"Toby Brenton","Building Inspector",119972.18,127.04,50.0,39753.59,168482.59,2023,"None","Saratoga",FT
+"Ashkan Mobed","Building/Construction Inspector",119944.0,388.0,1047.0,47076.0,168455.0,2023,"None","Los Angeles Unified",
+"Robert Clayton","Senior Building Inspector",96459.77,571.15,4823.04,66185.63,168416.39,2023,"None","San Joaquin County",FT
+"Michael B Rubin","Sr Building Inspector Speclty",107657.68,2355.66,4003.47,25641.81,168237.01,2023,"None","Santa Barbara",FT
+"Craig R. Frick","Building Inspector Ii",96395.0,0.0,20431.0,23977.0,168182.0,2023,"None","Moreno Valley",FT
+"Diego Salinas","Building Engineering Inspector",104455.0,10850.0,2893.0,49949.0,168147.0,2023,"None","Los Angeles County",
+"Tim Nakashima","Senior Building Inspector",121183.0,0.0,0.0,38126.0,168071.11,2023,"None","Brentwood",FT
+"Shaun Decker","Sr Building Inspector",96454.0,1423.0,0.0,45901.0,168069.1,2023,"None","Vista",FT
+"Douglas R Bragg","Senior Building Inspector",75753.0,15592.0,18310.0,33705.0,167948.34,2023,"None","Rialto",FT
+"Javier Ramos Jr","Building Mechanical Inspector",113930.77,5645.93,5492.18,42859.79,167928.67,2023,"None","Los Angeles",
+"Timothy G Jones","Building Inspector Ii",80998.87,14851.36,19032.56,28984.49,167797.04,2023,"None","Upland",FT
+"David Lucero","Building Inspector",104922.0,0.0,731.0,61816.0,167469.0,2023,"None","San Leandro",FT
+"Mark Lambermont","Building Inspector Supervisor",101759.24,0.0,6393.39,59203.42,167356.05,2023,"None","Palm Springs",FT
+"Brucker Donald Albert","Supervising Building Inspector-C",90827.0,8063.0,1876.0,66585.0,167351.0,2023,"None","Kern County",FT
+"Frank Bernardo","Building/Construction Inspector",119747.0,1078.0,1661.0,44850.0,167336.0,2023,"None","Los Angeles Unified",
+"William Cardwell","Building/Code Compliance Inspector",109771.0,0.0,798.0,34581.0,167318.41,2023,"None","Union City",FT
+"Steven K Adcock","Building Inspector - Supervising",117364.0,0.0,0.0,49821.0,167185.0,2023,"None","Placer County",FT
+"Tony la","Building Engineering Inspector",104289.0,0.0,4990.0,57759.0,167038.0,2023,"None","Los Angeles County",
+"Paul Matthews","Building Inspector",126317.0,0.0,0.0,40682.53,166999.53,2023,"None","San Francisco",FT
+"Kris L Anderson","Building Inspector Iii",99330.0,0.0,3225.0,26999.0,166928.87,2023,"None","Anaheim",FT
+"Alfredo Lopez","Building Inspector",114596.08,3035.1,6129.63,43150.72,166911.53,2023,"None","Los Angeles",
+"Sean P King","Senior Building Inspector",108801.12,7432.81,16581.84,24272.74,166839.03,2023,"None","Irvine",FT
+"Mark Stephan","Building Inspector 2 Rng A",103324.03,0.0,13948.74,49275.89,166548.66,2023,"None","Sacramento County",
+"Gregg Gallegos","Chief Building Inspector",136210.0,0.0,840.0,15931.0,166393.49,2023,"None","Dana Point",
+"Derek Redmond","Sr Building Inspector",113080.45,162.65,500.0,27555.51,166239.65,2023,"None","Santa Rosa",
+"Jared W Moye","Building Inspector Ii",92198.0,4341.0,2283.0,33600.0,166228.95,2023,"None","Anaheim",FT
+"Daniel Lee Cole","Senior Building Engineering Inspector",109685.0,0.0,4095.0,52409.0,166189.0,2023,"None","Los Angeles County",
+"Bruno M. Bomis","Building Inspector Ii",99512.0,1557.13,0.0,37021.42,166154.26,2023,"None","Costa Mesa",
+"Juanelda Johnson","Building Inspector",120531.17,0.0,746.7,44817.47,166095.34,2023,"None","Los Angeles",
+"David Lara Araiza","Building Inspector",125493.45,0.0,0.0,40426.25,165919.7,2023,"None","San Francisco",FT
+"Genaro Muniz","Building Inspector Ii",101837.0,0.0,14638.0,45560.42,165851.41,2023,"None","Belvedere",FT
+"Tyler Everet Simpson","Building Inspector Ii",111022.0,1244.0,0.0,53497.0,165763.0,2023,"None","Alameda County",FT
+"John M Lynch","Sr Building Inspector",116940.0,2028.0,0.0,31211.05,165761.76,2023,"None","Laguna Beach",
+"Nicholas McBurney","Supervisor Building Inspector/Plans Examiner",99411.0,0.0,333.0,65844.0,165588.0,2023,"None","Nevada County",FT
+"Ronald Jimenez","Building Inspector",107342.48,3360.11,5827.82,49013.14,165543.55,2023,"None","Los Angeles",
+"Daniel Luna","Building Inspector 2",128550.0,0.0,0.0,36891.0,165441.0,2023,"None","Sunnyvale",FT
+"Van Leung","Building Inspector 2 Rng A",103226.6,0.0,17685.06,44529.07,165440.73,2023,"None","Sacramento County",
+"Deriek Clemmons","Building Inspector 2",128511.0,0.0,0.0,36891.0,165402.0,2023,"None","Sunnyvale",FT
+"Michael Anthony Bernino","Principal Building Inspector",106876.0,0.0,1200.0,37733.0,165355.69,2023,"None","Sacramento",FT
+"Christopher Koelbel","Building Inspector 2",128860.0,0.0,0.0,36172.0,165032.0,2023,"None","Sunnyvale",FT
+"Richard Donald Heins","Supervising Building Inspector",97138.0,19496.0,2160.0,28515.0,164962.68,2023,"None","Sacramento",FT
+"Kyle Moore","Building Inspector I",110916.0,264.0,0.0,53697.0,164877.0,2023,"None","Newark",FT
+"Zachary Coan","Senior Combination Building Inspector",107158.0,0.0,0.0,45018.0,164778.99,2023,"None","Pittsburg",FT
+"Robert M. | Monteith Monteith Matt M.","Supervising Building Inspector",134377.15,0.0,8473.33,21520.16,164728.05,2023,"None","Ontario",FT
+"Ruben Flores","Senior Building Inspector",99099.0,0.0,0.0,52522.0,164714.69,2023,"None","Calabasas",FT
+"Howard Jonokuchi","Building Inspector Ii",108038.58,0.0,0.0,25938.96,164477.9,2023,"None","Beverly Hills",
+"Thomas Lograsso","Building Mechanical Inspector",110761.77,7798.27,4243.4,41595.38,164398.82,2023,"None","Los Angeles",
+"James Reeves","Building Inspector 2 Rng A",103324.0,7297.51,5671.89,48017.49,164310.89,2023,"None","Sacramento County",
+"Paul Clary","Senior Building Inspector",123265.0,4665.0,2244.0,34080.13,164254.13,2023,"None","Marin County",FT
+"Shautsu Sun-Stephan","Principal Building Inspector",112840.0,333.0,1670.0,49399.0,164242.0,2023,"None","Long Beach",FT
+"Robert Pina","Building Inspector",99246.48,3993.35,12137.66,48829.95,164207.44,2023,"None","Los Angeles",
+"Michael Lewis","Building Mechanical Inspector",108860.28,12337.66,1957.21,41031.4,164186.55,2023,"None","Los Angeles",
+"James L Weber","Building Inspector - Senior",101390.0,0.0,0.0,62757.0,164147.0,2023,"None","Placer County",FT
+"Mary Mc Kay","Building Inspector Ii",115867.0,0.0,2713.0,24719.0,164098.94,2023,"None","San Mateo",FT
+"Nelson Gonzalez","Building Engineering Inspector",98251.0,13020.0,914.0,51857.0,164042.0,2023,"None","Los Angeles County",
+"Andrew A Meza","Building Inspector",91299.0,3237.0,1210.0,42353.0,164035.31,2023,"None","Pasadena",FT
+"Marco Vela","Building Inspector",92777.91,150.48,10632.21,60307.48,163868.08,2023,"None","Palm Springs",FT
+"Howard Williams","Building Inspector Supervisor",128113.38,0.0,5727.43,22895.13,163865.71,2023,"None","Rancho Cordova",FT
+"Kenneth Arthur Olszowy","Building Engineering Inspector",104455.0,2424.0,2893.0,53890.0,163662.0,2023,"None","Los Angeles County",
+"Rodney Booth","Senior Building Inspector",106393.6,3374.44,14574.36,24369.18,163586.26,2023,"None","Tustin",FT
+"Lorena Lopez-Gonzalez","Building Inspector Ii",116617.0,691.0,9381.0,14230.0,163313.75,2023,"None","Fremont",FT
+"Daniel Kulda","Building Inspector Ii",122348.36,0.0,9283.6,23400.89,163227.06,2023,"None","San Carlos",FT
+"Wojciech A Debies","Building Inspector",117641.0,894.0,0.0,22192.0,163196.17,2023,"None","Walnut Creek",FT
+"Casey C Murphy","Building Inspector Ii",95548.12,11233.41,6479.54,41276.96,163072.74,2023,"None","Irvine",FT
+"Kari A Pantana","Building Engineering Inspector",104455.0,0.0,4086.0,54491.0,163032.0,2023,"None","Los Angeles County",
+"Liliana Portillo","Building Inspector",106933.32,16276.19,7777.98,32027.94,163015.43,2023,"None","Los Angeles",
+"Juan J Martinez","Building Inspector Ii",106038.4,25233.23,7924.38,14183.12,162841.95,2023,"None","Irvine",FT
+"Jackson Michael Ray","Building Inspector Specialist-C",90827.0,6811.0,1166.0,63976.0,162780.0,2023,"None","Kern County",FT
+"Michal Maretta","Senior Building Inspector",100037.67,174.79,1541.7,60988.11,162742.27,2023,"None","Big Bear Lake",FT
+"Ezequiel Rincon-Hernandez","Senior Combination Building Inspector",104081.0,1099.0,4260.0,53272.0,162712.0,2023,"None","Long Beach",FT
+"Michael Riley","Building Inspector 2 Rng B",103324.0,4721.85,10087.9,44551.2,162684.95,2023,"None","Sacramento County",
+"Douglas Lee","Building Inspector Ii",111760.0,7472.0,1000.0,42410.82,162642.82,2023,"None","Marin County",FT
+"Bryan S Warriner","Building Inspector Ii",105971.24,1299.99,2905.08,42972.8,162606.21,2023,"None","Irvine",FT
+"Daniel O Barbosa","Building Inspector Ii",105834.49,10670.72,7544.12,29009.82,162556.22,2023,"None","Irvine",FT
+"Esteban F Salcedo","Building Inspector",97100.0,0.0,3563.0,61823.0,162486.0,2023,"None","San Juan Capistrano",FT
+"Matthew Webster","Sr Building Inspector",114198.92,0.0,0.0,48283.59,162482.51,2023,"None","Contra Costa County",
+"Ryan Barnes","Building Mechanical Inspector",119661.0,0.0,7111.26,35692.81,162465.07,2023,"None","Los Angeles",
+"Scott Peterson","Building Inspector Ii",86390.17,0.0,6479.26,35391.99,162408.65,2023,"None","Davis",FT
+"Paul Kukulka","Supv Building Inspector",108851.21,733.5,6106.24,46702.57,162393.52,2023,"None","Sacramento County",
+"Bryan Wong","Building Inspector",93723.0,812.0,1305.0,41045.0,162237.18,2023,"None","San Bruno",FT
+"William Chavez","Senior Building Inspector",104148.65,3914.15,0.0,54138.23,162201.03,2023,"None","Norwalk",FT
+"James Green","Building Inspector 2 Rng A",103324.01,0.0,9747.02,49051.25,162122.28,2023,"None","Sacramento County",
+"Manases L Defiesta","Building Inspector",111397.84,0.0,12038.18,38503.86,161939.88,2023,"None","Daly City",FT
+"Josiah J Morales","Senior Building Engineering Inspector",114479.0,1081.0,2882.0,43472.0,161914.0,2023,"None","Los Angeles County",
+"Eric T Dreesman","Senior Building Inspector",93947.0,0.0,13297.4,54440.32,161684.72,2023,"None","Foster City",PT
+"William Forsythe","Building Inspector",97096.0,623.0,2479.0,61450.0,161648.0,2023,"None","San Juan Capistrano",FT
+"Glen Rand","Building Mechanical Inspector",119647.11,0.0,6185.37,35748.45,161580.93,2023,"None","Los Angeles",
+"Marc Joseph Busig","Supervising Building Inspector",96222.0,20085.0,360.0,27963.0,161506.44,2023,"None","Sacramento",FT
+"Richard T Angley","Sr Building Inspector",92123.0,0.0,4606.0,64680.0,161409.0,2023,"None","Mendocino County",FT
+"Ryan N Hitchcock","Building Inspector Supervisor",114170.0,614.0,12261.0,34039.0,161345.98,2023,"None","Shafter",FT
+"Beverly Ann McNicholl","Principal Building Inspector",115322.0,0.0,4925.0,40991.0,161238.0,2023,"None","Long Beach",FT
+"Steven Jaramillo","Building Inspector",79536.0,0.0,27769.0,29410.0,161233.1,2023,"None","Rialto",FT
+"William Rose","Building Mechanical Inspector",120898.88,1835.1,1946.7,36494.61,161175.29,2023,"None","Los Angeles",
+"Kurt R Armstrong","Building Inspector Ii",75699.0,9980.0,16636.0,31110.0,161094.06,2023,"None","Anaheim",FT
+"Dan Fotos","Building Inspector 2 Rng A",103324.03,0.0,12290.64,45467.28,161081.95,2023,"None","Sacramento County",
+"Christopher Benjamin Oberle","Senior Building Engineering Inspector",116422.0,0.0,5460.0,39162.0,161044.0,2023,"None","Los Angeles County",
+"Gilbert Campos","Associate Building/Construction Inspector",105144.0,2008.0,5030.0,48675.0,160857.0,2023,"None","Los Angeles Unified",
+"Michael McCafferty","Supervising Building Inspector",104837.41,22345.98,0.0,21709.59,160787.23,2023,"None","Riverside County",FT
+"Derek Ralston Maloit","Building Engineering Inspector",104455.0,0.0,4582.0,51716.0,160753.0,2023,"None","Los Angeles County",
+"Johannes Byl","Building Inspector Ii",99174.41,4376.88,6164.4,42074.6,160649.41,2023,"None","Irvine",FT
+"Philip Hawk","Building Inspector 2 Rng A",103324.0,0.0,11821.49,45467.29,160612.78,2023,"None","Sacramento County",
+"David Nobert","Building Inspector Ii",96797.6,0.0,4861.7,34788.98,160572.36,2023,"None","Roseville",FT
+"Arthur Bogart Cosley","Principal Building Inspector",109594.0,0.0,0.0,31952.0,160557.26,2023,"None","Sacramento",FT
+"Charles R Strong","Supervising Building Inspector",116927.2,0.0,860.76,32498.13,160518.06,2023,"None","Santa Clarita",FT
+"Larry Tolson","Principal Building Inspector",114601.65,0.0,2865.04,42984.65,160451.34,2023,"None","Contra Costa County",
+"Andreas Theisen","Building Inspector - Supervising",108013.0,0.0,0.0,52414.0,160427.0,2023,"None","Placer County",FT
+"William Liu","Building Engineering Inspector",104455.0,616.0,4105.0,51090.0,160266.0,2023,"None","Los Angeles County",
+"Reggie L. Plowman","Senior Building Inspector",98439.0,271.0,10647.0,23484.0,160209.0,2023,"None","Moreno Valley",FT
+"Joel Rushing","Senior Building Inspector",101154.07,71.61,0.0,35173.88,160197.55,2023,"None","Roseville",FT
+"Timothy Walter Walton","Building Engineering Inspector",104455.0,1409.0,2859.0,51123.0,159846.0,2023,"None","Los Angeles County",
+"Nicholas A Brown","Building Inspector Ii",100064.0,0.0,520.0,45225.0,159721.27,2023,"None","Albany",
+"Jacob V Gonzales","Building Inspector Ii",105328.14,0.0,2154.09,27409.79,159706.72,2023,"None","Burlingame",FT
+"Meghan Pap","Chief Building Inspector",90703.0,0.0,11152.0,32826.0,159685.98,2023,"None","Santa Maria",FT
+"John Yonker","Building Inspector Ii",101001.0,0.0,14718.0,43921.0,159640.0,2023,"None","Temecula",FT
+"Jason Merrill","Building Inspector 2 Rng B",103324.0,1840.53,8925.72,45467.27,159557.52,2023,"None","Sacramento County",
+"Farshid Asaddehghan","Building Inspector Ii",117183.74,629.36,1288.86,40455.01,159556.97,2023,"None","San Mateo County",
+"Alan Morelos Aguilar","Building Inspector",110760.15,2279.29,4855.44,41594.9,159489.78,2023,"None","Los Angeles",
+"Rhonda Parkhurst","Senior Building Inspector",93283.0,2805.76,13766.13,49515.86,159370.75,2023,"None","Palo Alto",
+"Jerome Blackwood","Building Inspector",98934.41,3611.07,5169.89,51578.51,159293.88,2023,"None","Los Angeles",
+"Bruce R Freeman","Building Inspector",86725.0,2549.0,41575.0,13685.92,159271.9,2023,"None","Yorba Linda",FT
+"Tyler Frazee","Building Inspector 2 Rng A",103324.02,0.0,10420.04,45467.28,159211.34,2023,"None","Sacramento County",
+"Keith Allen Flacks","Senior Combination Building Inspector",102105.0,3962.0,1325.0,51816.0,159208.0,2023,"None","Long Beach",FT
+"Grigoriy Khomich","Building Inspector 2 Rng B",103324.03,1142.52,9229.28,45467.28,159163.11,2023,"None","Sacramento County",
+"John M. le Vey Jr.","Sr Building Inspector",96317.0,0.0,2880.0,23469.0,159079.0,2023,"None","Escondido",FT
+"Andrew A Valle","Sr. Building Inspector",89255.12,5008.76,918.0,63880.65,159062.53,2023,"None","Orange County",
+"Timothy S Christensen","Senior Building Inspector",102641.44,658.56,2157.71,42506.2,158981.45,2023,"None","Monterey County",
+"Charles Mendenhall","Supervising Building Inspector",95847.44,0.0,3343.9,59780.66,158972.0,2023,"None","Merced County",FT
+"Hugh Thomas Davis","Building Inspector",104922.54,0.0,1850.32,22293.53,158951.52,2023,"None","Concord",FT
+"Gabriel Gonzalez Jr","Building Inspector Iii",75543.0,873.0,24737.0,34044.0,158940.22,2023,"None","Burbank",FT
+"David Harman","Senior Building Inspector",87582.0,2790.0,7875.0,32134.0,158870.06,2023,"None","Manteca",FT
+"Galina Ganeva","Building Inspector Ii",111152.0,615.0,1000.0,46084.92,158851.92,2023,"None","Marin County",FT
+"Robert Turnquist","Building Inspector Ii",103143.53,1165.24,835.57,53675.47,158819.81,2023,"None","Contra Costa County",
+"Enrique Jimenez","Building Inspector Ii M55",90376.41,415.19,3788.72,63996.02,158576.34,2023,"None","Folsom",FT
+"Jovanni Jimenez","Senior Building Inspector",91826.0,1988.0,6289.0,36872.0,158416.63,2023,"None","Palm Desert",
+"Rodrigues Richard","Building Inspector Iii",97948.96,0.0,10447.2,49943.61,158339.77,2023,"None","Stanislaus County",FT
+"Nestor Fabian Duran","Combination Building Inspector",91440.0,14685.0,3676.0,48472.0,158273.0,2023,"None","Long Beach",FT
+"Todd Newington","Building Inspector 2 Rng A",103324.03,18501.01,11217.53,25197.65,158240.22,2023,"None","Sacramento County",
+"Oberlies Joshua Thomas","Building Inspector-C",77394.0,12692.0,15394.0,52711.0,158191.0,2023,"None","Kern County",FT
+"Carlos Tirado III","Senior Building Inspector",98512.0,3821.0,825.0,54786.0,157944.0,2023,"None","Temecula",FT
+"Chad Shelton","Building Inspector Ii",95386.0,6395.0,331.0,30889.0,157911.27,2023,"None","Newport Beach",FT
+"David Reed","Building Inspector Ii",100123.0,1695.0,19270.0,10643.0,157881.37,2023,"None","Newport Beach",FT
+"Kenton Matchell","Building Inspector 2 Rng B",103324.0,1796.08,7223.21,45467.28,157810.57,2023,"None","Sacramento County",
+"Jiaqing Liang","Building Inspector",116769.0,0.0,1300.0,25154.0,157553.76,2023,"None","Los Altos",
+"Richard Soenksen","Building Inspector",118161.54,0.0,1181.6,38128.93,157472.07,2023,"None","San Francisco",FT
+"Douglas A Atkisson","Senior Building Inspector",113110.12,0.0,0.0,43908.76,157452.43,2023,"None","Manhattan Beach",FT
+"Mark Sanders","Building Inspector Ii",108038.56,0.0,0.0,18697.68,157347.64,2023,"None","Beverly Hills",
+"Carl Bakken","Building Inspector Ii",106443.75,0.0,2080.0,48663.52,157187.27,2023,"None","Napa County",FT
+"Richard C Medina","Building Engineering Inspector",100412.0,0.0,4118.0,52448.0,156978.0,2023,"None","Los Angeles County",
+"Mark Piasente","Building Inspector - Supervising",97330.0,0.0,0.0,59526.0,156856.0,2023,"None","Placer County",FT
+"Arthur Matedne","Building Inspector Ii",87505.84,0.0,0.0,69048.9,156843.62,2023,"None","San Joaquin County",FT
+"Randy J Warren","Building Inspector - Ii",94130.0,0.0,0.0,62709.0,156839.0,2023,"None","Placer County",FT
+"Timothy S Whelan Jr","Building Inspector",106379.0,0.0,6259.0,29993.85,156807.53,2023,"None","Laguna Beach",
+"Mark L Anflick","Supervising Building Inspector",93281.0,0.0,403.0,41710.0,156676.38,2023,"None","Simi Valley",FT
+"P Reed Patrick","Building Inspector",88042.1,0.0,33592.79,26974.64,156641.77,2023,"None","Saratoga",PT
+"Thomas Moore","Building Inspector 2 Rng A",103324.01,0.0,7749.3,45467.28,156540.59,2023,"None","Sacramento County",
+"Larry Arnick","Senior Building Inspector",107994.0,8844.31,2663.47,36942.81,156444.59,2023,"None","Los Angeles",
+"Arnulfo Valdivia","Supvsng Building Inspector",91090.06,2146.36,1300.0,61863.54,156399.96,2023,"None","Fresno County",
+"Scott Anderson","Senior Building Inspector",107802.0,2660.0,5277.0,40495.0,156234.0,2023,"None","Sonoma County",FT
+"Ruben A Franz","Building Inspector Supervisor",82959.0,6481.0,11906.0,33621.0,156211.4,2023,"None","Indio",FT
+"Jonathan McHugh","Building Mechanical Inspector",105782.09,6900.25,3250.53,40118.41,156051.28,2023,"None","Los Angeles",
+"Rossiter William Nicholas","Building Inspector Specialist-C",90827.0,1594.0,7079.0,56502.0,156002.0,2023,"None","Kern County",FT
+"David Holmes","Building Inspector 2 Rng A",103324.02,0.0,4665.82,47987.54,155977.38,2023,"None","Sacramento County",
+"James Proper","Building Inspector Ii",91957.6,1176.92,2803.78,38141.04,155889.17,2023,"None","Roseville",FT
+"George Zenovieff","Building Inspector 2 Rng A",103324.08,0.0,12915.5,39599.67,155839.25,2023,"None","Sacramento County",
+"Todd A. Hatch","Senior Building Inspector",106870.0,0.0,4459.0,44329.0,155658.0,2023,"None","Ripon",
+"De Andre Hoffman","Building Inspector",106649.76,2276.43,5991.66,40700.24,155618.09,2023,"None","Los Angeles",
+"Manuel Antonio Rivas","Senior Combination Building Inspector",102521.0,0.0,1325.0,51761.0,155607.0,2023,"None","Long Beach",FT
+"Brian Kelly","Building Inspector",99775.83,2103.49,5252.48,48455.35,155587.15,2023,"None","Los Angeles",
+"Thomas Leyden","Building Inspector Ii",110947.0,0.0,0.0,24336.0,155416.81,2023,"None","San Mateo",FT
+"Berger Noah Dustin","Supervising Building Inspector-C",90827.0,0.0,690.0,63886.0,155403.0,2023,"None","Kern County",FT
+"David Chapman","Principal Building Inspector",95559.0,1167.0,3173.0,23278.0,155286.08,2023,"None","South Lake Tahoe",
+"Lauro Vazquez","Building Inspector Ii",105645.0,0.0,0.0,33887.0,155248.47,2023,"None","Sonoma",FT
+"Alexander Savala","Building Inspector",90432.0,0.0,10938.0,42396.0,155197.85,2023,"None","Calabasas",FT
+"Samuel F Blackwell","Building Inspector",99292.49,0.0,1092.2,28500.37,155078.21,2023,"None","Santa Barbara",FT
+"Bryan Cabeceira","Building Inspector I",107700.0,639.0,5400.0,41232.0,154971.0,2023,"None","Newark",FT
+"Edward Callis","Building Inspector 2 Rng A",103324.03,355.51,5714.3,45467.28,154861.12,2023,"None","Sacramento County",
+"Arturo Ramirez","Senior Building Inspector",119694.0,9815.0,2395.0,21117.0,154758.86,2023,"None","El Segundo",FT
+"Allen Martin","Building Inspector",97109.98,1608.57,500.0,34229.41,154711.99,2023,"None","Santa Rosa",
+"David Berrios","Building Inspector",85079.0,7408.0,7653.0,35503.0,154632.28,2023,"None","South Gate",FT
+"Duane R Dauphinee","Building Inspector",107056.5,0.0,7505.46,23072.02,154518.15,2023,"None","Carmel-By-The-Sea",
+"Eric Kranda","Principal Building Inspector",97617.2,0.0,8400.26,29791.7,154502.3,2023,"None","Signal Hill",FT
+"Kurt M Colomac","Building Inspector",87837.0,1651.0,14877.0,35356.96,154398.8,2023,"None","Yorba Linda",FT
+"Taylor Tobler","Building Inspector I",96291.0,348.0,1329.0,32419.0,154333.09,2023,"None","Napa",FT
+"Farhad Dadbin","Building Inspector",108056.44,746.92,4624.07,40792.98,154220.41,2023,"None","Los Angeles",
+"Daniel Lowther","Building Inspector Iv",88694.0,17575.0,720.0,30806.0,154172.28,2023,"None","Sacramento",FT
+"Ryan Salazar","Building Mechanical Inspector",100272.29,11163.47,5019.93,37675.19,154130.88,2023,"None","Los Angeles",
+"Pete Sandoval","Building And Safety Inspector",86849.0,0.0,19947.0,26237.0,154090.67,2023,"None","Culver City",FT
+"Michael Gilbert Cowperthwaite","Building Inspector Ii",122928.0,3.0,5935.0,16245.0,153995.23,2023,"None","Brentwood",FT
+"Armando Carrasco","Sr Building Inspector",114198.92,407.41,1742.56,37613.78,153962.67,2023,"None","Contra Costa County",
+"David J. Stagner","Building Inspector",99413.3,0.0,4693.33,21191.89,153962.04,2023,"None","Concord",FT
+"Aresh Davarzany Ghiassi","Building Engineering Inspector",102624.0,6689.0,5233.0,39330.0,153876.0,2023,"None","Los Angeles County",
+"Daniel Mahoney","Building Inspector 2 Rng A",97874.4,0.0,11718.13,44245.99,153838.52,2023,"None","Sacramento County",
+"Matthew Enemark","Sr Building Inspector",114198.92,2000.71,0.0,37613.78,153813.41,2023,"None","Contra Costa County",
+"Richmond Young","Building Inspector Ii",100221.0,396.0,2340.0,32960.0,153616.13,2023,"None","San Mateo",FT
+"James Krznarich","Building Inspector 2 Rng A",103324.02,204.55,4566.05,45467.27,153561.89,2023,"None","Sacramento County",
+"Daniel Mauldin","Building Inspector Ii",122348.38,0.0,0.0,22950.91,153493.5,2023,"None","San Carlos",FT
+"Andrew Brizzee","Building Inspector 2 Rng A",103324.03,0.0,2583.1,47492.88,153400.01,2023,"None","Sacramento County",
+"Alexander Helfer","Building Mechanical Inspector",103899.72,509.93,9381.09,39560.1,153350.84,2023,"None","Los Angeles",
+"Kent Robinson","Building Inspector Ii",99026.0,2755.0,14210.0,37318.0,153309.0,2023,"None","Temecula",FT
+"Dominick Sebastiani","Senior Building Inspector",99080.0,9663.0,4773.0,39736.0,153252.0,2023,"None","Sonoma County",FT
+"Michael Cameron","Supv Building Inspector",116386.4,2221.83,6500.41,28121.34,153229.98,2023,"None","Sacramento County",
+"Scott Martin Lau","Building Engineering Inspector",99097.0,301.0,2863.0,50964.0,153225.0,2023,"None","Los Angeles County",
+"Richard Valerian Leiker","Supervising Building Inspector",95898.0,9431.0,2642.0,28118.0,153183.07,2023,"None","Sacramento",FT
+"Jason Lamar Brooks","Building Engineering Inspector",89178.0,8552.0,2848.0,52428.0,153006.0,2023,"None","Los Angeles County",
+"Jared S Pickens","Senior Building/Engineering Inspector-Technician Iv",99822.87,4630.0,5112.0,25689.0,152978.83,2023,"None","Paso Robles",FT
+"Guy Parry","Senior Building Inspector",109050.0,0.0,5620.0,38290.0,152960.0,2023,"None","Sonoma County",FT
+"Benedict Mathias","Building Mechanical Inspector",100857.46,0.0,1424.88,50602.62,152884.96,2023,"None","Los Angeles",
+"Nicole A Beller","Assistant Building Inspector",108617.0,0.0,2029.0,19199.0,152869.34,2023,"None","Mountain View",FT
+"James Swanson","Supv Building Inspector",116386.4,0.0,5819.32,30661.95,152867.67,2023,"None","Sacramento County",
+"Kirk Knutson","Building Inspector 2 Rng A",103324.0,633.1,9996.85,38760.3,152714.25,2023,"None","Sacramento County",
+"Richard E Jacobs","Building Inspector",103936.93,0.0,4556.98,44206.47,152700.38,2023,"None","Daly City",FT
+"Paul Lovato","Building Inspector Iv",98454.0,16699.0,1511.0,19078.0,152690.99,2023,"None","Sacramento",FT
+"Ghassan H Alameddine","Building Inspector",91299.0,2399.0,1210.0,33730.0,152653.1,2023,"None","Pasadena",FT
+"John S Hoogendyk","Building Inspector I",81439.82,2355.18,20634.62,39441.07,152615.95,2023,"None","Monterey County",
+"Jose Francisco Kircher","Building Engineering Inspector",99852.0,0.0,2928.0,49731.0,152511.0,2023,"None","Los Angeles County",
+"Lonnie McCarty","Senior Building Inspector",86532.79,471.45,5049.02,38086.46,152416.95,2023,"None","Tuolumne County",FT
+"Ryan D Rose","Sr Building Inspector",91957.0,0.0,225.0,60215.0,152397.0,2023,"None","Mendocino County",FT
+"Sergio Briseno","Building Inspector",99355.0,0.0,8311.0,36303.0,152385.29,2023,"None","Beaumont",FT
+"Alexander Handy","Building Mechanical Inspector",102620.82,465.36,4829.72,44450.76,152366.66,2023,"None","Los Angeles",
+"Mark Bettenhausen","Building Inspector 2 Rng A",103324.01,3896.19,12028.76,33115.2,152364.16,2023,"None","Sacramento County",
+"Gracia E Prado","Sr. Building Inspector",89288.02,794.09,1070.68,61062.19,152214.98,2023,"None","Orange County",
+"Vincent van Vu","Combination Building Inspector",94560.0,5544.0,2564.0,49398.0,152066.0,2023,"None","Long Beach",FT
+"Nancy Y Lara","Building Engineering Inspector Aid",86181.0,12430.0,4099.0,49316.0,152026.0,2023,"None","Los Angeles County",
+"Michael E Romanowsky","Building Inspector - Ii",94130.0,0.0,0.0,57882.0,152012.0,2023,"None","Placer County",FT
+"Thomas O\&#39;Connell","Building Inspector Ii",93088.86,0.0,5913.18,29766.16,152005.65,2023,"None","Roseville",FT
+"Sean M Gage","Building Inspector Ii",100099.67,2848.18,4354.3,35747.21,151989.07,2023,"None","Irvine",FT
+"Michael Granat","Chief Building Inspector",93982.05,8187.67,0.0,49804.46,151974.18,2023,"None","Fresno County",
+"John Georgino","Senior Building Inspector",109498.91,0.0,0.0,11485.58,151906.38,2023,"None","Beverly Hills",
+"Jorge Antonio Sipos","Building Inspector Ii",113526.0,4636.0,5586.0,28028.0,151776.0,2023,"None","Alameda County",FT
+"Ramon Barajas Jr","Principal Building Inspector",103273.0,0.0,3129.0,45373.0,151775.0,2023,"None","Long Beach",FT
+"Manuel de Jesus Leal","Building Inspector Ii",77271.48,47432.89,0.0,18187.88,151655.64,2023,"None","Riverside County",FT
+"Robert Robbins","Building Inspector 2 Rng A",103324.02,0.0,2859.48,45467.28,151650.78,2023,"None","Sacramento County",
+"Derek W Sanders","Building Inspector Ii",100411.75,11970.03,8593.78,21624.59,151567.2,2023,"None","Irvine",FT
+"Miguel Alaniz","Senior Building Inspector",89935.49,407.41,13205.44,47979.89,151528.23,2023,"None","Riverbank",FT
+"Robert Sabich","Building Inspector",96548.0,196.0,18861.0,17060.0,151222.93,2023,"None","Cupertino",PT
+"Ed A Cateriano","Building Inspector",99292.49,0.0,1137.54,24573.81,151196.99,2023,"None","Santa Barbara",FT
+"Beshara Thabet Sedaros Iskaros","Combination Building Inspector",91544.0,14184.0,2537.0,42902.0,151167.0,2023,"None","Long Beach",FT
+"Jason Rudenick","Building Inspector Ii",95022.0,2004.0,-85.0,29060.0,151112.36,2023,"None","Newport Beach",FT
+"Eric Reece","Building Inspector Ii",87505.84,493.45,0.0,62549.66,150839.46,2023,"None","San Joaquin County",FT
+"Anand Kumar","Senior Building Engineering Inspector",106705.0,309.0,2913.0,40896.0,150823.0,2023,"None","Los Angeles County",
+"Keith Wilkinson","Senior Building Inspector",81786.0,3336.0,1360.0,35819.0,150791.23,2023,"None","South Lake Tahoe",
+"Ron R Fornelli","Building Inspector Ii",105834.49,2447.04,4077.62,28941.95,150744.93,2023,"None","Irvine",FT
+"Vahe Keledjian","Building Inspector",98726.67,2021.11,3870.74,46118.09,150736.61,2023,"None","Los Angeles",
+"Alan Cunningham","Building Inspector/Code Enforcement",118853.0,0.0,0.0,31320.0,150591.76,2023,"None","Monte Sereno",FT
+"Jaime Molina","Building Inspector Ii",86930.0,3847.0,2860.0,32455.0,150437.65,2023,"None","Newport Beach",FT
+"Ruiz Delfino Alcantar","Principal Building Inspector",93232.0,0.0,9962.0,47090.0,150284.0,2023,"None","Kern County",FT
+"Martin Bryant","Building Inspector 2 Rng A",97874.4,118.31,7980.08,44245.99,150218.78,2023,"None","Sacramento County",
+"Michael A Velez","Building Inspector",89697.0,2002.0,1210.0,33575.0,150097.11,2023,"None","Pasadena",FT
+"Kevin McCutcheon","Building Inspector 2 Rng A",103324.0,389.6,856.0,45467.28,150036.88,2023,"None","Sacramento County",
+"Jeremy Todd","Building Mechanical Inspector",101364.63,5199.13,4649.6,38783.73,149997.09,2023,"None","Los Angeles",
+"Jose R Perez","Building Inspector",85679.0,0.0,21107.0,35278.0,149944.51,2023,"None","Beaumont",FT
+"Davis Ko","Senior Building Inspector",91350.01,0.0,29669.63,28802.57,149822.21,2023,"None","San Francisco",PT
+"Thomas Ward","Associate Building/Construction Inspector",102100.0,2113.0,3076.0,42513.0,149802.0,2023,"None","Los Angeles Unified",
+"Jeffrey Barnes","Building Inspector",109180.98,0.0,4367.14,36025.84,149573.96,2023,"None","San Francisco",PT
+"Genice Arnold","Building Inspector 2 Rng A",103324.09,0.0,7749.3,38372.75,149446.14,2023,"None","Sacramento County",
+"Kevin T Enos","Senior Building Inspector",107747.0,3759.0,10086.0,11821.0,149374.6,2023,"None","Victorville",FT
+"Michael W. Trostrud","Senior Building Inspector",97174.0,0.0,0.0,29901.0,149317.5,2023,"None","Oceanside",FT
+"Scott Dechaine","Building Inspector 2 Rng A",102893.52,109.58,868.0,45371.74,149242.84,2023,"None","Sacramento County",
+"Alan Caldwell","Building Inspector 2 Rng A",103324.07,11.7,1346.27,44551.2,149233.24,2023,"None","Sacramento County",
+"Abelardo Velasco","Building Inspector Iii",88553.0,0.0,18754.0,20118.0,148973.8,2023,"None","Burbank",FT
+"Sotirios Mathiopoulos","Building Inspector - Ii",86197.0,0.0,0.0,62487.0,148684.0,2023,"None","Placer County",FT
+"Brandon Holleran","Building Inspector Ii",108036.92,0.0,2440.0,38164.97,148641.89,2023,"None","Napa County",FT
+"Francisco Valles","Building Inspector",96248.0,639.0,15453.0,23511.0,148637.9,2023,"None","Hermosa Beach",FT
+"Micah Williams","Senior Building Mechanical Inspector",101853.15,0.0,3190.56,43570.11,148613.82,2023,"None","Los Angeles",
+"David Sotelo","Senior Building Inspector",108501.0,1106.0,386.0,34171.0,148515.6,2023,"None","Riverside",FT
+"Ebony E Smith","Building Engineering Inspector Aid",85778.0,6151.0,4839.0,51562.0,148330.0,2023,"None","Los Angeles County",
+"Thomas Arce","Building Inspector Ii",82878.0,627.0,12777.0,26404.0,148314.0,2023,"None","Moreno Valley",FT
+"Kristin R Kuntz","Building Inspector Ii",111207.08,0.0,2443.75,19384.73,148296.26,2023,"None","Healdsburg",FT
+"Michael Petrusko","Building Inspector",101311.2,148.62,5625.39,41156.52,148241.73,2023,"None","Los Angeles",
+"Nicholas Sosa","Associate Building/Construction Inspector",99171.0,0.0,8384.0,40669.0,148224.0,2023,"None","Los Angeles Unified",
+"John Long","Senior Building Inspector",98231.0,1628.0,0.0,43146.0,148213.71,2023,"None","Malibu",FT
+"Erkki Mika Suvivuo","Building Inspector 2 Rng A",92793.9,0.0,12293.37,43118.17,148205.44,2023,"None","Sacramento County",
+"Brent Hebb","Building Inspector I",93096.4,0.0,1690.0,53370.61,148157.01,2023,"None","Napa County",FT
+"Robert Mills","Building Inspector 2 Rng A",103324.0,213.9,0.0,44551.2,148089.1,2023,"None","Sacramento County",
+"Stephanie Swanson","Building Mechanical Inspector",103596.21,378.58,5014.12,39038.9,148027.81,2023,"None","Los Angeles",
+"Sebastian Bendezu","Building Inspector",126269.02,0.0,0.0,21528.99,147798.01,2023,"None","San Francisco",FT
+"Shawn Eshbach","Senior Building Mechanical Inspector",92670.38,10382.73,1067.26,43465.35,147585.72,2023,"None","Los Angeles",
+"Bertrand R Grunwald","Building Inspector - Ii",94130.0,0.0,0.0,53335.0,147465.0,2023,"None","Placer County",FT
+"Darrell Mayes","Building Inspector Senior",97132.0,0.0,0.0,23715.0,147367.1,2023,"None","Woodland",FT
+"David Kelsey","Building Inspector Ii",92858.0,1689.0,11718.0,40868.0,147133.0,2023,"None","Temecula",FT
+"Douglas Jesse Pierson","Supervising Building Inspector",98891.0,7537.0,2231.0,21347.0,147044.8,2023,"None","Sacramento",FT
+"Morice Aziz","Building Inspector",87650.0,0.0,337.0,58894.0,146881.0,2023,"None","Richmond",FT
+"James Chae Kim","Building Engineering Inspector",88674.0,3369.0,2331.0,52472.0,146846.0,2023,"None","Los Angeles County",
+"Bruce W st John","Senior Building Inspector",92751.0,5998.0,1747.0,33421.0,146769.53,2023,"None","Atascadero",FT
+"Collin Yballa","Building Inspector",93499.0,32.0,992.0,38279.0,146553.13,2023,"None","Tiburon",
+"Dan G Heller","Building Inspector - Senior",96053.0,0.0,0.0,50454.0,146507.0,2023,"None","Placer County",FT
+"Kevin W Harvey","Building Inspector I W-Cert",96571.8,4713.22,1210.72,22399.63,146488.97,2023,"None","Antioch",FT
+"Jeanne Mangerich","Building Inspector I",114658.99,0.0,2145.73,29672.87,146477.59,2023,"None","Belmont",FT
+"Nicole R Bovey","Building Inspector (Ce)",81633.0,16595.0,0.0,37299.63,146413.24,2023,"None","Laguna Beach",
+"Atul Khosla","Building Inspector",90452.8,3391.36,13167.21,26725.46,146382.87,2023,"None","Tustin",FT
+"Stefanie Svensson","Senior Building Inspector",103713.0,0.0,15693.0,22757.0,146318.28,2023,"None","Riverside",FT
+"Nicholas Roberti","Building Inspector 2 Rng A",100525.61,0.0,940.0,44840.81,146306.42,2023,"None","Sacramento County",
+"Michael A Anderson","Building Inspector - Ii",89939.0,0.0,0.0,56356.0,146295.0,2023,"None","Placer County",FT
+"Shawn Ahlin","Senior Building Inspector",103656.0,456.0,16820.0,24832.0,146246.86,2023,"None","Chula Vista",FT
+"Paige Byron Vaughan","Senior Building Engineering Inspector",84454.0,977.0,2182.0,58404.0,146017.0,2023,"None","Los Angeles County",
+"Eric Robbe","Senior Building Inspector",115965.0,0.0,0.0,23262.0,145847.96,2023,"None","Ross",FT
+"Graciela Devis","Building Engineering Inspector",104423.0,150.0,2351.0,38901.0,145825.0,2023,"None","Los Angeles County",
+"Martin Tavitian","Building Inspector",101151.6,3754.53,5619.72,35291.79,145817.64,2023,"None","Los Angeles",
+"Yosief Tesfamariam","Combination Building Inspector",91544.0,1197.0,3659.0,49369.0,145769.0,2023,"None","Long Beach",FT
+"Mark A S Reyes","Building Inspector Ii",103637.56,0.0,7989.4,13898.29,145671.25,2023,"None","Solano County",
+"Nathan Brooks","Associate Building/Construction Inspector",98872.0,1879.0,3596.0,41042.0,145389.0,2023,"None","Los Angeles Unified",
+"Lee Slaughter","Building Inspector",94277.44,35.94,500.0,29809.81,145324.96,2023,"None","Santa Rosa",
+"David Read","Building Inspector 2 Rng A",95922.41,0.0,5509.78,43810.98,145243.17,2023,"None","Sacramento County",
+"Timothy Schott","Senior Building Inspector",85286.14,2768.38,0.0,37062.65,145206.27,2023,"None","Roseville",FT
+"Chris J Heidenreich","Building Inspector Ii Al",91884.8,67.94,800.0,52229.52,144982.26,2023,"None","San Diego County",FT
+"Johnson Dale K","Building Inspector",74400.0,4337.0,1927.0,64274.0,144938.0,2023,"None","Kern County",FT
+"Noah Agius","Building Inspector",91604.0,482.0,5443.0,22549.0,144882.05,2023,"None","San Bruno",FT
+"Michael Smull","Senior Building Inspector",85185.4,0.0,0.0,35850.56,144785.54,2023,"None","Redding",
+"Benjamin Miller","Senior Building Inspector/Plans Examiner",85705.0,117.0,0.0,58958.0,144780.0,2023,"None","Nevada County",FT
+"David Hall","Building Inspector 2 Rng A",103324.0,1253.67,7065.33,33115.2,144758.2,2023,"None","Sacramento County",
+"Luis Fernando de la Torre","Building Engineering Inspector Aid",81738.0,8074.0,3461.0,51388.0,144661.0,2023,"None","Los Angeles County",
+"Mark White","Building Inspector",101761.82,37.18,500.0,23588.07,144653.43,2023,"None","Santa Rosa",
+"Todd Gentry","Supv Building Inspector",111278.42,156.76,6180.75,26976.84,144592.77,2023,"None","Sacramento County",
+"Christopher J Schroeder Minghelli","Building Engineering Inspector",88202.0,0.0,4659.0,51621.0,144482.0,2023,"None","Los Angeles County",
+"Jeffery Mead","Building Mechanical Inspector",104769.94,1928.19,6059.79,31710.76,144468.68,2023,"None","Los Angeles",
+"John Rottler","Building Inspector I",102694.0,0.0,0.0,23397.0,144394.58,2023,"None","San Mateo",FT
+"Jason E. Klodt","Senior Combination Building Inspector",106867.85,0.0,0.0,37471.91,144339.76,2023,"None","Santa Ana",FT
+"Frank Martinez","Building Inspector 2 Rng B",103324.0,5551.8,10162.56,25197.62,144235.98,2023,"None","Sacramento County",
+"Larry Johnson","Building Inspector Ii",87505.84,493.45,0.0,55858.68,144148.48,2023,"None","San Joaquin County",FT
+"Stephen Billings","Building Inspector",96582.87,513.2,899.04,24953.06,144138.31,2023,"None","Santa Rosa",
+"Douglas Hutmacher","Senior Building Inspector",87797.45,0.0,0.0,55768.57,143855.87,2023,"None","San Joaquin County",FT
+"Larry Myers","Supv Building Inspector",111278.42,0.0,3408.96,29158.31,143845.69,2023,"None","Sacramento County",
+"Martin Lewis","Building Inspector I",80761.0,0.0,1800.0,61212.0,143773.0,2023,"None","San Rafael",FT
+"Freeman Kerrie","Building Inspector Ii",87498.43,0.0,2393.62,53741.76,143633.81,2023,"None","Stanislaus County",FT
+"Patrick Eugene Mauch","Supervising Building Inspector",102449.0,0.0,2378.0,21377.0,143465.61,2023,"None","Sacramento",FT
+"Steve Lord","Supv Building Inspector",108851.2,223.92,0.0,34350.49,143425.61,2023,"None","Sacramento County",
+"Christopher J Crandall","Building Inspector Ii",90270.0,4775.0,2725.0,11572.0,143408.0,2023,"None","Anaheim",FT
+"William Yarbrough","Sr. Building Inspector",97207.0,0.0,0.0,33223.55,143401.31,2023,"None","Laguna Beach",
+"Vincent Juanitas","Building Inspector I",87553.04,0.0,20277.94,35277.09,143108.07,2023,"None","Livermore",FT
+"Noel Adrian Arias","Building Engineering Inspector",94269.0,3027.0,5332.0,40473.0,143101.0,2023,"None","Los Angeles County",
+"Ryan J Dake","Senior Building Inspector",83243.64,873.63,0.0,58953.62,143070.89,2023,"None","Garden Grove",FT
+"Gary Hurley","Building Inspector 2 Rng A",103324.0,0.0,14465.36,25197.6,142986.96,2023,"None","Sacramento County",
+"Araceli Alvarez","Combination Building Inspector",93240.0,1208.0,725.0,47712.0,142885.0,2023,"None","Long Beach",FT
+"Steven Levitt","Building Inspector",101146.18,2596.3,2940.18,36193.23,142875.89,2023,"None","Los Angeles",
+"Gianlorn Camello","Building Inspector",98887.34,0.0,2085.15,41816.18,142788.67,2023,"None","Daly City",FT
+"John Schaad","Building Inspector Ii",90798.0,0.0,3417.0,29551.0,142730.75,2023,"None","Rocklin",FT
+"Alfredo Cristobal Garay","Building Engineering Inspector",89949.0,981.0,2912.0,48867.0,142709.0,2023,"None","Los Angeles County",
+"Jeffery Gee","Building Inspector 2 Rng A",95738.44,0.0,3153.42,43769.23,142661.09,2023,"None","Sacramento County",
+"Matthew Nolen","Combined Building Inspector",89258.0,3789.0,2025.0,28263.0,142440.46,2023,"None","Visalia",FT
+"John E Woods","Building Inspector",88907.0,977.0,15845.0,21767.28,142339.23,2023,"None","Yorba Linda",FT
+"Matthew Sum","Building Inspector",125189.0,950.94,809.28,15368.43,142317.65,2023,"None","San Francisco",FT
+"Octavio S Garcia","Building Engineering Inspector",86523.0,173.0,5894.0,49709.0,142299.0,2023,"None","Los Angeles County",
+"Amanuel Berhe","Building Inspector",99133.9,0.0,6131.88,36959.71,142225.49,2023,"None","Los Angeles",
+"William Cook III","Senior Building Inspector",108586.42,1076.38,-500.72,23548.7,142214.22,2023,"None","Santa Clarita",FT
+"Ultima N Andrews","Building Inspector Ii",82604.0,1720.0,5643.0,41236.0,142200.71,2023,"None","Fontana",FT
+"Michael Koroknay","Building Inspector",97798.0,0.0,7202.0,20528.0,142158.76,2023,"None","Fillmore",FT
+"Julian Capucetti","Building Inspector",105624.6,450.6,2512.23,33514.12,142101.55,2023,"None","Los Angeles",
+"MacAmon Tyree","Senior Combination Building Inspector",101961.0,74.0,725.0,39331.0,142091.0,2023,"None","Long Beach",FT
+"Crystal Long","Building Inspector Ii",85886.0,0.0,10008.0,21855.0,141806.0,2023,"None","Moreno Valley",FT
+"Cody Swetnam","Building Inspector",90449.36,2895.52,12956.06,22848.2,141794.68,2023,"None","Tustin",FT
+"Michael T Schiele","Building Inspector Ii",92142.0,192.0,200.0,30859.0,141647.12,2023,"None","Benicia",
+"Alejandro Hernandez","Associate Building/Construction Inspector",98872.0,510.0,1370.0,40860.0,141612.0,2023,"None","Los Angeles Unified",
+"Jeffrey Hazel","Senior Building Inspector",93093.59,6568.15,0.0,41612.9,141581.97,2023,"None","San Joaquin County",FT
+"Paul Manley","Building Inspector",101465.0,0.0,1534.0,23487.0,141489.83,2023,"None","Watsonville",FT
+"Todd Adams","Building Inspector Iii",94560.0,0.0,0.0,46820.96,141380.96,2023,"None","San Luis Obispo County",FT
+"Jason Scott Herring","Combination Building Inspector",88633.0,7890.0,2912.0,41894.0,141329.0,2023,"None","Long Beach",FT
+"Micheal Hosier","Supv Building Inspector",88635.51,0.0,10464.92,42164.37,141264.8,2023,"None","Sacramento County",
+"Jose O Perez Munoz","Building Inspector Ii",90601.75,581.67,1687.26,38524.43,141107.14,2023,"None","Monterey County",
+"Kimberley Jane Roberts Farnham","Building Inspector - I",88366.0,0.0,0.0,52682.0,141048.0,2023,"None","Placer County",FT
+"Timothy J Rodriguez","Building Inspector",92401.59,0.0,1185.77,22578.43,140842.34,2023,"None","Santa Barbara",FT
+"Brian Kircher","Building Inspector",94249.05,0.0,756.37,20919.56,140795.37,2023,"None","Santa Barbara",FT
+"John Zurick","Senior Building Inspector",102403.42,0.0,12211.48,26160.83,140775.73,2023,"None","Arcadia",FT
+"Guillermo Castaneda","Senior Building Inspector",89656.0,16285.0,10539.0,24198.0,140678.0,2023,"None","Torrance",FT
+"Jared C Brekenfeld","Building Inspector Ii",80042.0,2701.0,1037.0,26291.0,140597.76,2023,"None","Fullerton",FT
+"Ryan Mich Hennecke","Building Inspector",93790.5,1038.16,0.0,45731.1,140559.76,2023,"None","Clovis",FT
+"Gregory Mitchell","Building Inspector Ii",81157.88,3341.49,3160.72,33844.67,140553.18,2023,"None","Roseville",FT
+"James MacDougall","Lead Building Inspector",83397.0,160.0,5000.0,23830.0,140503.26,2023,"None","San Bernardino",FT
+"William Lovan","Building Inspector I",83748.81,8264.68,950.31,47444.09,140407.89,2023,"None","Contra Costa County",
+"Christopher Burgess","Senior Building Inspector",108578.21,1558.5,-49.2,20509.09,140099.28,2023,"None","Santa Clarita",FT
+"Norberto Garcia","Building Inspector",99393.0,0.0,18540.0,10371.0,140096.97,2023,"None","San Dimas",FT
+"Griego Eduardo","Building Inspector Iii",88149.0,0.0,6795.0,29292.0,140051.07,2023,"None","Tehama County",FT
+"Nicholas Adam Watson","Combination Building Inspector",91544.0,0.0,755.0,47724.0,140023.0,2023,"None","Long Beach",FT
+"Jonathan Pendley","Building Inspector 2 Rng A",96106.4,0.0,0.0,43851.47,139957.87,2023,"None","Sacramento County",
+"Antonio Rodriguez","Building Inspector",89805.0,20840.0,0.0,29270.0,139938.51,2023,"None","Menifee",FT
+"Travis Eli Mathieu","Combination Building Inspector",90569.42,17298.37,3861.65,27875.65,139873.06,2023,"None","Ontario",FT
+"Javier Davila III","Senior Building Inspector",98185.0,2816.0,10621.0,27435.0,139675.47,2023,"None","Chula Vista",FT
+"Matt C Harstad","Senior Building Inspector",99135.66,0.0,600.0,39922.47,139658.13,2023,"None","Mill Valley",FT
+"Roberto Figueroa","Building Engineering Inspector Aid",85123.0,0.0,2883.0,51638.0,139644.0,2023,"None","Los Angeles County",
+"Jaime Rios","Building Inspector",101215.0,0.0,8115.8,30248.85,139579.65,2023,"None","Los Angeles",
+"Pamela A Miller","Senior Building Inspector",106324.27,0.0,381.12,18525.62,139543.06,2023,"None","Healdsburg",FT
+"Michael Pedalino","Building Inspector 1",115498.0,0.0,0.0,23955.0,139453.0,2023,"None","Sunnyvale",FT
+"Elijah Prok","Building Inspector Iii",92873.0,10181.0,1010.0,19115.0,139326.57,2023,"None","Sacramento",FT
+"Anthony Castaneda","Building Inspector Iii",92998.0,0.0,1080.0,27927.0,139325.33,2023,"None","Sacramento",FT
+"Jesse Cleveland","Building Inspector Iii",96735.04,0.0,0.0,38278.0,139222.98,2023,"None","Lathrop",FT
+"Richard Behrens","Building Inspector Ii",97028.0,2786.0,4610.0,34778.0,139202.0,2023,"None","Sonoma County",FT
+"Jess Kelley","Senior Building Inspector",90341.37,326.99,18352.91,23958.56,139170.74,2023,"None","Citrus Heights",FT
+"Alexandro Cota","Building Engineering Inspector Aid",86181.0,414.0,4099.0,48475.0,139169.0,2023,"None","Los Angeles County",
+"Alex Vasquez","Building Inspector I",78829.0,461.0,3562.0,37884.0,139156.45,2023,"None","Palm Desert",
+"Louis Ortega","Senior Building Inspector",89544.0,2566.0,16810.0,30225.0,139145.0,2023,"None","Torrance",FT
+"Keith E Hoyt","Sr Building Inspector",91957.0,0.0,0.0,47164.0,139121.0,2023,"None","Mendocino County",FT
+"Sean Christy","Building Inspector Ii",92779.13,43.8,0.0,42250.0,139110.57,2023,"None","Lathrop",FT
+"William Canary","Building Inspector Iv",89845.0,0.0,1080.0,31171.0,139103.71,2023,"None","Sacramento",FT
+"Gordon L Gardner","Building And Safety Inspector",86849.0,567.0,3081.0,29987.0,138997.54,2023,"None","Culver City",FT
+"Jared Boyd","Building Inspector I",70189.0,807.0,10598.0,34901.0,138842.46,2023,"None","Manteca",FT
+"Craig P Warriner","Building Inspector Iv",86326.0,4824.0,360.0,30735.0,138499.65,2023,"None","Sacramento",FT
+"Noah T Lysek","Senior Building Inspector",88373.0,0.0,1000.0,15154.0,138240.85,2023,"None","Fullerton",FT
+"Peter Rubio","Building Mechanical Inspector",90574.48,1221.6,4522.64,41903.75,138222.47,2023,"None","Los Angeles",
+"James J Porter","Building Inspector - Ii",94130.0,0.0,0.0,44085.0,138215.0,2023,"None","Placer County",FT
+"Kenneth J Cooke","Building Inspector - Ii",94130.0,0.0,0.0,43867.0,137997.0,2023,"None","Placer County",FT
+"Kenneth Ray Pergeson","Building Engineering Inspector",86917.0,500.0,5714.0,44827.0,137958.0,2023,"None","Los Angeles County",
+"Paul R Donaldson","Building Inspector Ii",90692.8,0.0,800.0,46409.12,137901.92,2023,"None","San Diego County",FT
+"Morgan Allen","Building Inspector 2 Rng A",103324.0,585.97,811.0,33115.2,137836.17,2023,"None","Sacramento County",
+"Michael Joseph Cooke","Building Inspector",92269.0,0.0,0.0,45528.78,137797.78,2023,"None","Santa Clara County",PT
+"Samuel J Campagna","Senior Building Inspector",92970.0,4825.0,8781.0,28597.0,137761.36,2023,"None","Chino",FT
+"Michael P McLean","Building Inspector Iii",89490.0,3034.0,2125.0,8963.0,137740.9,2023,"None","Fullerton",FT
+"Eric Ballou","Building Inspector 2 Rng A",103324.0,438.3,844.0,33115.2,137721.5,2023,"None","Sacramento County",
+"Sanders Aaron G","Building Inspector Specialist-C",90827.0,134.0,79.0,46618.0,137658.0,2023,"None","Kern County",FT
+"Eric S. Wyngaarden","Building Inspector Ii",79434.0,11537.0,1415.0,27671.0,137592.61,2023,"None","Oceanside",FT
+"Chad Foster","Building Inspector Ii",97013.11,0.0,1053.84,30773.52,137557.42,2023,"None","Santa Clarita",FT
+"Cristian Cobian","Building Inspector I",77386.0,3038.0,7850.0,37415.0,137550.03,2023,"None","Tracy",FT
+"Michael Almandinger","Building Inspector",82461.0,0.0,12876.0,34514.0,137458.5,2023,"None","Beaumont",FT
+"Shawn McCarthy","Building Inspector Ii Al",87616.54,0.0,800.0,49021.7,137438.24,2023,"None","San Diego County",FT
+"Marshall Jon Johnson","Building Inspector Iv",90119.0,150.0,420.0,30626.0,137381.39,2023,"None","Sacramento",FT
+"David Piceno","Building Inspector Ii",75305.0,0.0,10282.0,31002.0,137312.65,2023,"None","Santa Maria",FT
+"Steven Windust","Building Inspector I",96256.0,399.0,0.0,23586.0,137227.25,2023,"None","San Mateo",FT
+"John Alexander Martin","Principal Building Inspector",100151.0,0.0,725.0,36277.0,137153.0,2023,"None","Long Beach",FT
+"Perry Motonori Yamamoto","Building Inspector Ii",106900.0,378.0,3086.0,26634.0,136998.0,2023,"None","Alameda County",FT
+"Ara Sinanian","Building Mechanical Inspector",89501.6,432.9,4690.01,42295.65,136920.16,2023,"None","Los Angeles",
+"Tom Konrad","Building Inspector",86675.0,12574.0,173.0,20668.0,136780.26,2023,"None","Fountain Valley",FT
+"Ruiz Jr Jorge Armando","Building Inspector-C",69520.0,12572.0,4290.0,50378.0,136760.0,2023,"None","Kern County",FT
+"David Herrera","Building Inspector I",77342.0,0.0,3058.0,56350.0,136750.0,2023,"None","San Rafael",FT
+"Thang Cao Truong","Building Inspector",89139.88,0.0,1199.9,46076.01,136415.79,2023,"None","Daly City",PT
+"Joseph Gardner","Building Inspector Trainee",73893.0,497.0,7708.0,41785.0,136376.39,2023,"None","Inglewood",FT
+"Jeffrey S Spiszer","Building Inspector Ii",82604.0,1815.0,6757.0,34482.0,136349.48,2023,"None","Fontana",FT
+"Peter Tucker","Senior Building Inspector",87061.0,6266.18,26129.19,10042.0,136263.11,2023,"None","Redondo Beach",FT
+"Robert D Carrigan","Senior Building/Engineering Inspector-Technician Iv",91628.45,472.0,1645.0,25377.0,136180.56,2023,"None","Paso Robles",FT
+"Joel Savin Ordaz","Building Mechanical Inspector",89886.4,966.03,3594.36,41699.67,136146.46,2023,"None","Los Angeles",
+"Timothy Kersch","Senior Building Inspector",89586.0,2431.0,232.0,32041.0,136081.98,2023,"None","Carlsbad",FT
+"Clarence Zimmer","Building Inspector Ii",94059.0,3492.0,4839.0,29873.0,136031.49,2023,"None","Riverside",FT
+"Chadd D Chatfield","Building Inspector I",85909.31,0.0,22062.92,11628.87,135712.86,2023,"None","Solano County",
+"Andrew Gomer","Building Inspector I",88279.36,0.0,2206.97,45205.61,135691.94,2023,"None","Contra Costa County",
+"Brandon Eaton","Building Inspector Iii",86489.0,1520.0,974.0,30626.0,135675.39,2023,"None","Sacramento",FT
+"Daniel J Palafox","Sr Building Inspector",90783.0,1989.0,1529.0,29605.0,135655.26,2023,"None","Fontana",FT
+"Curtis James Jones","Combo Building Inspector Ii",83579.0,0.0,7098.0,36852.0,135643.89,2023,"None","Salinas",FT
+"Edgardo Sanchez","Building Inspector Ii",90692.8,0.0,900.0,44022.08,135614.88,2023,"None","San Diego County",FT
+"Theodore Gascoigne","Senior Building Inspector",94056.5,10223.49,0.0,20503.02,135459.36,2023,"None","Riverside County",FT
+"Braden F Johnston","Building Inspector - Ii",94130.0,0.0,0.0,41240.0,135370.0,2023,"None","Placer County",FT
+"Jarad Adams","Building Inspector I",72089.0,149.0,4803.0,31525.0,135290.24,2023,"None","Vallejo",FT
+"Thomas Wilberts","Building Inspector Iii",78318.0,4531.0,15066.0,19933.0,135264.74,2023,"None","Indio",FT
+"Henry Solomon","Building Inspector Ii",77656.78,30236.82,0.0,18496.0,135204.41,2023,"None","Riverside County",FT
+"James S Daubs","Senior Building Inspector",108833.0,647.0,0.0,18355.0,135155.52,2023,"None","Rohnert Park",FT
+"Cole Landig","Building Inspector Ii",97034.0,2038.0,4000.0,32061.0,135133.0,2023,"None","Sonoma County",FT
+"Robert Muehlbauer","Building Inspector",82965.2,1316.04,500.0,32095.01,135084.59,2023,"None","Santa Rosa",
+"John Harrison","Building Inspector Ii",71588.0,0.0,9141.0,31770.0,135025.31,2023,"None","Santa Maria",FT
+"Jason Costa","Building Inspector Ii",82345.0,0.0,226.0,52434.0,135005.0,2023,"None","Nevada County",FT
+"Victor Sahagun","Building Inspector 1",85422.0,126.0,4987.0,34591.0,134993.32,2023,"None","Petaluma",FT
+"Elisa Luthiger","Building Engineering Inspector",81860.0,0.0,2385.0,50490.0,134735.0,2023,"None","Los Angeles County",
+"Jared Carrillo","Combined Building Inspector",85861.0,404.0,2004.0,28011.0,134658.19,2023,"None","Visalia",FT
+"Keith Boucher","Building Inspector 2 Rng A",96283.2,25.48,6717.01,31538.41,134564.1,2023,"None","Sacramento County",
+"Carson Green","Building Inspector Ii",86390.19,0.0,4319.56,10495.98,134525.4,2023,"None","Davis",FT
+"Ronald Haskins Jr.","Building Inspector/Plans Examiner",75776.0,2699.0,6500.0,34084.0,134479.04,2023,"None","Mammoth Lakes",FT
+"Keith Ybaben","Building Inspector Iii",92118.0,65.0,0.0,42255.0,134438.0,2023,"None","San Luis Obispo County",FT
+"Mark Walker","Building Inspector Ii",101052.0,0.0,5801.0,27544.0,134397.0,2023,"None","Sonoma County",FT
+"David Venable","Building Inspector",105065.0,0.0,6000.0,9217.0,134289.82,2023,"None","San Pablo",FT
+"Alfonso J Flores","Assistant Building Inspector",94369.0,621.0,1311.0,17998.0,134241.28,2023,"None","Mountain View",FT
+"Ana Maria Jurgensen","Building Inspector 1",87767.2,53.82,4391.05,41981.03,134193.1,2023,"None","Sacramento County",
+"James Hughes","Building Inspector",81237.0,374.0,6093.0,33448.0,134072.79,2023,"None","Galt",FT
+"Robert Steven Bottino","Building Inspector Iv",91224.0,0.0,1280.0,25366.0,134053.84,2023,"None","Sacramento",FT
+"Mitchell Gamble","Building Inspector",86342.0,2611.0,6422.0,34103.0,134051.75,2023,"None","Malibu",FT
+"Joel Snyder","Building Inspector Ii",83832.29,0.0,0.0,49895.84,134004.89,2023,"None","San Joaquin County",FT
+"Charles Harry Monsen","Building Inspector Iv",96766.0,530.0,1871.0,18626.0,133961.29,2023,"None","Sacramento",FT
+"Alex Rocha","Building Inspector Ii",82745.97,0.0,12561.0,38565.48,133872.45,2023,"None","Chino Hills",FT
+"Benny Garnica","Building Inspector Iii",59779.0,603.0,22071.0,31775.0,133863.54,2023,"None","Burbank",PT
+"Erick Monsivaiz","Senior Building Inspector",90713.0,964.0,0.0,30333.0,133856.33,2023,"None","Rancho Palos Verdes",FT
+"Ptolemy Hill","Building Mechanical Inspector",89886.4,0.0,1948.71,41972.67,133807.78,2023,"None","Los Angeles",
+"Ernie D Valenzuela","Senior Building/Engineering Inspector-Technician Iv",89521.68,291.0,1514.0,25377.0,133761.79,2023,"None","Paso Robles",FT
+"Francisco Javier Ramirez","Combination Building Inspector Aide Ii",62527.0,18860.0,20204.0,32096.0,133687.0,2023,"None","Long Beach",FT
+"Sinclare Stephen George Jr","Building Inspector",74400.0,1568.0,1483.0,56208.0,133659.0,2023,"None","Kern County",FT
+"Daniel Cook","Combination Building Inspector",67549.3,183.9,1750.0,43604.13,133576.83,2023,"None","Madera",FT
+"Mark Zugar","Building Inspector I",104830.39,0.0,0.0,21605.18,133452.93,2023,"None","San Carlos",FT
+"John F Hand","Building Inspector",95440.0,1302.0,1074.0,22717.18,133394.2,2023,"None","Laguna Beach",
+"Bryan Budgin","Building Inspector I",84075.64,0.0,0.0,49316.94,133392.58,2023,"None","Contra Costa County",
+"Skye Barnett","Senior Building Inspector",106722.0,315.0,0.0,19058.0,133267.55,2023,"None","Windsor",FT
+"Eusebio Guzman","Building Mechanical Inspector",84588.18,7814.75,2145.44,38679.16,133227.53,2023,"None","Los Angeles",
+"Candace M Martin","Building Engineering Inspector Aid",81743.0,6729.0,2791.0,41942.0,133205.0,2023,"None","Los Angeles County",
+"Juan Wade","Building Inspector Ii",91158.0,0.0,0.0,41933.0,133091.0,2023,"None","San Luis Obispo County",FT
+"Steven Edward Bronson","Building Inspector Iv",95782.0,0.0,1800.0,19200.0,133076.38,2023,"None","Sacramento",FT
+"Louis Kidwell","Building Inspector I",101960.0,0.0,0.0,23724.0,133053.22,2023,"None","Brentwood",FT
+"Michael D. Henson","Senior Building Inspector",98703.0,3042.0,9034.0,12539.0,133043.76,2023,"None","Dana Point",
+"James C. Babcock","Building Inspector Ii",83083.0,2196.0,2466.0,27039.0,133032.42,2023,"None","Oceanside",FT
+"Caleb Meister","Building Mechanical Inspector",87332.98,5428.96,6335.64,33841.98,132939.56,2023,"None","Los Angeles",
+"Bill Tarin","Building Inspector",87673.0,0.0,0.0,26223.0,132938.22,2023,"None","Villa Park",FT
+"Michael A de la Rosa","Building Engineering Inspector",84110.0,250.0,2923.0,45509.0,132792.0,2023,"None","Los Angeles County",
+"Brian Husted","Building Inspector 2",108100.0,0.0,0.0,24655.0,132755.0,2023,"None","Sunnyvale",FT
+"Stacey C Pinedo","Building Engineering Inspector Aid",81660.0,0.0,5993.0,45031.0,132684.0,2023,"None","Los Angeles County",
+"Daniel Lesmerises","Building Inspector",93790.5,0.0,0.0,38809.02,132599.52,2023,"None","Clovis",FT
+"Jeremiah A Griffith","Building Inspector Ii",78540.09,8763.23,2693.4,42590.37,132587.09,2023,"None","San Bernardino County",FT
+"Charles Tellis","Senior Building Inspector",95980.31,5163.55,0.0,20546.9,132575.73,2023,"None","Riverside County",FT
+"Randy A Herrington","Building Inspector Ii",95475.38,140.82,2275.55,24420.94,132561.16,2023,"None","Monterey County",
+"Stephen M Dudla","Building Inspector I",83150.0,0.0,1317.0,27107.0,132489.16,2023,"None","Napa",FT
+"James Shoffner","Building Inspector I/Ii/Iii",88350.0,10888.0,6784.0,10652.0,132437.52,2023,"None","Mono County",FT
+"Brian I. Hara","Building Inspector Ii",78809.46,0.0,0.0,29811.92,132404.65,2023,"None","Costa Mesa",
+"Kimberly Lynn Ung","Building Engineering Inspector Aid",77127.0,7543.0,1631.0,46004.0,132305.0,2023,"None","Los Angeles County",
+"Dale K Heglund","Building Inspector",87434.0,2144.0,10914.0,24505.0,132240.07,2023,"None","Lake Elsinore",FT
+"Marc A. Prosi","Building Inspector Iii",91869.0,0.0,2135.0,19562.0,132215.38,2023,"None","Oceanside",FT
+"Julien Bellin","Building Engineering Inspector Aid",83875.0,1559.0,4788.0,41961.0,132183.0,2023,"None","Los Angeles County",
+"Michelle Jasmine Chavez","Building Engineering Inspector",79652.0,0.0,3806.0,48495.0,131953.0,2023,"None","Los Angeles County",
+"Jose A Guillen","Building Inspector Ii",82155.0,2368.0,7732.0,28618.0,131845.31,2023,"None","Fontana",FT
+"Bruce Robert Holmes","Building Inspector Iv",95125.0,100.0,1812.0,18703.0,131797.75,2023,"None","Sacramento",FT
+"Teresa Mello","Senior Building Inspector",81988.0,0.0,0.0,36717.0,131748.79,2023,"None","Rancho Cucamonga",FT
+"Christopher L Oppenheimer","Building Inspector Ii",87912.0,11114.0,1805.0,30672.0,131686.87,2023,"None","Coachella City",FT
+"Timothy Albert Wong","Building Engineering Inspector",84449.0,9298.0,2883.0,34932.0,131562.0,2023,"None","Los Angeles County",
+"James Hansmeier","Building Inspector Iv",93508.29,435.57,9223.75,28376.48,131544.09,2023,"None","Ventura County",FT
+
+
+Note: Downloaded search results generated on May 23rd 2025 12:14 are limited to the first 1000 results.
