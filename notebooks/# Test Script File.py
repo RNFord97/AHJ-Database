@@ -1,103 +1,79 @@
-# Test Script File
-import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
-import re
+import numpy as np
+from collections import Counter
 
-# Step 1: Load personnel data
-personnel_df = pd.read_excel("Composite Position Search Results.xlsx", sheet_name="F_Composite Position Search")
+# List of jurisdictions with participant counts
+jurisdictions = [
+    "Murrieta", "San Diego", "El Centro", "Hayward", "Los Angeles", "Eureka", "San Marcos", "Santa Barbara County",
+    "Wasco", "Redding", "Garden Grove", "Newport Beach", "Wildomar", "Palo Alto", "El Dorado County", "Santa Maria",
+    "San Francisco", "Berkeley", "Pomona", "Turlock", "Half Moon Bay", "Los Altos Hills", "Davis", "Dixon",
+    "San Bernardino", "Tiburon", "Pismo Beach", "Folsom", "Riverside", "Orland"
+]
 
-# Step 2: Classify agency type
-def classify_agency(agency):
-    agency_lower = str(agency).lower()
-    if 'county' in agency_lower or 'sheriff' in agency_lower:
-        return 'county'
-    elif 'city of' in agency_lower:
-        return 'city'
-    else:
-        return 'city'
+# Count the occurrences of each jurisdiction
+jurisdiction_counts = Counter(jurisdictions)
 
-personnel_df['type'] = personnel_df['Agency'].apply(classify_agency)
+# Load a map of California using GeoPandas
+world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+california = world[world.name == "California"]
 
-# Step 3: Clean names
-def clean_name(name):
-    name = str(name).lower()
-    name = re.sub(r'county|city of|sheriff|department|dept|agency|office', '', name)
-    name = re.sub(r'\s+', ' ', name)
-    return name.strip().title()
+# Plot the base map of California
+fig, ax = plt.subplots(figsize=(10, 12))
+california.plot(ax=ax, color='lightgrey')
 
-personnel_df['clean_name'] = personnel_df['Agency'].apply(clean_name)
+# Add a simple color-coding scheme for the jurisdictions
+color_map = plt.cm.get_cmap('viridis', len(jurisdiction_counts))  # Use a colormap with distinct colors
+color_dict = {jurisdiction: color_map(i) for i, jurisdiction in enumerate(jurisdiction_counts)}
 
-# Step 4: Ensure 'Total Pay' is numeric
-personnel_df['Total Pay'] = pd.to_numeric(personnel_df['Total Pay'], errors='coerce').fillna(0)
+# Just a simple representation as placeholders (no actual geometry of cities included in this plot)
+# We can represent the jurisdictions as dots with colors corresponding to their counts
+# For now, I will plot random points for demonstration
 
-# Step 5: Aggregate personnel count and total pay
-agg_data = (
-    personnel_df
-    .groupby(['clean_name', 'type'])
-    .agg(personnel_count=('Employee Name', 'count'),
-         total_pay=('Total Pay', 'sum'))
-    .reset_index()
-)
+# Random coordinates for demonstration (in actual use, you'd want precise lat/lon for each city)
+np.random.seed(42)
+locations = {
+    "Murrieta": (33.5806, -117.1896),
+    "San Diego": (32.7157, -117.1611),
+    "El Centro": (32.7920, -115.5636),
+    "Hayward": (37.6688, -122.0808),
+    "Los Angeles": (34.0522, -118.2437),
+    "Eureka": (40.8021, -124.1637),
+    "San Marcos": (33.1434, -117.1661),
+    "Santa Barbara County": (34.4208, -119.6982),
+    "Wasco": (35.5923, -119.3530),
+    "Redding": (40.5865, -122.3917),
+    "Garden Grove": (33.7739, -117.9415),
+    "Newport Beach": (33.6189, -117.9292),
+    "Wildomar": (33.5800, -117.1803),
+    "Palo Alto": (37.4419, -122.1430),
+    "El Dorado County": (38.7345, -120.5359),
+    "Santa Maria": (34.9592, -120.4357),
+    "San Francisco": (37.7749, -122.4194),
+    "Berkeley": (37.8715, -122.2730),
+    "Pomona": (34.0551, -117.7498),
+    "Turlock": (37.4957, -120.8490),
+    "Half Moon Bay": (37.4636, -122.4287),
+    "Los Altos Hills": (37.3958, -122.1276),
+    "Davis": (38.5449, -121.7405),
+    "Dixon": (38.4470, -121.8359),
+    "San Bernardino": (34.1083, -117.2898),
+    "Tiburon": (37.8593, -122.4469),
+    "Pismo Beach": (35.1437, -120.6439),
+    "Folsom": (38.6779, -121.1761),
+    "Riverside": (33.9806, -117.3755),
+    "Orland": (39.7702, -122.1861)
+}
 
-# Step 6: Load combined GeoJSON with CITY and COUNTY columns
-geo_df = gpd.read_file("City_and_County_Boundary_Line_Changes_5487330134999085531.geojson")
+# Plot jurisdictions with color based on participant count
+for jurisdiction, (lat, lon) in locations.items():
+    count = jurisdiction_counts.get(jurisdiction, 0)
+    color = color_dict.get(jurisdiction, 'grey')  # Get the color for the jurisdiction
+    ax.scatter(lon, lat, color=color, s=100, label=jurisdiction, alpha=0.7)
 
-# Step 7: Split into city and county GeoDataFrames
-geo_city = geo_df.copy()
-geo_county = geo_df.copy()
+# Add title and labels
+ax.set_title('California Jurisdictions with Participant Counts', fontsize=16)
+plt.legend(loc='upper right', fontsize=8, title="Jurisdictions")
 
-geo_city['clean_name'] = geo_city['CITY'].apply(lambda x: clean_name(str(x)))
-geo_city['type'] = 'city'
-
-geo_county['clean_name'] = geo_county['COUNTY'].apply(lambda x: clean_name(str(x)))
-geo_county['type'] = 'county'
-
-# Step 8: Merge personnel data
-geo_city = geo_city.merge(
-    agg_data[agg_data['type'] == 'city'],
-    on=['clean_name', 'type'],
-    how='left'
-)
-
-geo_county = geo_county.merge(
-    agg_data[agg_data['type'] == 'county'],
-    on=['clean_name', 'type'],
-    how='left'
-)
-
-# Fill missing values
-geo_city[['personnel_count', 'total_pay']] = geo_city[['personnel_count', 'total_pay']].fillna(0)
-geo_county[['personnel_count', 'total_pay']] = geo_county[['personnel_count', 'total_pay']].fillna(0)
-
-# Step 9: Plot overlay map
-fig, ax = plt.subplots(1, 1, figsize=(14, 14))
-
-# Plot county layer (total pay)
-geo_county.plot(
-    column='total_pay',
-    cmap='OrRd',
-    linewidth=0.5,
-    edgecolor='black',
-    legend=True,
-    legend_kwds={'label': "Total Pay (County)", 'shrink': 0.5},
-    ax=ax,
-    alpha=0.6
-)
-
-# Plot city layer (personnel count)
-geo_city.plot(
-    column='personnel_count',
-    cmap='YlGnBu',
-    linewidth=0.5,
-    edgecolor='black',
-    legend=True,
-    legend_kwds={'label': "Personnel Count (City)", 'shrink': 0.5},
-    ax=ax,
-    alpha=0.5
-)
-
-ax.set_title("Overlay: County Total Pay and City Personnel Count", fontsize=16)
-ax.axis('off')
-plt.tight_layout()
+# Show the map
 plt.show()
