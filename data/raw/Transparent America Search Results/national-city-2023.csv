@@ -1,0 +1,465 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Pension Debt,Total Pay & Benefits,Year,Notes,Agency,Status
+Jose Tellez,Police Chief,221025.00,0.00,120610.00,47682.00,341635.00,41115.70,430432.70,2023,,National City,FT
+Bradford Raulston,City Manager,231818.00,0.00,103135.00,20167.00,334953.00,15466.68,370586.68,2023,,National City,FT
+Brian Krepps,Fire Battalion Chief,149674.00,117658.00,16090.00,36540.00,283422.00,29999.92,349961.92,2023,,National City,FT
+Scott Robinson,Fire Battalion Chief,141941.00,97148.00,29366.00,37597.00,268455.00,29207.48,335259.48,2023,,National City,FT
+Jasen Matlock,Fire Captain,109588.00,142555.00,8936.00,46886.00,261079.00,24078.58,332043.58,2023,,National City,FT
+James Stiles,Fire Battalion Chief,143051.00,64556.00,32726.00,47166.00,240333.00,33254.21,320753.21,2023,,National City,FT
+Matthew Lucas,Fire Captain,148346.00,75263.00,27569.00,31793.00,251178.00,27414.78,310385.78,2023,,National City,FT
+Alejan Hernandez,Police Captain,201353.00,0.00,15469.00,53413.00,216822.00,38406.39,308641.39,2023,,National City,FT
+Jeremy Day,Fire Captain,140147.00,66280.00,31739.00,41334.00,238166.00,28225.33,307725.33,2023,,National City,FT
+Derek Aydelotte,Police Captain,176069.00,4002.00,23103.00,59258.00,203174.00,36749.93,299181.93,2023,,National City,FT
+Brian Smith,Fire Captain,109610.00,100282.00,8936.00,46877.00,218828.00,24070.82,289775.82,2023,,National City,FT
+Christopher Sullivan,Police Captain,181325.00,0.00,15758.00,56059.00,197083.00,35922.13,289064.13,2023,,National City,FT
+Antonio Ybarra,Police Lieutenant,155874.00,14815.00,22822.00,53820.00,193511.00,35422.86,282753.86,2023,,National City,FT
+Greg Seward,Police Lieutenant,160823.00,8106.00,20367.00,56685.00,189296.00,34960.68,280941.68,2023,,National City,FT
+Samuel Mendoza III,Fire Captain,111183.00,91474.00,8890.00,44911.00,211547.00,24238.10,280696.10,2023,,National City,FT
+Christ Duron,Fire Captain,116996.00,56276.00,33181.00,45328.00,206453.00,27131.09,278912.09,2023,,National City,FT
+Omar Ramirez,Police Lieutenant,140626.00,13751.00,37682.00,51108.00,192059.00,33084.33,276251.33,2023,,National City,FT
+Kevin Hamel,Fire Captain,101826.00,76258.00,23391.00,48264.00,201475.00,25266.81,275005.81,2023,,National City,FT
+Barry Schultz,City Attorney,200884.00,0.00,12961.00,30265.00,213845.00,26472.36,270582.36,2023,,National City,FT
+Wade Walters,Police Lieutenant,138402.00,6982.00,37850.00,54529.00,183234.00,31825.39,269588.39,2023,,National City,FT
+Joseph Camacho,Police Sergeant,132367.00,38531.00,28803.00,40806.00,199701.00,28513.34,269020.34,2023,,National City,FT
+Benjamin Garcia,Fire Captain,112974.00,80178.00,8936.00,41887.00,202088.00,24163.95,268138.95,2023,,National City,FT
+Paul Hernandez,Police Sergeant,130673.00,15203.00,34937.00,53524.00,180813.00,30958.79,265295.79,2023,,National City,FT
+Roberto Gonzales,Police Sergeant,127624.00,30785.00,25171.00,51411.00,183580.00,29136.77,264127.77,2023,,National City,FT
+Aaron de Pascale,Police Sergeant,129354.00,20453.00,29632.00,51838.00,179439.00,29504.97,260781.97,2023,,National City,FT
+Michael Shanahan,Police Sergeant,118960.00,42514.00,23007.00,48792.00,184481.00,26878.43,260151.43,2023,,National City,FT
+Sergio Mora,Fire Chief,180848.00,0.00,8528.00,39525.00,189376.00,31210.58,260111.58,2023,,National City,FT
+Mark Segal,Police Sergeant,126696.00,34654.00,21994.00,46063.00,183344.00,28734.08,258141.08,2023,,National City,FT
+George Williams,Firefighter,87886.00,99436.00,18142.00,32261.00,205464.00,20401.78,258126.78,2023,,National City,FT
+Ronney Wilson,Fire Captain,112256.00,55969.00,26961.00,35034.00,195186.00,26997.43,257217.43,2023,,National City,FT
+Brian Viora,Fire Captain,115905.00,55990.00,24665.00,33016.00,196560.00,27186.27,256762.27,2023,,National City,FT
+Jeffrey Bogle,Fire Captain,117300.00,64786.00,8936.00,36516.00,191022.00,24070.82,251608.82,2023,,National City,FT
+Sean Mazich,Firefighter,88371.00,115493.00,6488.00,22348.00,210352.00,17987.36,250687.36,2023,,National City,FT
+Eric Benedek,Fire Engineer,91418.00,66649.00,21695.00,45588.00,179762.00,22959.33,248309.33,2023,,National City,FT
+John Mc Gough,Police Sergeant,117266.00,25716.00,28914.00,48903.00,171896.00,26974.15,247773.15,2023,,National City,FT
+Vincent Fernando,Police Sergeant,127625.00,19715.00,20363.00,50383.00,167703.00,28250.34,246336.34,2023,,National City,FT
+Juan Bautista Gutierrez,Police Officer,109793.00,51017.00,24315.00,36145.00,185125.00,24494.20,245764.20,2023,,National City,FT
+Christopher Goodrich,Fire Engineer,98903.00,60555.00,20884.00,41044.00,180342.00,23437.04,244823.04,2023,,National City,FT
+Molly Brennan,Director Of Admin Services,177467.00,0.00,18300.00,20843.00,195767.00,25502.10,242112.10,2023,,National City,FT
+John Dougherty,Police Sergeant,122910.00,8776.00,28041.00,50461.00,159727.00,28317.60,238505.60,2023,,National City,FT
+Damian Ballardo,Police Sergeant,108998.00,11156.00,34166.00,52584.00,154320.00,30148.24,237052.24,2023,,National City,FT
+Kenneth Springer,Police Sergeant,129192.00,12948.00,14818.00,50386.00,156958.00,28252.92,235596.92,2023,,National City,FT
+Derek Lafreniere,Fire Captain,109056.00,48927.00,22669.00,29516.00,180652.00,24983.12,235151.12,2023,,National City,FT
+Zachary Stout,Fire Engineer,98966.00,45110.00,21015.00,46167.00,165091.00,23458.59,234716.59,2023,,National City,FT
+Matthew Cardoza,Police Corporal,110242.00,32723.00,19284.00,46222.00,162249.00,24662.35,233133.35,2023,,National City,FT
+Richard Calixto,Police Corporal,108951.00,27039.00,23158.00,47084.00,159148.00,25405.64,231637.64,2023,,National City,PT
+Miguel Lozano,Police Officer,101288.00,46300.00,17002.00,43606.00,164590.00,22406.60,230602.60,2023,,National City,FT
+Ruben Lopez,Police Corporal,114711.00,20799.00,29853.00,38676.00,165363.00,26175.67,230214.67,2023,,National City,FT
+Francisco Parra,Assistant City Manager,168732.00,0.00,16911.00,19983.00,185643.00,24449.86,230075.86,2023,,National City,PT
+Raziel Quiroga,Police Corporal,110911.00,27425.00,17895.00,47256.00,156231.00,25553.96,229040.96,2023,,National City,FT
+Evan Davis,Police Officer,109889.00,49929.00,12013.00,34010.00,171831.00,22653.21,228494.21,2023,,National City,FT
+Daniel Scanlon,Police Corporal,113454.00,34277.00,13803.00,40989.00,161534.00,24358.82,226881.82,2023,,National City,FT
+Salvador Gil,Police Corporal,110332.00,23170.00,20181.00,46674.00,153683.00,25052.10,225409.10,2023,,National City,FT
+Mc,Fire Engineer,95056.00,56952.00,21429.00,27096.00,173437.00,22610.96,223143.96,2023,,National City,FT
+Benjamin Martinez,City Manager,158959.00,0.00,12308.00,27808.00,171267.00,23417.20,222492.20,2023,,National City,PT
+Kevin Hirsh,Police Corporal,117494.00,22781.00,26889.00,29284.00,167164.00,25251.29,221699.29,2023,,National City,FT
+Darren Pierson,Police Sergeant,138015.00,781.00,19006.00,33665.00,157802.00,29028.99,220495.99,2023,,National City,FT
+Bodhi Dannley-Johnston,Firefighter,84480.00,67079.00,17162.00,30772.00,168721.00,19117.83,218610.83,2023,,National City,FT
+Rober Hernandez,Battalion Chief,139083.00,0.00,20952.00,31310.00,160035.00,26072.19,217417.19,2023,,National City,FT
+Anthony Carlomagno,Police Officer,103884.00,29762.00,16346.00,43842.00,149992.00,22610.10,216444.10,2023,,National City,FT
+Javier Cornejo,Police Corporal,107481.00,16129.00,20125.00,47141.00,143735.00,25454.79,216330.79,2023,,National City,PT
+Anthony Sabala,Police Officer,107510.00,37266.00,15358.00,33730.00,160134.00,22411.77,216275.77,2023,,National City,FT
+Cody Kalankiewicz,Police Corporal,116270.00,22187.00,22648.00,29685.00,161105.00,25128.85,215918.85,2023,,National City,FT
+Sakamoto,Police Corporal,117614.00,23905.00,19727.00,29930.00,161246.00,24489.03,215665.03,2023,,National City,FT
+Robert Rude,Police Corporal,114481.00,16631.00,20988.00,36996.00,152100.00,25228.01,214324.01,2023,,National City,FT
+Nicholas Black,Fire Engineer,116605.00,27688.00,20545.00,26742.00,164838.00,22591.13,214171.13,2023,,National City,FT
+Ryan Stinnett,Police Corporal,110128.00,10775.00,21371.00,46105.00,142274.00,24561.46,212940.46,2023,,National City,FT
+Armando Vergara,City Manager,99803.00,0.00,78765.00,19253.00,178568.00,14747.25,212568.25,2023,,National City,PT
+Scott Harris,Fire Engineer,92709.00,43602.00,18681.00,33786.00,154992.00,20705.30,209483.30,2023,,National City,FT
+Ryan Mariota,Police Corporal,115012.00,8422.00,22487.00,37329.00,145921.00,25515.15,208765.15,2023,,National City,FT
+Jorge Cruz Fernandez,Police Officer,111955.00,18485.00,18790.00,35551.00,149230.00,23982.00,208763.00,2023,,National City,FT
+Jason Taylor,Police Corporal,108205.00,10223.00,20355.00,45601.00,138783.00,24126.87,208510.87,2023,,National City,PT
+Colleen Stanich,Police Corporal,111714.00,12555.00,13174.00,46242.00,137443.00,24679.60,208364.60,2023,,National City,PT
+Michael Acevedo,Police Officer,100480.00,21498.00,21534.00,42576.00,143512.00,22156.54,208244.54,2023,,National City,PT
+Graham Young,Assistant Chief Of Police,124038.00,0.00,24757.00,31272.00,148795.00,26965.53,207032.53,2023,,National City,PT
+Carlos Aguirre,Dir Of Housing & Economic Dev,146847.00,0.00,20863.00,17370.00,167710.00,21252.77,206332.77,2023,,National City,FT
+Adrian Valenzuela,Fire Engineer,85500.00,30843.00,27267.00,36795.00,143610.00,24311.40,204716.40,2023,,National City,FT
+German Palma Castorena,Police Officer,105466.00,32718.00,14892.00,28868.00,153076.00,22739.44,204683.44,2023,,National City,FT
+Murry Estabrook Jr,Police Corporal,113809.00,9653.00,20251.00,35700.00,143713.00,24110.48,203523.48,2023,,National City,FT
+Gabriel Gonzales,Police Corporal,109192.00,7915.00,16748.00,43437.00,133855.00,24523.52,201815.52,2023,,National City,FT
+Bernal,Police Officer,103047.00,23327.00,20670.00,32951.00,147044.00,21740.05,201735.05,2023,,National City,FT
+Pamela Sosa,Police Officer,108098.00,15937.00,19870.00,34307.00,143905.00,22909.31,201121.31,2023,,National City,FT
+Daniel Long,Police Officer,101862.00,22954.00,8533.00,43145.00,133349.00,22009.08,198503.08,2023,,National City,FT
+Kyle Fitchhorn,Police Officer,109284.00,13645.00,16456.00,34446.00,139385.00,23029.17,196860.17,2023,,National City,FT
+Richar Bargas,Firefighter,84308.00,43718.00,17560.00,31292.00,145586.00,19566.22,196444.22,2023,,National City,FT
+Giovanni Corado,Police Officer,101024.00,21946.00,9711.00,42156.00,132681.00,21156.28,195993.28,2023,,National City,FT
+Benjamin Peck,Police Officer,103087.00,4095.00,20969.00,44304.00,128151.00,23008.48,195463.48,2023,,National City,FT
+Angela Chelius,Police Corporal,76891.00,572.00,57693.00,35362.00,135156.00,24098.41,194616.41,2023,,National City,PT
+Rowdy Pauu,Police Officer,110205.00,21391.00,8578.00,32275.00,140174.00,21157.14,193606.14,2023,,National City,FT
+Shane Mc Clure Jr,Police Corporal,108597.00,4419.00,11692.00,45107.00,124708.00,23700.90,193515.90,2023,,National City,PT
+Steven Anderson,Police Officer,109282.00,24418.00,9948.00,27780.00,143648.00,21824.55,193252.55,2023,,National City,FT
+Emma Lucille Cabatu,Police Officer,102076.00,24625.00,12667.00,31583.00,139368.00,20560.44,191511.44,2023,,National City,FT
+Freddy Tec-Durazo,Police Officer,102557.00,10962.00,10398.00,43408.00,123917.00,22235.87,189560.87,2023,,National City,FT
+Joyce Ryan,Library & Comm Srvcs Director,121202.00,0.00,23214.00,26515.00,144416.00,17759.58,188690.58,2023,,National City,PT
+Monique Hawk,Police Officer,109612.00,14254.00,9808.00,33063.00,133674.00,21836.63,188573.63,2023,,National City,FT
+Vincent Shafer,Police Officer,105119.00,21830.00,9852.00,31248.00,136801.00,20271.57,188320.57,2023,,National City,FT
+Christopher Berry,Firefighter,82618.00,50304.00,5983.00,32010.00,138905.00,17343.23,188258.23,2023,,National City,FT
+Reynaldo Velazquez,Police Officer,102950.00,13404.00,17680.00,30982.00,134034.00,22001.32,187017.32,2023,,National City,FT
+Rachelle Barrera,Financial Services Officer,129728.00,0.00,21326.00,15234.00,151054.00,18639.30,184927.30,2023,,National City,FT
+Ronald Williams,Information Technology Manager,118910.00,0.00,20070.00,28364.00,138980.00,17556.48,184900.48,2023,,National City,FT
+Sean Devine,Firefighter,81673.00,46093.00,15260.00,22575.00,143026.00,19103.17,184704.17,2023,,National City,FT
+Jose Barragan,Police Officer,110666.00,24173.00,3640.00,25387.00,138479.00,20686.33,184552.33,2023,,National City,FT
+David Bavencoff Jr,Police Lieutenant,71936.00,0.00,76574.00,21314.00,148510.00,14350.23,184174.23,2023,,National City,PT
+Michael Sportelli,Police Officer,100969.00,18944.00,12015.00,31614.00,131928.00,20587.17,184129.17,2023,,National City,FT
+Gilbert Sanchez,Police Officer,101846.00,16910.00,14060.00,26427.00,132816.00,21279.59,180522.59,2023,,National City,FT
+Robert Drew,Deputy Fire Marshal,72725.00,30687.00,7488.00,44654.00,110900.00,22153.95,177707.95,2023,,National City,PT
+Michael Mejia,Firefighter,88310.00,30797.00,6998.00,29789.00,126105.00,18270.20,174164.20,2023,,National City,FT
+Shelley Chapel,City Clerk,121926.00,0.00,16176.00,15634.00,138102.00,17814.64,171550.64,2023,,National City,FT
+Martha Juarez,Asst Director Of Pw/Engr,128084.00,0.00,9779.00,15306.00,137863.00,18212.29,171381.29,2023,,National City,FT
+Maelihini Adamos,Senior Police Dispatcher,101614.00,34979.00,1493.00,19237.00,138086.00,13334.06,170657.06,2023,,National City,FT
+Karina Ortiz,Police Officer,110920.00,8450.00,4975.00,24784.00,124345.00,21195.08,170324.08,2023,,National City,FT
+Jocelyn Bastida,Police Officer,102080.00,6890.00,11791.00,26458.00,120761.00,21655.55,168874.55,2023,,National City,PT
+Paul Valadez,Budget Manager,120527.00,0.00,14400.00,14155.00,134927.00,17319.11,166401.11,2023,,National City,FT
+Mark Ibarra,Police Officer,107545.00,14126.00,351.00,23887.00,122022.00,19802.48,165711.48,2023,,National City,FT
+Jessica Bohner,Firefighter,89696.00,25574.00,8811.00,22989.00,124081.00,18564.24,165634.24,2023,,National City,FT
+Roberto Yano,Director Of Pw/City Engineer,93214.00,0.00,37033.00,20597.00,130247.00,14189.31,165033.31,2023,,National City,PT
+Michael Rodgers,Firefighter,89183.00,29960.00,6763.00,21108.00,125906.00,17327.71,164341.71,2023,,National City,FT
+Jeffrey Vasquez,Police Officer,97598.00,7303.00,8879.00,30220.00,113780.00,19385.14,163385.14,2023,,National City,FT
+Traci Whited,Information Technology Analyst,101929.00,22980.00,1137.00,21145.00,126046.00,14418.12,161609.12,2023,,National City,FT
+John Saour,Sr Info Technology Analyst,103508.00,10529.00,0.00,31305.00,114037.00,16067.44,161409.44,2023,,National City,FT
+Angelita Palma,Community Development Manager,106436.00,0.00,16262.00,22204.00,122698.00,15299.06,160201.06,2023,,National City,FT
+Germi Morrison,Police Officer,98913.00,6242.00,5303.00,30171.00,110458.00,19342.88,159971.88,2023,,National City,FT
+Sabrina Barajas,Police Officer,89978.00,12697.00,9043.00,28822.00,111718.00,18179.66,158719.66,2023,,National City,FT
+Matthew Wadsworth,Police Officer,111338.00,1385.00,1257.00,23915.00,113980.00,20621.66,158516.66,2023,,National City,FT
+Lauric East,Firefighter,59888.00,38505.00,18668.00,22301.00,117061.00,18761.70,158123.70,2023,,National City,PT
+Jesus Izaguirre,Police Officer,82500.00,7804.00,8757.00,38860.00,99061.00,18314.17,156235.17,2023,,National City,FT
+Amber Lashbrook,Police Support Services Mgr.,110584.00,0.00,0.00,27404.00,110584.00,15910.83,153898.83,2023,,National City,FT
+Hasani Wiggins,Human Resources Manager,109616.00,0.00,10543.00,14482.00,120159.00,15936.52,150577.52,2023,,National City,PT
+Stephanie Fuston,Police Officer,88182.00,3378.00,8723.00,29675.00,100283.00,18007.20,147965.20,2023,,National City,FT
+Tyler Crestik,Police Officer,90232.00,3923.00,7591.00,28366.00,101746.00,17786.45,147898.45,2023,,National City,FT
+Haley Mayfield,Police Dispatcher,83209.00,39640.00,3109.00,9041.00,125958.00,10971.42,145970.42,2023,,National City,FT
+Joanne McGhee,Community Services Manager,103616.00,0.00,14400.00,12172.00,118016.00,14892.85,145080.85,2023,,National City,FT
+Benjamin Argersinger,Police Officer,87732.00,7475.00,6585.00,26821.00,101792.00,16454.21,145067.21,2023,,National City,FT
+Cecilia Garcia,Police Officer,87835.00,6703.00,4730.00,27611.00,99268.00,17135.42,144014.42,2023,,National City,FT
+Ramon Ahumada Jr,Police Officer,90732.00,8833.00,5781.00,20747.00,105346.00,17475.16,143568.16,2023,,National City,FT
+Marta Rios,Housing Programs Manager,105566.00,0.00,6757.00,14846.00,112323.00,15962.21,143131.21,2023,,National City,FT
+Brian Fisch,Police Officer,76701.00,2091.00,20913.00,27844.00,99705.00,15330.65,142879.65,2023,,National City,PT
+Jason Sanders,Fire Engineer,48402.00,17088.00,29048.00,24978.00,94538.00,21538.27,141054.27,2023,,National City,PT
+Huerta Ruben,Equip. Maint. Supervisor,94512.00,0.00,5858.00,26211.00,100370.00,14451.15,141032.15,2023,,National City,FT
+Franklyn Sigston III,Police Dispatcher,89388.00,14171.00,3234.00,22591.00,106793.00,11318.91,140702.91,2023,,National City,FT
+Rasheed Farha,Police Officer,69956.00,8562.00,3004.00,38885.00,81522.00,19528.28,139935.28,2023,,National City,PT
+Martin Reeder,Planning Manager,99752.00,0.00,13857.00,12118.00,113609.00,14162.40,139889.40,2023,,National City,FT
+Ruben Vasquez,Police Dispatcher,80837.00,25716.00,5000.00,17250.00,111553.00,10902.90,139705.90,2023,,National City,FT
+William Phillips Jr,Police Corporal,76908.00,0.00,9756.00,28472.00,86664.00,23552.58,138688.58,2023,,National City,PT
+Audrey Reese,Police Dispatcher,85142.00,22188.00,2442.00,17488.00,109772.00,11208.79,138468.79,2023,,National City,FT
+Ashlin Lutes,Deputy City Attorney,98839.00,0.00,0.00,24695.00,98839.00,14798.63,138332.63,2023,,National City,PT
+Sunni Wyatt,Police Officer,85508.00,3420.00,4320.00,27200.00,93248.00,16781.02,137229.02,2023,,National City,FT
+Victor Uribe,Park Superintendent,89977.00,0.00,12522.00,19647.00,102499.00,13182.35,135328.35,2023,,National City,FT
+Zachary Henry,Police Officer,75034.00,7434.00,3006.00,33781.00,85474.00,14928.82,134183.82,2023,,National City,PT
+Yelma Lopez,Police Dispatcher,83149.00,17627.00,13502.00,8829.00,114278.00,10802.57,133909.57,2023,,National City,FT
+Maxamillian Loree,Firefighter,66853.00,18281.00,10505.00,23671.00,95639.00,14179.49,133489.49,2023,,National City,FT
+Pedro Manuel Garcia Jr,Community Development Spec Iii,90205.00,0.00,2041.00,26378.00,92246.00,14655.48,133279.48,2023,,National City,FT
+Arnaldo Ocana,Senior Accountant,89836.00,0.00,19612.00,10769.00,109448.00,12926.63,133143.63,2023,,National City,FT
+Tirza Gonzales,Management Analyst Iii,93020.00,0.00,13514.00,12809.00,106534.00,13532.28,132875.28,2023,,National City,FT
+Walter Amedee,Management Analyst Iii,91627.00,0.00,16272.00,10998.00,107899.00,13456.42,132353.42,2023,,National City,FT
+James Slade,Senior Construction Inspector,86732.00,15893.00,5360.00,11361.00,107985.00,12586.49,131932.49,2023,,National City,FT
+Adolfo Osuna,Firefighter,58437.00,22029.00,6344.00,31337.00,86810.00,13251.67,131398.67,2023,,National City,PT
+Eduardo Sanchez,Fire Inspector Ii,81784.00,15648.00,6145.00,18221.00,103577.00,8521.15,130319.15,2023,,National City,FT
+Kaitlynn Norie,Police Officer,85049.00,4118.00,4642.00,19315.00,93809.00,16245.54,129369.54,2023,,National City,FT
+Ronald Gutlay,Management Analyst Ii,89055.00,0.00,16876.00,10491.00,105931.00,12836.09,129258.09,2023,,National City,FT
+Shawna Newman,Police Dispatcher,84312.00,11017.00,4051.00,17654.00,99380.00,11397.21,128431.21,2023,,National City,FT
+Luca Zappiello,Associate Civil Engineer,97507.00,0.00,0.00,13016.00,97507.00,14124.47,124647.47,2023,,National City,FT
+Marie Browder,Police Dispatcher,75209.00,9859.00,1055.00,27117.00,86123.00,10884.55,124124.55,2023,,National City,FT
+Damon Dong,Information Technology Technician,76012.00,6992.00,6430.00,21790.00,89434.00,11978.39,123202.39,2023,,National City,FT
+Azucena Pfeifer,Senior Housing Specialist,78586.00,0.00,2135.00,28528.00,80721.00,12610.96,121859.96,2023,,National City,FT
+Greg Rose,Property Agent,81841.00,0.00,97.00,27801.00,81938.00,11840.13,121579.13,2023,,National City,FT
+Juan Pena,Information Technology Technician,75523.00,17809.00,2010.00,13471.00,95342.00,11978.39,120791.39,2023,,National City,FT
+Esther Clemente,Executive Assistant Iv,72715.00,980.00,6138.00,27522.00,79833.00,11438.81,118793.81,2023,,National City,FT
+Douglas Cromar,Firefighter,66197.00,18315.00,6112.00,14849.00,90624.00,12804.14,118277.14,2023,,National City,FT
+Victor Acosta,Park Supervisor,70154.00,4012.00,4328.00,27407.00,78494.00,11239.38,117140.38,2023,,National City,FT
+Arman Martinez Ortiz,Firefighter,55734.00,24444.00,6739.00,18284.00,86917.00,11231.32,116432.32,2023,,National City,PT
+Mervin Jensen,Senior Librarian,85123.00,0.00,0.00,18436.00,85123.00,12354.01,115913.01,2023,,National City,FT
+Trevor Halliburton,Firefighter,27039.00,13169.00,18435.00,35943.00,58643.00,19552.42,114138.42,2023,,National City,PT
+Marshall White,Firefighter,65302.00,7922.00,10694.00,16101.00,83918.00,13883.73,113902.73,2023,,National City,PT
+Myra Martinez Pina,Management Analyst Ii,77209.00,0.00,6336.00,18943.00,83545.00,11389.87,113877.87,2023,,National City,FT
+Lauren Guillen,Crime & Intelligence Analyst,78958.00,3994.00,884.00,17947.00,83836.00,11755.71,113538.71,2023,,National City,FT
+Alice Cano-Corea,Housing Specialist,70510.00,0.00,3778.00,27450.00,74288.00,11291.99,113029.99,2023,,National City,FT
+Leah Munoz,Executive Assistant Iv,70226.00,0.00,3799.00,27369.00,74025.00,11251.61,112645.61,2023,,National City,FT
+Ricardo Rodriguez-Garcia,Assistant Engineer-Civil,72779.00,126.00,900.00,26587.00,73805.00,11670.06,112062.06,2023,,National City,FT
+Ernesto Lorona,Senior Equipment Operator,69591.00,8716.00,1300.00,21964.00,79607.00,9850.67,111421.67,2023,,National City,FT
+Josie Flores-Clark,Executive Assistant Iv,78336.00,0.00,10881.00,9349.00,89217.00,11438.81,110004.81,2023,,National City,FT
+William Gonzalez,Senior Traffic Painter,62192.00,22436.00,373.00,15736.00,85001.00,9065.16,109802.16,2023,,National City,FT
+Charles Nissley Jr,Senior Civil Engineering Tech,72102.00,3815.00,0.00,22407.00,75917.00,11093.78,109417.78,2023,,National City,FT
+David Welch,Associate Planner,78831.00,589.00,0.00,17698.00,79420.00,11451.05,108569.05,2023,,National City,FT
+Richard Romero,Assistant City Attorney,78462.00,0.00,8400.00,9729.00,86862.00,11903.75,108494.75,2023,,National City,PT
+Rodolfo Alvarez,Equipment Operator,56839.00,20337.00,1300.00,20534.00,78476.00,8802.10,107812.10,2023,,National City,FT
+Ronald Stryker,Housing Specialist,76819.00,0.00,1906.00,17478.00,78725.00,11181.87,107384.87,2023,,National City,FT
+Lourdes Silva,Human Resources Director,91876.00,0.00,0.00,6962.00,91876.00,8518.24,107356.24,2023,,National City,PT
+Donald Jasmund,St & Wastewater Maint Super,51069.00,0.00,39718.00,9508.00,90787.00,7005.95,107300.95,2023,,National City,PT
+Nathan Williams,Police Officer,71182.00,4211.00,5351.00,14366.00,80744.00,12114.31,107224.31,2023,,National City,PT
+Charles Stevens,Police Corporal,34896.00,456.00,51022.00,13216.00,86374.00,6414.57,106004.57,2023,,National City,PT
+Carina Roman,Housing Specialist,75074.00,0.00,1313.00,17368.00,76387.00,11061.96,104816.96,2023,,National City,FT
+Isela Cabrales,Property & Evidence Supervisor,70085.00,1745.00,4478.00,16998.00,76308.00,10594.57,103900.57,2023,,National City,FT
+Elyana Delgado,Recreation Supervisor,71873.00,9850.00,1300.00,10155.00,83023.00,10623.94,103801.94,2023,,National City,FT
+Scott Huth,Deputy City Manager,96858.00,6905.00,0.00,0.00,103763.00,0.00,103763.00,2023,,National City,FT
+Mikki Eris Vidamo,Academic Enrichment Prog Coord,75154.00,0.00,13.00,17248.00,75167.00,10915.14,103330.14,2023,,National City,FT
+Rosa MacHado,Executive Assistant Iv,74004.00,0.00,9541.00,8868.00,83545.00,10850.29,103263.29,2023,,National City,FT
+Della Weaver,Management Analyst Ii,70464.00,0.00,5188.00,17485.00,75652.00,10122.29,103259.29,2023,,National City,FT
+Cynthia Camargo,Police Records Supervisor,69837.00,51.00,6041.00,16826.00,75929.00,10398.81,103153.81,2023,,National City,FT
+Lily Katherine Barnes,Police Officer,66562.00,843.00,1706.00,20943.00,69111.00,12504.93,102558.93,2023,,National City,PT
+Ronny Soriano,Neighborhood Services Mgr,74262.00,362.00,1820.00,13631.00,76444.00,12174.16,102249.16,2023,,National City,FT
+Lizza Galindo-Rojas,Executive Assistant Iv,61386.00,143.00,4042.00,26344.00,65571.00,9997.49,101912.49,2023,,National City,FT
+Maria Wright,Nutrition Services Supervisor,74314.00,1580.00,5287.00,9522.00,81181.00,10986.10,101689.10,2023,,National City,FT
+Rene Acevedo II,Lead Equipment Mechanic,54856.00,11964.00,0.00,25471.00,66820.00,8870.62,101161.62,2023,,National City,PT
+Sabino Flores,Building Trades Specialist,48648.00,19120.00,255.00,23583.00,68023.00,8066.75,99672.75,2023,,National City,FT
+Oscar Aguirre,Fire Engineer,25377.00,1717.00,16458.00,33981.00,43552.00,21884.91,99417.91,2023,,National City,PT
+Juan Piche,Parks Equipment Operator,56493.00,10507.00,2475.00,21077.00,69475.00,8765.39,99317.39,2023,,National City,FT
+Ronald Morrison,Mayor,59720.00,0.00,23880.00,7026.00,83600.00,8596.54,99222.54,2023,,National City,FT
+Jowarski Espiritu,Fire Inspector Ii,78543.00,1454.00,892.00,9592.00,80889.00,8095.18,98576.18,2023,,National City,FT
+Christopher Nguyen,Senior Accountant,75138.00,0.00,2339.00,10075.00,77477.00,10888.22,98440.22,2023,,National City,FT
+Maria Sheila Pangco,Administrative Technician,63521.00,123.00,9014.00,16163.00,72658.00,9572.92,98393.92,2023,,National City,FT
+Irma Arias,Housing Specialist,60112.00,0.00,1300.00,26629.00,61412.00,10287.47,98328.47,2023,,National City,FT
+Juanita Castaneda,Recreation Supervisor,67649.00,6463.00,1300.00,11200.00,75412.00,10623.94,97235.94,2023,,National City,FT
+Jennifer Yeh,Housing Specialist,75049.00,0.00,2100.00,8821.00,77149.00,10792.79,96762.79,2023,,National City,FT
+Reyes Cordova,Housing Inspector I,68373.00,0.00,1313.00,16527.00,69686.00,10032.97,96245.97,2023,,National City,FT
+Debra Lunt,Buyer,65987.00,0.00,3950.00,16360.00,69937.00,9813.96,96110.96,2023,,National City,FT
+Faavaeilealofa Fiatoa Jr,Equipment Operator,53971.00,24530.00,1838.00,7879.00,80339.00,7709.48,95927.48,2023,,National City,FT
+Richard Flores,Street Sweeper Operator,55367.00,11101.00,0.00,20435.00,66468.00,8680.97,95583.97,2023,,National City,FT
+Lucky Nguyen,Police Officer,-1030.00,2576.00,27746.00,43722.00,29292.00,22506.63,95520.63,2023,,National City,PT
+La Tonya Hussain,Executive Secretary,57013.00,5871.00,2470.00,20712.00,65354.00,9019.89,95085.89,2023,,National City,FT
+James Kim III,Graffiti Removal Technician,46979.00,10836.00,3585.00,24702.00,61400.00,7929.72,94031.72,2023,,National City,FT
+Janelle Fabunan,Property & Evidence Spec Ii,55728.00,7235.00,0.00,20629.00,62963.00,8918.33,92510.33,2023,,National City,FT
+Elizabeth Gayon,Crime Scene Specialist,60949.00,12594.00,2566.00,7306.00,76109.00,8865.72,92280.72,2023,,National City,FT
+James Beecher,Tree Trimmer,57728.00,8039.00,2506.00,15143.00,68273.00,8324.92,91740.92,2023,,National City,FT
+Maria Marmolejo,Library Circulation Supervisor,52771.00,0.00,4190.00,25572.00,56961.00,8994.19,91527.19,2023,,National City,FT
+Devon Climmons,Police Officer,61094.00,2929.00,1828.00,15277.00,65851.00,10374.21,91502.21,2023,,National City,PT
+Paloma Ramirez,Street Sweeper Operator,54898.00,7091.00,134.00,20398.00,62123.00,8635.70,91156.70,2023,,National City,FT
+MacArio Avila,Lead Tree Trimmer,56638.00,3153.00,1441.00,20683.00,61232.00,8984.40,90899.40,2023,,National City,FT
+Araceli Covarrubias,Stop Grant Office Coordinator,51410.00,294.00,4172.00,25586.00,55876.00,9011.32,90473.32,2023,,National City,FT
+Karla Apalategui,Senior Accounting Assistant,61201.00,378.00,3747.00,15780.00,65326.00,9104.31,90210.31,2023,,National City,FT
+Sandra Tec Durazo,Police Dispatcher,68569.00,1764.00,3763.00,7134.00,74096.00,8728.69,89958.69,2023,,National City,FT
+Lilibeth Aguelo,Executive Secretary,51387.00,171.00,5122.00,24236.00,56680.00,8614.90,89530.90,2023,,National City,FT
+Christopher Garcia,Facilities Maint. Supervisor,67547.00,0.00,0.00,10946.00,67547.00,10675.33,89168.33,2023,,National City,FT
+Rebeca Lattire,Permit Technician,52945.00,0.00,1300.00,25388.00,54245.00,8769.06,88402.06,2023,,National City,FT
+Sadiq Al-Mosawi,Police Officer,56124.00,4018.00,1536.00,16131.00,61678.00,9878.39,87687.39,2023,,National City,PT
+James Woods,Traffic Painter,50828.00,5361.00,2610.00,19876.00,58799.00,7997.01,86672.01,2023,,National City,FT
+Dionisia Trejo,Administrative Secretary,47487.00,2567.00,3441.00,24762.00,53495.00,8003.13,86260.13,2023,,National City,FT
+Charles Roe,Permit Technician,59549.00,249.00,1300.00,15643.00,61098.00,8936.69,85677.69,2023,,National City,FT
+Bridget Gregory,Police Operations Assistant,59958.00,0.00,683.00,15584.00,60641.00,8864.50,85089.50,2023,,National City,FT
+Raphael Prather,Maintenance Worker,50673.00,12330.00,0.00,14391.00,63003.00,7404.82,84798.82,2023,,National City,FT
+Nancy Nagle,Training Coordinator,48539.00,665.00,1965.00,25108.00,51169.00,8426.47,84703.47,2023,,National City,FT
+Roy Inga Jr,Senior Park Caretaker,44580.00,2246.00,6817.00,23417.00,53643.00,7293.48,84353.48,2023,,National City,PT
+Bautista Ibarra,Police Investigator,62857.00,2462.00,3279.00,8255.00,68598.00,6649.98,83502.98,2023,,National City,FT
+Alexander Neu,Librarian,59457.00,0.00,0.00,15401.00,59457.00,8640.59,83498.59,2023,,National City,FT
+Erick Salinas Cerezo,Senior Park Caretaker,55461.00,4810.00,0.00,14890.00,60271.00,8015.37,83176.37,2023,,National City,FT
+Luz Quezada,Parking Regulations Officer,48023.00,0.00,1820.00,24871.00,49843.00,8136.50,82850.50,2023,,National City,FT
+Rogelio Velarde Sales,Equipment Operator,47637.00,7639.00,96.00,19473.00,55372.00,7503.93,82348.93,2023,,National City,FT
+Dora Gallegos,Payroll Technician Ii,44950.00,790.00,19212.00,11107.00,64952.00,6133.57,82192.57,2023,,National City,PT
+Nancy Valdivia-Ochoa,Executive Secretary,62399.00,0.00,1300.00,9073.00,63699.00,9300.08,82072.08,2023,,National City,FT
+Lena Moats,Parking Regulations Officer,47404.00,616.00,1094.00,24734.00,49114.00,7968.87,81816.87,2023,,National City,FT
+Jessica Ayala,Senior Accounting Assistant,59499.00,0.00,5730.00,7139.00,65229.00,8734.80,81102.80,2023,,National City,FT
+Adella Salazar,Payroll Technician Ii,59790.00,1638.00,2245.00,8635.00,63673.00,8764.17,81072.17,2023,,National City,FT
+Jose Casillas,Senior Park Caretaker,48925.00,10095.00,1150.00,13241.00,60170.00,7217.62,80628.62,2023,,National City,FT
+Azeret Lopez,Housing Assistant,49480.00,0.00,2884.00,19897.00,52364.00,8022.71,80283.71,2023,,National City,FT
+Oscar Becerril,Equipment Operator,55573.00,3974.00,1300.00,9567.00,60847.00,8855.93,79269.93,2023,,National City,FT
+Armando Washington,Supervising Custodian,36717.00,28897.00,471.00,6840.00,66085.00,6229.01,79154.01,2023,,National City,FT
+Vanessa Castro,Property & Evidence Spec I,42628.00,0.00,3854.00,24686.00,46482.00,7910.14,79078.14,2023,,National City,FT
+Juan Herrera Garcia,Maintenance Worker,48610.00,8679.00,13.00,14114.00,57302.00,7080.59,78496.59,2023,,National City,FT
+Kevin Estudillo,Park Caretaker,50692.00,5514.00,354.00,14367.00,56560.00,7375.46,78302.46,2023,,National City,FT
+David Gallegos,Maintenance Worker,49399.00,8823.00,2907.00,8489.00,61129.00,7536.96,77154.96,2023,,National City,FT
+Stephen Manganiello Jr,Director Of Pw/City Engineer,58820.00,0.00,1050.00,7771.00,59870.00,9336.78,76977.78,2023,,National City,PT
+David McEachern,Community Development Spec Ii,60792.00,0.00,0.00,7331.00,60792.00,8750.71,76873.71,2023,,National City,FT
+Sarah Esendencia,Executive Secretary,53059.00,633.00,0.00,14719.00,53692.00,7769.44,76180.44,2023,,National City,FT
+Tomas Lujan Jr,Equipment Operator,45434.00,10084.00,1404.00,12612.00,56922.00,6580.16,76114.16,2023,,National City,PT
+Alfredo Cabal,Parking Regulations Officer,55767.00,0.00,3060.00,8356.00,58827.00,8083.88,75266.88,2023,,National City,FT
+Mariaelena Amaya,Senior Office Assistant,49317.00,0.00,4016.00,14334.00,53333.00,7349.76,75016.76,2023,,National City,FT
+Sarah Ruiz,Administrative Secretary,41517.00,0.00,1300.00,24400.00,42817.00,7560.21,74777.21,2023,,National City,FT
+Beatrice Gonzalez,Senior Office Assistant,48443.00,0.00,3811.00,14994.00,52254.00,7431.74,74679.74,2023,,National City,FT
+Hilda Perez-Laguna,Executive Chef,48713.00,1323.00,2072.00,14240.00,52108.00,7234.75,73582.75,2023,,National City,FT
+Rosalina Espinoza,Custodian,42425.00,17178.00,2591.00,5037.00,62194.00,6162.94,73393.94,2023,,National City,FT
+Steve Shephard,Police Sergeant,6822.00,856.00,60987.00,2356.00,68665.00,1501.25,72522.25,2023,,National City,PT
+Adan Pacheco-Palma,Planning Technician,51886.00,61.00,4575.00,7741.00,56522.00,7685.01,71948.01,2023,,National City,FT
+Evelyn Molina,Executive Secretary,54589.00,392.00,2263.00,6499.00,57244.00,7815.93,71558.93,2023,,National City,FT
+Steph Mendiola,Administrative Secretary,53940.00,841.00,1667.00,7077.00,56448.00,7994.57,71519.57,2023,,National City,FT
+Steven Cesnauskas,Fire Engineer,-10798.00,2880.00,29080.00,32537.00,21162.00,17611.41,71310.41,2023,,National City,PT
+Jeanette Silva-Hermosillo,Payroll Technician I,50853.00,0.00,3603.00,8357.00,54456.00,8076.54,70889.54,2023,,National City,FT
+Joe Grijalva,Graffiti Removal Technician,39620.00,321.00,5291.00,18874.00,45232.00,6416.21,70522.21,2023,,National City,PT
+Tiffany Roberts,Librarian,55094.00,0.00,10.00,7165.00,55104.00,8102.24,70371.24,2023,,National City,PT
+Esteban Rojas,Maintenance Worker,45214.00,10258.00,613.00,5326.00,56085.00,6516.54,67927.54,2023,,National City,FT
+Yolanda Felix,Police Records Clerk,37653.00,281.00,6354.00,16794.00,44288.00,6281.62,67363.62,2023,,National City,PT
+Jose Pena,Sous Chef,43696.00,5987.00,3582.00,6907.00,53265.00,6649.90,66821.90,2023,,National City,FT
+Ana Tijerin,Senior Office Assistant,48552.00,0.00,4512.00,5881.00,53064.00,7195.60,66140.60,2023,,National City,FT
+Cristina Cubero,Police Records Clerk,45395.00,0.00,217.00,13818.00,45612.00,6703.74,66133.74,2023,,National City,FT
+Eric Dennis,Building Official,65895.00,0.00,0.00,0.00,65895.00,0.00,65895.00,2023,,National City,FT
+Maria Waite,Management Analyst Ii,51345.00,0.00,0.00,6029.00,51345.00,7376.68,64750.68,2023,,National City,FT
+Mizael Aramburo,Senior Office Assistant,41656.00,386.00,1848.00,13517.00,43890.00,6350.14,63757.14,2023,,National City,FT
+Arcelia Guzman,Custodian,38111.00,388.00,0.00,18287.00,38499.00,6052.82,62838.82,2023,,National City,PT
+Kecia Carrasco,Accountant,49152.00,0.00,43.00,6265.00,49195.00,7250.66,62710.66,2023,,National City,PT
+Silvia Ibarra,Police Records Clerk,45716.00,0.00,3483.00,6197.00,49199.00,7046.33,62442.33,2023,,National City,FT
+Santiago Marron Jr,Building Trades Specialist,41411.00,4089.00,6159.00,4715.00,51659.00,5768.96,62142.96,2023,,National City,PT
+Veronica Castillo,Home Delivered Meals Coord,30248.00,792.00,1925.00,22879.00,32965.00,5699.22,61543.22,2023,,National City,PT
+Olegario Garcia,Park Caretaker,44531.00,1118.00,3497.00,5845.00,49146.00,6487.17,61478.17,2023,,National City,FT
+Michael Banjoman,Custodian,42292.00,1199.00,4618.00,6825.00,48109.00,6202.09,61136.09,2023,,National City,FT
+Jason Jasmund,Civil Engineering Technician,40575.00,818.00,0.00,13075.00,41393.00,5717.57,60185.57,2023,,National City,PT
+Qiana Williamson,Homelessness Services Coord,45594.00,0.00,0.00,7054.00,45594.00,7472.12,60120.12,2023,,National City,PT
+Danielle Ghio,Principal Librarian,42454.00,0.00,1892.00,8649.00,44346.00,6290.18,59285.18,2023,,National City,PT
+Eva Pedroza,Home Delivered Meals Driver,36778.00,2885.00,2142.00,11763.00,41805.00,5669.85,59237.85,2023,,National City,FT
+Katrina Phillips,Police Records Clerk,44080.00,247.00,2074.00,5925.00,46401.00,6585.06,58911.06,2023,,National City,FT
+Coralene Stephenson,Information Technology Analyst,46586.00,0.00,0.00,5469.00,46586.00,6691.50,58746.50,2023,,National City,FT
+Daniel Gonzalez,Housing Assistant,43919.00,1359.00,1056.00,5474.00,46334.00,6478.61,58286.61,2023,,National City,FT
+Emily Roranes,Senior Office Assistant,37539.00,1835.00,1100.00,11973.00,40474.00,5666.18,58113.18,2023,,National City,FT
+Avier Washington,Maintenance Worker,37238.00,3442.00,0.00,11858.00,40680.00,5525.48,58063.48,2023,,National City,PT
+Natalie Tapia,Community Services Officer,31397.00,0.00,2402.00,16329.00,33799.00,5397.00,55525.00,2023,,National City,PT
+Moises Sandoval,Park Caretaker,42671.00,667.00,735.00,5030.00,44073.00,6154.37,55257.37,2023,,National City,FT
+Felipe Gomez,Police Recruit,39758.00,0.00,680.00,8492.00,40438.00,6117.67,55047.67,2023,,National City,PT
+Miguel Plascencia,Home Delivered Meals Driver,39263.00,852.00,3485.00,5294.00,43600.00,5896.21,54790.21,2023,,National City,FT
+Margarita Molina,Accounting Assistant,38921.00,0.00,0.00,10152.00,38921.00,5148.63,54221.63,2023,,National City,PT
+Janel Pehau,Director Of Finance,53130.00,0.00,0.00,0.00,53130.00,0.00,53130.00,2023,,National City,PT
+Carlee Battle,Administrative Secretary,35021.00,214.00,900.00,10906.00,36135.00,5237.95,52278.95,2023,,National City,PT
+Paul Abney,Animal Regulations Officer,35276.00,596.00,1963.00,9251.00,37835.00,4981.00,52067.00,2023,,National City,PT
+Jeffery Shultz,Police Records Clerk,31857.00,589.00,5048.00,9709.00,37494.00,4571.12,51774.12,2023,,National City,PT
+Robbin Duplessis,Management Analyst Ii,50070.00,0.00,0.00,647.00,50070.00,791.63,51508.63,2023,,National City,FT
+Michael Judge,Custodian,36910.00,1026.00,2617.00,4401.00,40553.00,5384.77,50338.77,2023,,National City,FT
+Roberto Castaneda,Custodian,31780.00,9570.00,78.00,3756.00,41428.00,4595.59,49779.59,2023,,National City,PT
+Jeffrey Rouston,Senior Equipment Operator,20234.00,4345.00,12243.00,9336.00,36822.00,3173.85,49331.85,2023,,National City,PT
+William Lopez,St & Wastewater Maint Super,47984.00,685.00,0.00,0.00,48669.00,0.00,48669.00,2023,,National City,PT
+Rhonda Huth,Deputy City Manager,47430.00,0.00,0.00,0.00,47430.00,0.00,47430.00,2023,,National City,PT
+Brian Hadley,Director Of Comm Development,33727.00,0.00,750.00,7122.00,34477.00,5043.40,46642.40,2023,,National City,PT
+Phillip Davis,Director Of Finance,46563.00,0.00,0.00,0.00,46563.00,0.00,46563.00,2023,,National City,PT
+Christina Curiel,Police Records Clerk,32308.00,0.00,1488.00,6349.00,33796.00,4774.23,44919.23,2023,,National City,PT
+Amie Riel,Management Analyst Ii,34173.00,0.00,0.00,4013.00,34173.00,4910.04,43096.04,2023,,National City,FT
+Hector Hueso,Code Conformance Officer I,31708.00,146.00,1138.00,3880.00,32992.00,4747.31,41619.31,2023,,National City,PT
+Rebeca Reyes Villa,Senior Office Assistant,29345.00,0.00,1167.00,3585.00,30512.00,4219.97,38316.97,2023,,National City,PT
+Sean Pfeifer,Management Analyst Ii,25231.00,0.00,1472.00,5857.00,26703.00,3828.44,36388.44,2023,,National City,PT
+Carlos Farias,Police Investigator,35008.00,0.00,0.00,446.00,35008.00,384.58,35838.58,2023,,National City,FT
+Robert Frausto,Police Investigator,34717.00,0.00,0.00,451.00,34717.00,388.89,35556.89,2023,,National City,FT
+Brian Redikop,Police Officer,20686.00,0.00,3878.00,6542.00,24564.00,4285.58,35391.58,2023,,National City,PT
+Pablo Trejo,Custodian,23239.00,205.00,11.00,8588.00,23455.00,3345.14,35388.14,2023,,National City,PT
+Kimberly Stephenson,Pt Librarian,27966.00,0.00,0.00,3301.00,27966.00,4038.88,35305.88,2023,,National City,FT
+Gloria Mendoza,Housing Specialist,35303.00,0.00,0.00,0.00,35303.00,0.00,35303.00,2023,,National City,FT
+Jennifer Sosa Vega,Police Dispatcher,33964.00,0.00,0.00,430.00,33964.00,526.12,34920.12,2023,,National City,FT
+Stephen Karcher,Police Dispatcher,28335.00,0.00,438.00,2274.00,28773.00,2782.31,33829.31,2023,,National City,PT
+Diego Sanchez,Property & Evidence Spec I,26017.00,0.00,0.00,3056.00,26017.00,3739.12,32812.12,2023,,National City,PT
+Jesus Lopez-Nuno,Pt Librarian,31324.00,0.00,0.00,395.00,31324.00,483.30,32202.30,2023,,National City,FT
+Luz Molina,Councilmember,17078.00,0.00,10200.00,2013.00,27278.00,2462.97,31753.97,2023,,National City,PT
+Marcus Bush,Councilmember,17078.00,0.00,10200.00,2013.00,27278.00,2462.97,31753.97,2023,,National City,PT
+Ditas Yamane,Councilmember,17078.00,0.00,10200.00,2013.00,27278.00,2462.97,31753.97,2023,,National City,PT
+Jose Rodriguez Perez,Councilmember,17078.00,0.00,10200.00,2013.00,27278.00,2462.97,31753.97,2023,,National City,PT
+Zaide Jurado,Recreation Supervisor,22181.00,1707.00,1106.00,2821.00,24994.00,3451.59,31266.59,2023,,National City,PT
+Anya Kuzma,Pt Librarian,30243.00,0.00,0.00,387.00,30243.00,473.51,31103.51,2023,,National City,FT
+Bianca Wood,Police Dispatcher,22955.00,0.00,0.00,5496.00,22955.00,2018.83,30469.83,2023,,National City,PT
+Gilbert Sarmiento,Code Conformance Officer Ii,29651.00,0.00,0.00,0.00,29651.00,0.00,29651.00,2023,,National City,FT
+Yuri Pena,Food Services Worker,23075.00,585.00,1288.00,1987.00,24948.00,2431.16,29366.16,2023,,National City,PT
+Carlos Alejandro Perdomo,Civil Engineering Technician,21297.00,0.00,400.00,3014.00,21697.00,3516.43,28227.43,2023,,National City,PT
+Kristin Aborqui-Diggs,Senior Office Assistant,26224.00,398.00,0.00,338.00,26622.00,413.55,27373.55,2023,,National City,PT
+Alexander Mendivil,Management Analyst Ii,15768.00,0.00,2916.00,3958.00,18684.00,2154.64,24796.64,2023,,National City,PT
+Brittany Reinhart,Accountant,19204.00,35.00,0.00,2446.00,19239.00,2919.35,24604.35,2023,,National City,PT
+Ruble Beauchamp,City Treasurer,11031.00,0.00,10680.00,1295.00,21711.00,1584.48,24590.48,2023,,National City,PT
+Ruth Cuevas,Library Technician,23627.00,0.00,0.00,292.00,23627.00,357.27,24276.27,2023,,National City,PT
+Anne Defazio,Principal Librarian,13584.00,0.00,5686.00,3093.00,19270.00,1891.58,24254.58,2023,,National City,PT
+Mohamad Eid,Police Officer,17571.00,246.00,610.00,3089.00,18427.00,2626.53,24142.53,2023,,National City,PT
+Violeta Cisneros,Police Records Clerk,23239.00,0.00,0.00,302.00,23239.00,369.51,23910.51,2023,,National City,PT
+Irene Bahena,Senior Office Assistant,19262.00,0.00,350.00,1821.00,19612.00,2228.05,23661.05,2023,,National City,PT
+Alain Drouin,Senior Office Assistant,22646.00,0.00,0.00,283.00,22646.00,346.26,23275.26,2023,,National City,PT
+Irma Aguilar,Police Dispatcher,20216.00,0.00,0.00,1445.00,20216.00,1589.37,23250.37,2023,,National City,PT
+Ismael Cortez Flores,Park Caretaker,13496.00,2938.00,128.00,3756.00,16562.00,2062.88,22380.88,2023,,National City,PT
+Rita Torres,Property & Evidence Spec I,17546.00,0.00,0.00,2011.00,17546.00,2460.53,22017.53,2023,,National City,PT
+Karina Lopez,Senior Office Assistant,21033.00,0.00,0.00,265.00,21033.00,324.24,21622.24,2023,,National City,PT
+Judith Hernandez,Senior Office Assistant,10936.00,0.00,3655.00,4710.00,14591.00,1563.68,20864.68,2023,,National City,PT
+Jennifer Lagos,Recreation Leader Iii,20178.00,98.00,0.00,263.00,20276.00,321.79,20860.79,2023,,National City,PT
+Selena Pacheco,Food Services Worker,20207.00,0.00,0.00,254.00,20207.00,310.78,20771.78,2023,,National City,PT
+Santos Edgardo,Library Technician,20051.00,0.00,0.00,249.00,20051.00,304.66,20604.66,2023,,National City,PT
+Teresa Sanchez,Library Technician,19859.00,0.00,0.00,248.00,19859.00,303.44,20410.44,2023,,National City,PT
+Alexandra Goncalves,Pt Librarian,19840.00,0.00,0.00,248.00,19840.00,303.44,20391.44,2023,,National City,PT
+Ruben Mendoza,Building Trades Specialist,10685.00,1734.00,2270.00,3924.00,14689.00,1588.15,20201.15,2023,,National City,PT
+Jayson Campuzano,Police Records Clerk,19595.00,0.00,0.00,255.00,19595.00,312.00,20162.00,2023,,National City,PT
+Eugenia Gonzales,Animal Regulations Officer,13713.00,426.00,140.00,3502.00,14279.00,2146.08,19927.08,2023,,National City,PT
+Jennifer Quintero Pina,Senior Office Assistant,14019.00,243.00,1013.00,1788.00,15275.00,2187.68,19250.68,2023,,National City,PT
+Joshua Catone,Firefighter,12597.00,0.00,1605.00,2718.00,14202.00,2306.63,19226.63,2023,,National City,PT
+Jonah Arcelona,Recreation Leader Iii,17574.00,116.00,0.00,229.00,17690.00,280.19,18199.19,2023,,National City,PT
+Yaneli Gonzalez,Recreation Leader Iii,17553.00,70.00,0.00,228.00,17623.00,278.97,18129.97,2023,,National City,PT
+Blanca Rincon Olmos,Food Services Worker,17603.00,0.00,0.00,211.00,17603.00,258.17,18072.17,2023,,National City,PT
+Isaac Flores,Traffic Painter,9925.00,1767.00,226.00,4493.00,11918.00,1511.06,17922.06,2023,,National City,PT
+Michael Norton,Recreation Specialist,16939.00,210.00,0.00,222.00,17149.00,271.62,17642.62,2023,,National City,PT
+Eugene Alcasid,Library Assistant,17033.00,0.00,0.00,220.00,17033.00,269.18,17522.18,2023,,National City,PT
+Ruth Munoz,Library Assistant,16693.00,0.00,0.00,209.00,16693.00,255.72,17157.72,2023,,National City,PT
+Alexander Elenes,Recreation Specialist,16582.00,0.00,0.00,215.00,16582.00,263.06,17060.06,2023,,National City,PT
+Manuel Gonzalez,Library Assistant,16515.00,0.00,0.00,206.00,16515.00,252.05,16973.05,2023,,National City,PT
+Yaritza Jimenez,Library Technician,16475.00,0.00,0.00,200.00,16475.00,244.71,16919.71,2023,,National City,PT
+Arturo Gonzalez,St & Wastewater Maint Super,11983.00,0.00,668.00,2297.00,12651.00,1856.10,16804.10,2023,,National City,PT
+Robert Castle,Library Assistant,16019.00,0.00,0.00,208.00,16019.00,254.49,16481.49,2023,,National City,PT
+Ana Arellano,Library Aide,16005.00,0.00,0.00,201.00,16005.00,245.93,16451.93,2023,,National City,PT
+Brandon Wright,Dishwasher,15947.00,0.00,0.00,204.00,15947.00,249.60,16400.60,2023,,National City,PT
+Jose Maestro,Library Assistant,15833.00,0.00,0.00,202.00,15833.00,247.15,16282.15,2023,,National City,PT
+Sandra Ramirez Delgado,Library Aide,15789.00,0.00,0.00,199.00,15789.00,243.48,16231.48,2023,,National City,PT
+Nickolas Carrillo,Recreation Aide,14921.00,0.00,0.00,194.00,14921.00,237.37,15352.37,2023,,National City,PT
+Ciera Trollinger-Miana,Recreation Aide,14804.00,0.00,0.00,189.00,14804.00,231.25,15224.25,2023,,National City,PT
+Roberto Soto Inzunza,Code Conformance Officer I,14699.00,0.00,0.00,189.00,14699.00,231.25,15119.25,2023,,National City,PT
+Alexis Diaz de Leon,Recreation Leader Iii,14613.00,0.00,0.00,187.00,14613.00,228.80,15028.80,2023,,National City,PT
+Vania Nolasco,Animal Regulations Officer,9881.00,443.00,250.00,2320.00,10574.00,1555.11,14449.11,2023,,National City,PT
+Breana Rodrigues,Recreation Leader Iii,13828.00,140.00,0.00,180.00,13968.00,220.24,14368.24,2023,,National City,PT
+Dustin Ellis,Building Trades Specialist,8199.00,2447.00,263.00,2188.00,10909.00,1255.35,14352.35,2023,,National City,PT
+Carlos Carrillo,Recreation Specialist,11373.00,0.00,0.00,1339.00,11373.00,1638.31,14350.31,2023,,National City,PT
+Valeria Mendez Chacon,Library Aide,13507.00,0.00,0.00,175.00,13507.00,214.12,13896.12,2023,,National City,PT
+Jose Solis,Senior Building Inspector,9695.00,0.00,100.00,1996.00,9795.00,1487.82,13278.82,2023,,National City,PT
+Yulissa Garcia Lopez,Library Aide,12338.00,0.00,0.00,160.00,12338.00,195.77,12693.77,2023,,National City,PT
+Elyssa Garcia,Recreation Leader Iii,12237.00,74.00,0.00,160.00,12311.00,195.77,12666.77,2023,,National City,PT
+Mirna Borunda,Library Technician,10033.00,0.00,0.00,1132.00,10033.00,1385.04,12550.04,2023,,National City,PT
+Gonzalez Ruben,Code Conformance Officer I,11627.00,0.00,0.00,151.00,11627.00,184.75,11962.75,2023,,National City,PT
+Andrew Ives,Recreation Leader Ii,11439.00,0.00,0.00,149.00,11439.00,182.31,11770.31,2023,,National City,PT
+Manuel Aguirre,Maintenance Worker,8348.00,330.00,263.00,1035.00,8941.00,1266.36,11242.36,2023,,National City,PT
+Lorena Camacho Patron,Community Services Officer,8222.00,0.00,100.00,1041.00,8322.00,1273.70,10636.70,2023,,National City,PT
+Jizel Duarn,Recreation Specialist,10230.00,0.00,0.00,129.00,10230.00,157.84,10516.84,2023,,National City,PT
+Thalia Moreno Hernandez,Library Aide,8782.00,0.00,0.00,111.00,8782.00,135.81,9028.81,2023,,National City,PT
+Seth Munoz,Recreation Aide,8699.00,0.00,0.00,113.00,8699.00,138.26,8950.26,2023,,National City,PT
+Yessenia Cardenas,Recreation Specialist,8556.00,0.00,0.00,107.00,8556.00,130.92,8793.92,2023,,National City,PT
+John Molina,Library Aide,7892.00,0.00,0.00,102.00,7892.00,124.80,8118.80,2023,,National City,PT
+Kesia Estrada,Librarian,6430.00,0.00,0.00,727.00,6430.00,889.51,8046.51,2023,,National City,PT
+Jezreel Limbo,Recreation Specialist,7724.00,0.00,0.00,100.00,7724.00,122.35,7946.35,2023,,National City,PT
+Gissel Valdez,Recreation Aide,7617.00,0.00,0.00,99.00,7617.00,121.13,7837.13,2023,,National City,PT
+Maria Houghton,Pt Librarian,7229.00,0.00,0.00,91.00,7229.00,111.34,7431.34,2023,,National City,PT
+Marlyn Aguilar,Library Aide,7079.00,0.00,0.00,91.00,7079.00,111.34,7281.34,2023,,National City,PT
+Williams,Pt Librarian,6720.00,0.00,0.00,127.00,6720.00,155.39,7002.39,2023,,National City,PT
+Kathy Tang,Management Intern,6654.00,0.00,0.00,84.00,6654.00,102.78,6840.78,2023,,National City,PT
+Lori Wright,Recreation Specialist,6592.00,0.00,0.00,85.00,6592.00,104.00,6781.00,2023,,National City,PT
+Amanda Lorge,Librarian,6509.00,0.00,0.00,81.00,6509.00,99.11,6689.11,2023,,National City,PT
+Valeria Ortega,Management Intern,6475.00,0.00,0.00,84.00,6475.00,102.78,6661.78,2023,,National City,PT
+Valeria Beltran Lopez,Office Aide,6353.00,0.00,0.00,81.00,6353.00,99.11,6533.11,2023,,National City,PT
+Jayne Henn,Pt Librarian,6305.00,0.00,0.00,82.00,6305.00,100.33,6487.33,2023,,National City,PT
+Teuilatausala Moa,Library Aide,6307.00,0.00,0.00,81.00,6307.00,99.11,6487.11,2023,,National City,PT
+Jasmine Tovar,Recreation Aide,5969.00,0.00,0.00,77.00,5969.00,94.21,6140.21,2023,,National City,PT
+Saul Hernandez,Recreation Leader I,5769.00,0.00,0.00,75.00,5769.00,91.76,5935.76,2023,,National City,PT
+Julianna Carranza,Library Aide,5605.00,0.00,0.00,73.00,5605.00,89.32,5767.32,2023,,National City,PT
+Danny Garcia,Building Trades Specialist,2384.00,698.00,259.00,1916.00,3341.00,471.06,5728.06,2023,,National City,PT
+Samantha Myott,Librarian,5556.00,0.00,0.00,72.00,5556.00,88.09,5716.09,2023,,National City,PT
+Vanessa Cecena,Office Aide,5012.00,0.00,0.00,65.00,5012.00,79.53,5156.53,2023,,National City,PT
+Ron Luis Valles,Senior Office Assistant,4933.00,0.00,0.00,0.00,4933.00,0.00,4933.00,2023,,National City,PT
+Sicilia Pedroza,Library Assistant,4734.00,0.00,0.00,59.00,4734.00,72.19,4865.19,2023,,National City,PT
+Barbel Crist,Library Aide,4147.00,0.00,0.00,0.00,4147.00,0.00,4147.00,2023,,National City,PT
+Andrew del Sol-Williamson,Custodian,2383.00,51.00,0.00,1104.00,2434.00,414.78,3952.78,2023,,National City,PT
+Parker Claudio,Recreation Aide,3804.00,0.00,0.00,49.00,3804.00,59.95,3912.95,2023,,National City,PT
+Angelica Isabel Garza,Library Assistant,2824.00,0.00,0.00,37.00,2824.00,45.27,2906.27,2023,,National City,PT
+Liam Tabalon,Recreation Specialist,2822.00,0.00,0.00,36.00,2822.00,44.05,2902.05,2023,,National City,PT
+Michelle Rodriguez,Recreation Leader Iii,2789.00,0.00,0.00,36.00,2789.00,44.05,2869.05,2023,,National City,PT
+Jonathan David Clemente,Library Assistant,2686.00,0.00,0.00,35.00,2686.00,42.82,2763.82,2023,,National City,PT
+Monika Magana,Office Aide,2437.00,0.00,0.00,32.00,2437.00,39.15,2508.15,2023,,National City,PT
+Randi Castle,Planning Commissioner,2100.00,0.00,0.00,16.00,2100.00,19.58,2135.58,2023,,National City,PT
+April Anaya,Office Aide,1949.00,0.00,0.00,24.00,1949.00,29.36,2002.36,2023,,National City,PT
+Samantha Cook,Library Assistant,1860.00,0.00,0.00,24.00,1860.00,29.36,1913.36,2023,,National City,PT
+Ronald Daguia,Reserve Police Officer,0.00,0.00,1900.00,0.00,1900.00,0.00,1900.00,2023,,National City,PT
+Isabella Rios,Library Assistant,1670.00,0.00,0.00,22.00,1670.00,26.92,1718.92,2023,,National City,PT
+Joshua Perez,Recreation Leader Ii,1573.00,0.00,0.00,20.00,1573.00,24.47,1617.47,2023,,National City,PT
+Karl Tadle,Police Recruit,792.00,0.00,454.00,152.00,1246.00,131.07,1529.07,2023,,National City,PT
+Roberto Aguilar,Police Recruit,792.00,0.00,450.00,152.00,1242.00,131.07,1525.07,2023,,National City,PT
+Marc Vargas,Police Recruit,792.00,0.00,450.00,152.00,1242.00,131.07,1525.07,2023,,National City,PT
+Richard Miller,Planning Commissioner,1400.00,0.00,0.00,16.00,1400.00,19.58,1435.58,2023,,National City,PT
+Maricar Camaya,Library Technician,1346.00,0.00,0.00,18.00,1346.00,22.02,1386.02,2023,,National City,PT
+Johnnie Morris Jr,Recreation Leader Ii,1335.00,0.00,0.00,17.00,1335.00,20.80,1372.80,2023,,National City,PT
+Castillo,Recreation Aide,1318.00,0.00,0.00,17.00,1318.00,20.80,1355.80,2023,,National City,PT
+William Sendt,Planning Commissioner,1200.00,0.00,0.00,13.00,1200.00,15.91,1228.91,2023,,National City,PT
+Claudia Valenzuela,Planning Commissioner,1100.00,0.00,0.00,12.00,1100.00,14.68,1126.68,2023,,National City,PT
+Ochoa,Librarian,1034.00,0.00,0.00,4.00,1034.00,4.89,1042.89,2023,,National City,PT
+Mariah Marquez,Library Assistant,1007.00,0.00,0.00,13.00,1007.00,15.91,1035.91,2023,,National City,PT
+Michael Peci,Reserve Police Officer,0.00,0.00,1000.00,0.00,1000.00,0.00,1000.00,2023,,National City,PT
+Ricardo Sanchez,Planning Commissioner,900.00,0.00,0.00,9.00,900.00,11.01,920.01,2023,,National City,PT
+Anthony Martinez,Recreation Specialist,897.00,0.00,0.00,10.00,897.00,12.24,919.24,2023,,National City,PT
+Alejandra Sotelo-Solis,Mayor,687.00,0.00,87.00,29.00,774.00,35.48,838.48,2023,,National City,PT
+Liliana Armenta,Planning Commissioner,800.00,0.00,0.00,8.00,800.00,9.79,817.79,2023,,National City,PT
+Pearl Quinones,Planning Commissioner,800.00,0.00,0.00,8.00,800.00,9.79,817.79,2023,,National City,PT
+Cali Simmons,Recreation Leader Iii,792.00,0.00,0.00,10.00,792.00,12.24,814.24,2023,,National City,PT
+Luis Natividad,Planning Commissioner,600.00,0.00,0.00,8.00,600.00,9.79,617.79,2023,,National City,PT
+Charlize Mujica,Recreation Aide,321.00,0.00,0.00,4.00,321.00,4.89,329.89,2023,,National City,PT
+Marc Johnson,Management Intern,139.00,0.00,0.00,16.00,139.00,19.58,174.58,2023,,National City,PT
+Joy Juacalla,Library Aide,39.00,0.00,0.00,1.00,39.00,1.22,41.22,2023,,National City,PT
