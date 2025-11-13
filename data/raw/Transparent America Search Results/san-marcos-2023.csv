@@ -1,0 +1,527 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Pension Debt,Total Pay & Benefits,Year,Notes,Agency,Status
+John Griffin,City Manager,181593.00,0.00,101553.00,50480.00,283146.00,63744.98,397370.98,2023,,San Marcos,PT
+Lisa Fowler,Director Finance,104735.00,0.00,224988.00,19467.00,329723.00,37470.30,386660.30,2023,,San Marcos,PT
+Michelle Bender,City Manager,207187.00,2586.00,27584.00,53155.00,237357.00,79740.85,370252.85,2023,,San Marcos,FT
+Daniel Barron,Fire Chief,185426.00,3514.00,22405.00,71571.00,211345.00,52498.60,335414.60,2023,,San Marcos,FT
+Isaac Etchamendy,Director Development Svcs /City Engineer,181776.00,266.00,36394.00,37878.00,218436.00,70240.97,326554.97,2023,,San Marcos,FT
+Harold Martin,Director Parks & Recreation,167568.00,333.00,50765.00,40156.00,218666.00,62239.31,321061.31,2023,,San Marcos,FT
+John Brooks,Fire Battalion Chief,126976.00,58857.00,18515.00,56229.00,204348.00,38077.10,298654.10,2023,,San Marcos,FT
+Leighton Ewens,Fire Captain,104230.00,74753.00,20686.00,56196.00,199669.00,33147.20,289012.20,2023,,San Marcos,FT
+Jordan Abeel,Fire Captain,103149.00,64769.00,21825.00,54093.00,189743.00,33615.10,277451.10,2023,,San Marcos,FT
+Phillip Scollick,Director Business Process/City Clerk,159270.00,306.00,13976.00,40272.00,173552.00,62649.27,276473.27,2023,,San Marcos,FT
+Michael Vasile,Fire Battalion Chief,126297.00,27884.00,19371.00,60111.00,173552.00,39941.01,273604.01,2023,,San Marcos,FT
+Frank Reade,Fire Captain,102286.00,54594.00,25457.00,55126.00,182337.00,34466.52,271929.52,2023,,San Marcos,FT
+Alexander Fast,Fire Captain,102446.00,63414.00,17483.00,54361.00,183343.00,33615.10,271319.10,2023,,San Marcos,FT
+Daniel Puhek,Fire Captain,105462.00,57618.00,15474.00,59127.00,178554.00,33147.20,270828.20,2023,,San Marcos,FT
+David Pender,Fire Battalion Chief,128382.00,23795.00,17071.00,60111.00,169248.00,39941.01,269300.01,2023,,San Marcos,FT
+Matthew Hampton,Fire Captain,104893.00,55269.00,19428.00,54669.00,179590.00,33147.20,267406.20,2023,,San Marcos,FT
+Theodore Bachmeier,Fire Captain,104167.00,47052.00,25894.00,56196.00,177113.00,33147.20,266456.20,2023,,San Marcos,FT
+Tess Sangster,Director Community & Economic Development,160791.00,1193.00,14086.00,38800.00,176070.00,51312.02,266182.02,2023,,San Marcos,FT
+Brad Pearson,Fire Captain,105874.00,53282.00,16983.00,55189.00,176139.00,33615.10,264943.10,2023,,San Marcos,FT
+Jason Barrett,Fire Captain,106086.00,57109.00,13174.00,54762.00,176369.00,33147.20,264278.20,2023,,San Marcos,FT
+Douglas Chalmers,Fire Battalion Chief,127226.00,25713.00,8900.00,57836.00,161839.00,39941.01,259616.01,2023,,San Marcos,FT
+Dean White,Fire Division Chief,146806.00,1584.00,2200.00,65288.00,150590.00,42768.11,258646.11,2023,,San Marcos,FT
+Thomas Koutrouba,Fire Captain,90896.00,58598.00,26462.00,52843.00,175956.00,29648.39,258447.39,2023,,San Marcos,FT
+Darren Chamow,Director Public Works,153577.00,1056.00,12669.00,38839.00,167302.00,51558.00,257699.00,2023,,San Marcos,FT
+William Frederick,Fire Division Chief,147167.00,246.00,4601.00,60362.00,152014.00,42923.71,255299.71,2023,,San Marcos,FT
+Janelle Laughlin,Director Hr/Risk,150672.00,290.00,12920.00,38869.00,163882.00,51863.61,254614.61,2023,,San Marcos,FT
+David Pauley,Fire Engineer,88502.00,66172.00,23768.00,47894.00,178442.00,24237.45,250573.45,2023,,San Marcos,FT
+Joseph Farace,Director Planning,148498.00,214.00,6852.00,38502.00,155564.00,56417.88,250483.88,2023,,San Marcos,FT
+Kelly Crain,Fire Captain,106651.00,57642.00,22910.00,30843.00,187203.00,32400.98,250446.98,2023,,San Marcos,FT
+Geoffrey Weaver,Fire Captain,99768.00,40420.00,16977.00,56973.00,157165.00,33998.62,248136.62,2023,,San Marcos,FT
+Matthew Drabinski,Fire Engineer,87325.00,52715.00,16252.00,56893.00,156292.00,29332.81,242517.81,2023,,San Marcos,FT
+Stephanie Kellar,Deputy City Engineer,155880.00,0.00,9206.00,16129.00,165086.00,60111.25,241326.25,2023,,San Marcos,FT
+Joshua Wilcox,Firefighter/Paramedic,83465.00,59119.00,17440.00,54025.00,160024.00,26956.07,241005.07,2023,,San Marcos,FT
+Douglas Lada,Fire Engineer,93073.00,62663.00,18753.00,35797.00,174489.00,28866.01,239152.01,2023,,San Marcos,FT
+Jeremy Aden,Fire Engineer,90925.00,50033.00,16453.00,49542.00,157411.00,28866.01,235819.01,2023,,San Marcos,FT
+George Thompson,Fire Captain,107674.00,31054.00,28078.00,31951.00,166806.00,33615.10,232372.10,2023,,San Marcos,FT
+Jason Nailon,Fire Marshal,129107.00,8697.00,18679.00,43049.00,156483.00,31349.04,230881.04,2023,,San Marcos,FT
+Donnafer Apar,Director Finance,132995.00,445.00,7851.00,37764.00,141291.00,49620.01,228675.01,2023,,San Marcos,PT
+Merceditas Leclair,Contracts/Grants/Procurmnt Mng,131565.00,0.00,4654.00,38477.00,136219.00,50756.72,225452.72,2023,,San Marcos,FT
+Andrew Violante,Fire Engineer,88316.00,36360.00,19147.00,50820.00,143823.00,29935.49,224578.49,2023,,San Marcos,FT
+Ryan Mattke,Firefighter/Paramedic,82955.00,51339.00,14180.00,47944.00,148474.00,27143.45,223561.45,2023,,San Marcos,FT
+Rick Conner,Fire Captain,103451.00,21520.00,15277.00,50450.00,140248.00,32400.98,223098.98,2023,,San Marcos,FT
+John Palmer,Director It,140073.00,253.00,4710.00,24839.00,145036.00,53220.20,223095.20,2023,,San Marcos,FT
+Ryan Altar,Firefighter/Paramedic,85276.00,49067.00,30196.00,27622.00,164539.00,26488.18,218649.18,2023,,San Marcos,FT
+Michael Korby,Fire Captain,107156.00,20129.00,25839.00,31524.00,153124.00,33147.20,217795.20,2023,,San Marcos,FT
+Eric Stayton,Fire Engineer,91123.00,30635.00,17251.00,49856.00,139009.00,28866.01,217731.01,2023,,San Marcos,FT
+Jeffrey McCloskey,Fire Engineer,90901.00,22888.00,23641.00,50282.00,137430.00,29332.81,217044.81,2023,,San Marcos,FT
+Jason Young,Firefighter/Paramedic,76367.00,89709.00,12098.00,23715.00,178174.00,13914.16,215803.16,2023,,San Marcos,FT
+Timothy Bramble,Fire Engineer,88042.00,32082.00,23270.00,47126.00,143394.00,23438.63,213958.63,2023,,San Marcos,FT
+Robert Richard,Fire Engineer,85018.00,44560.00,13594.00,42733.00,143172.00,27243.17,213148.17,2023,,San Marcos,FT
+Walter Brame,Firefighter/Paramedic,81949.00,45352.00,11170.00,47346.00,138471.00,26488.18,212305.18,2023,,San Marcos,FT
+Ian Osterberg,Fire Engineer,88964.00,25584.00,15072.00,52118.00,129620.00,28866.01,210604.01,2023,,San Marcos,FT
+Jaime Serrato,Fire Engineer,87884.00,21287.00,18749.00,52500.00,127920.00,29284.60,209704.60,2023,,San Marcos,FT
+Luke Landmark,Fire Engineer,90987.00,32578.00,14242.00,47542.00,137807.00,23851.74,209200.74,2023,,San Marcos,FT
+Jack Hayes,Firefighter/Paramedic,85760.00,37295.00,11170.00,47346.00,134225.00,26488.18,208059.18,2023,,San Marcos,FT
+Jacob Ford,Fire Engineer,88180.00,28125.00,14152.00,47056.00,130457.00,29332.81,206845.81,2023,,San Marcos,FT
+Elizabeth Herzog,Administrative Services Mngr,113868.00,0.00,20684.00,28683.00,134552.00,42009.67,205244.67,2023,,San Marcos,FT
+Timothy Selke,Public Works Manager Parks,125228.00,0.00,4575.00,22724.00,129803.00,51051.14,203578.14,2023,,San Marcos,FT
+Brian Meredith,Fire Engineer,91645.00,12473.00,19655.00,50591.00,123773.00,28866.01,203230.01,2023,,San Marcos,FT
+Timothy Bergon,Fire Engineer,91182.00,30206.00,24142.00,27540.00,145530.00,28983.26,202053.26,2023,,San Marcos,FT
+Saima Qureshy,Sustainability Program Manager,125987.00,0.00,6227.00,22218.00,132214.00,46992.54,201424.54,2023,,San Marcos,FT
+Mitchell Smith,Fire Engineer,93224.00,25807.00,26072.00,27446.00,145103.00,28866.01,201415.01,2023,,San Marcos,FT
+Andrea Smith Gonzalez,Assistant Parks & Recreation Director,105332.00,268.00,15834.00,34881.00,121434.00,40217.03,196532.03,2023,,San Marcos,FT
+Michael Lynn,Fire Engineer,82026.00,18967.00,14242.00,52118.00,115235.00,28866.01,196219.01,2023,,San Marcos,FT
+Keith Thornberry,Watershed Program Manager,106276.00,0.00,12776.00,33070.00,119052.00,42594.79,194716.79,2023,,San Marcos,FT
+Kyle Wright,Senior Project Manager,105734.00,185.00,2869.00,38921.00,108788.00,44834.66,192543.66,2023,,San Marcos,FT
+Samantha Byfield,Special Projects Manager,110959.00,0.00,16652.00,19594.00,127611.00,45084.37,192289.37,2023,,San Marcos,FT
+Beau Jones,Fire Engineer,86978.00,37185.00,18301.00,32537.00,142464.00,16534.15,191535.15,2023,,San Marcos,FT
+Kyrenne Chua,Principal Civil Engineer,114953.00,0.00,2100.00,25730.00,117053.00,46709.30,189492.30,2023,,San Marcos,FT
+Brandon Petty,Firefighter/Paramedic,74357.00,50406.00,12597.00,36285.00,137360.00,14210.01,187855.01,2023,,San Marcos,FT
+Scott Nightingale,Principal Planner,110678.00,0.00,1200.00,31463.00,111878.00,42173.65,185514.65,2023,,San Marcos,FT
+Matthew Wiberg,Fire Captain,88010.00,23705.00,22308.00,25010.00,134023.00,26271.21,185304.21,2023,,San Marcos,PT
+Troy Rasmusen,Firefighter/Paramedic,78976.00,49355.00,27793.00,14239.00,156124.00,14581.48,184944.48,2023,,San Marcos,FT
+Ramona Edwards,Contract Program Manager,109785.00,0.00,1800.00,25960.00,111585.00,46198.71,183743.71,2023,,San Marcos,FT
+Mark Truman,Firefighter/Paramedic,74954.00,18799.00,11170.00,49876.00,104923.00,26488.18,181287.18,2023,,San Marcos,FT
+James Crandall,Program Manager,100916.00,96.00,1900.00,35899.00,102912.00,42333.91,181144.91,2023,,San Marcos,FT
+Brian Duffy,Firefighter/Paramedic,77146.00,36482.00,12847.00,39314.00,126475.00,14992.40,180781.40,2023,,San Marcos,FT
+Raul Quezada,Street Maint Supervisor,88088.00,12838.00,6462.00,32262.00,107388.00,33803.03,173453.03,2023,,San Marcos,FT
+Kellen Broach,Firefighter/Paramedic,72070.00,39881.00,11194.00,35622.00,123145.00,13526.25,172293.25,2023,,San Marcos,PT
+Heather Todd,Administrative Services Manager,100342.00,858.00,2100.00,26752.00,103300.00,42177.38,172229.38,2023,,San Marcos,FT
+Cory Erickson,Firefighter/Paramedic,73876.00,33369.00,10706.00,36380.00,117951.00,14299.87,168630.87,2023,,San Marcos,FT
+Blake Swift,Firefighter/Paramedic,76288.00,40227.00,12597.00,23986.00,129112.00,14210.01,167308.01,2023,,San Marcos,FT
+Christopher Decorte,Firefighter/Paramedic,66814.00,39727.00,12239.00,34921.00,118780.00,13092.32,166793.32,2023,,San Marcos,PT
+Stewart Rutledge,Parks Maint Supervisor,91390.00,884.00,9157.00,30107.00,101431.00,33974.46,165512.46,2023,,San Marcos,FT
+Charles Granoff,Firefighter/Paramedic,74445.00,28548.00,15097.00,32729.00,118090.00,13825.40,164644.40,2023,,San Marcos,FT
+Jordan Ray,Firefighter/Paramedic,67061.00,37792.00,10458.00,35366.00,115311.00,13526.25,164203.25,2023,,San Marcos,PT
+Stacy Armacost,Hr Risk Manager,92525.00,0.00,600.00,31827.00,93125.00,38446.75,163398.75,2023,,San Marcos,PT
+Sylvia Solis Daniels,Housing & Neighborhood Services Manager,92578.00,0.00,1852.00,27232.00,94430.00,40209.57,161871.57,2023,,San Marcos,PT
+Teagan McDonald,Firefighter/Paramedic,70369.00,42503.00,6319.00,29582.00,119191.00,12586.08,161359.08,2023,,San Marcos,PT
+Dylan de Bie,Traffic Signal Lighting Supervisor,91130.00,256.00,2100.00,32655.00,93486.00,33918.56,160059.56,2023,,San Marcos,FT
+Sean del Solar,Senior Planner,93350.00,2845.00,7016.00,20818.00,103211.00,34652.76,158681.76,2023,,San Marcos,FT
+Aaron Brothers,Fleet Maintenance Supervisor,84551.00,4671.00,2100.00,32274.00,91322.00,34932.28,158528.28,2023,,San Marcos,FT
+Jose Rodriguez,Parks Maint Lead Worker,68697.00,0.00,33228.00,28781.00,101925.00,27526.92,158232.92,2023,,San Marcos,FT
+Sona Wolfe,Senior Management Analyst,85523.00,0.00,6370.00,33326.00,91893.00,32584.33,157803.33,2023,,San Marcos,FT
+Daniel Garcia,Facilities Maint Supervisor,79794.00,967.00,11914.00,30415.00,92675.00,33456.42,156546.42,2023,,San Marcos,FT
+Wade Lippert,Firefighter/Paramedic,68355.00,39841.00,14323.00,21405.00,122519.00,12614.57,156538.57,2023,,San Marcos,PT
+Jonathan Quezada,Assistant Engineer,78954.00,972.00,8947.00,33444.00,88873.00,33158.27,155475.27,2023,,San Marcos,FT
+Jennifer Duffy,Ems Coordinator,107373.00,0.00,3000.00,33040.00,110373.00,11548.38,154961.38,2023,,San Marcos,FT
+David Yorba,Program Manager,93166.00,231.00,12173.00,11286.00,105570.00,37813.18,154669.18,2023,,San Marcos,FT
+Janet Brotherton,Senior Management Analyst,83214.00,0.00,0.00,35130.00,83214.00,35409.32,153753.32,2023,,San Marcos,FT
+Juventino Saavedra,Street Maint Supervisor,93395.00,1355.00,12687.00,11819.00,107437.00,34485.05,153741.05,2023,,San Marcos,FT
+Amanda Haas,Parks Maint Supervisor,82111.00,0.00,1875.00,33861.00,83986.00,34593.13,152440.13,2023,,San Marcos,FT
+Andrew Proud,Landscape Inspection Supervisor,91192.00,0.00,2895.00,24237.00,94087.00,34082.54,152406.54,2023,,San Marcos,FT
+Steven King,Firefighter/Paramedic,73317.00,23184.00,27802.00,13481.00,124303.00,13807.86,151591.86,2023,,San Marcos,PT
+Cristiane Davies,Senior Management Analyst,78932.00,0.00,6953.00,33248.00,85885.00,32450.16,151583.16,2023,,San Marcos,FT
+Adeline Atanous,Payroll Administrator,80886.00,2985.00,8867.00,26137.00,92738.00,29815.24,148690.24,2023,,San Marcos,FT
+Astrid Starcher,Deputy Fire Marshal,99459.00,0.00,9681.00,27570.00,109140.00,11196.63,147906.63,2023,,San Marcos,FT
+Daniel Bodemer,Firefighter/Paramedic,76767.00,4035.00,14339.00,37498.00,95141.00,15011.03,147650.03,2023,,San Marcos,FT
+Destiny Roig,Customer Experience Manager,79504.00,658.00,2400.00,29646.00,82562.00,32267.54,144475.54,2023,,San Marcos,PT
+Angelica Cuffari-Pagan,Senior Management Analyst,71280.00,0.00,0.00,42168.00,71280.00,30508.44,143956.44,2023,,San Marcos,PT
+Amanda Boudreault,Senior Management Analyst,82617.00,616.00,900.00,25108.00,84133.00,34324.79,143565.79,2023,,San Marcos,FT
+Constantine Abalos,Engineering Inspector,76955.00,2818.00,1600.00,32140.00,81373.00,30001.58,143514.58,2023,,San Marcos,FT
+James Daza,Recreation Supervisor Ii,78503.00,0.00,2840.00,31411.00,81343.00,30411.54,143165.54,2023,,San Marcos,FT
+Gabriel Serrato,Traffic Signal & Lighting Technician,67209.00,9988.00,8371.00,29031.00,85568.00,28369.20,142968.20,2023,,San Marcos,FT
+Jamie Smith,Emergency Manager,75415.00,2477.00,2100.00,29808.00,79992.00,32871.30,142671.30,2023,,San Marcos,PT
+Michel Braga Guimaraes,System & Network Engineer,80989.00,1175.00,4223.00,21678.00,86387.00,34060.18,142125.18,2023,,San Marcos,PT
+Sarah Cluff,Associate Planner,80402.00,0.00,2225.00,24106.00,82627.00,32804.22,139537.22,2023,,San Marcos,FT
+Jennifer Overman,Recreation Supervisor Ii,79895.00,0.00,4217.00,25096.00,84112.00,29815.24,139023.24,2023,,San Marcos,FT
+Norman Pedersen,Associate Planner,85071.00,915.00,3861.00,17370.00,89847.00,31604.15,138821.15,2023,,San Marcos,FT
+Jeffrey Jorgenson,Senior Accountant,73436.00,0.00,2100.00,32206.00,75536.00,30247.56,137989.56,2023,,San Marcos,FT
+Song Lebaron,Senior Management Analyst,84201.00,0.00,1100.00,17893.00,85301.00,34485.05,137679.05,2023,,San Marcos,FT
+Shauna Vuoti,Business License Officer,75378.00,0.00,1473.00,31937.00,76851.00,28126.95,136914.95,2023,,San Marcos,FT
+Tyler Cook,Firefighter/Paramedic,67403.00,13801.00,8329.00,34190.00,89533.00,12355.96,136078.96,2023,,San Marcos,PT
+Valeria Collins,Senior Management Analyst,76513.00,0.00,2177.00,23655.00,78690.00,32878.75,135223.75,2023,,San Marcos,PT
+Timothy Hinds,Engineering Inspector,80484.00,6317.00,2100.00,15700.00,88901.00,29755.61,134356.61,2023,,San Marcos,FT
+Christopher Lorentzen,Public Works Coordinator,73604.00,0.00,2500.00,29765.00,76104.00,28451.19,134320.19,2023,,San Marcos,FT
+Bradley Holder,Associate Civil Engineer,80870.00,545.00,3564.00,16193.00,84979.00,32711.04,133883.04,2023,,San Marcos,PT
+Barry Doebler,Lead Maintenance Technician,70212.00,3267.00,8021.00,25512.00,81500.00,26639.91,133651.91,2023,,San Marcos,FT
+Eduardo Leon,Parks Maint Lead Worker,70060.00,1821.00,11430.00,22487.00,83311.00,27008.88,132806.88,2023,,San Marcos,FT
+Van Ratcliff,Code Compliance Supervisor,71076.00,606.00,500.00,29628.00,72182.00,30594.16,132404.16,2023,,San Marcos,FT
+Oscar Rincon,Landscape Inspector I,68752.00,0.00,3474.00,29216.00,72226.00,29148.12,130590.12,2023,,San Marcos,FT
+Paul Labelle,Pw Lead Fire Mechanic,69114.00,1111.00,2100.00,30134.00,72325.00,26930.61,129389.61,2023,,San Marcos,FT
+Miguel Estrada,Landscape Inspector I,70643.00,1862.00,10783.00,16728.00,83288.00,29211.48,129227.48,2023,,San Marcos,FT
+David Arrington,Landscape Inspector I,68352.00,0.00,8966.00,22448.00,77318.00,27262.31,127028.31,2023,,San Marcos,FT
+Abel Neri,Parks Maint Lead Worker,68100.00,838.00,2648.00,28275.00,71586.00,27157.95,127018.95,2023,,San Marcos,FT
+Valente Alvarez,Street Maint Lead Worker,67154.00,176.00,3779.00,28509.00,71109.00,26513.20,126131.20,2023,,San Marcos,FT
+Francisco Healy,Emergency Medical Technician (Ft),62500.00,24041.00,5822.00,26940.00,92363.00,6522.05,125825.05,2023,,San Marcos,FT
+Veronica Medina,Housing Program Specialist,75938.00,0.00,1800.00,16697.00,77738.00,31283.64,125718.64,2023,,San Marcos,FT
+Christopher Garcia,Senior Planner,81646.00,0.00,5511.00,8572.00,87157.00,29960.59,125689.59,2023,,San Marcos,PT
+John Taitano,Chief Innovation Officer,23017.00,0.00,89884.00,4459.00,112901.00,7759.42,125119.42,2023,,San Marcos,PT
+Ryan Sargis,Firefighter/Paramedic,57628.00,18899.00,9361.00,28505.00,85888.00,10246.60,124639.60,2023,,San Marcos,PT
+Ricardo Meza-Mejia,Parks Maint Worker Ii,64865.00,347.00,5843.00,27832.00,71055.00,25506.94,124393.94,2023,,San Marcos,FT
+Damian Schoenecke,Associate Engineer,77952.00,1200.00,5808.00,8229.00,84960.00,30668.70,123857.70,2023,,San Marcos,FT
+Jose Carrillo,Street Maint Lead Worker,66509.00,100.00,6443.00,22687.00,73052.00,27839.98,123578.98,2023,,San Marcos,FT
+Erik Ariza,Parks Maint Worker Ii,61542.00,0.00,7664.00,28312.00,69206.00,25946.71,123464.71,2023,,San Marcos,FT
+Kenneth Kim,Deputy Fire Marshal,86520.00,0.00,7909.00,17439.00,94429.00,10433.97,122301.97,2023,,San Marcos,PT
+Denise Avila,Administrative Analyst,72344.00,0.00,5057.00,15612.00,77401.00,29073.58,122086.58,2023,,San Marcos,FT
+Raudel Hinojosa,Street Maint Worker Ii,64121.00,0.00,4029.00,28216.00,68150.00,25506.94,121872.94,2023,,San Marcos,FT
+Joel Neri,Street Maint Worker Ii,65414.00,725.00,5968.00,23616.00,72107.00,25506.94,121229.94,2023,,San Marcos,FT
+Paul Tedrow,Firefighter/Paramedic,54841.00,16378.00,24309.00,12547.00,95528.00,12835.91,120910.91,2023,,San Marcos,PT
+Santiago Paz,Street Maint Lead Worker,57505.00,2466.00,5398.00,30982.00,65369.00,24414.95,120765.95,2023,,San Marcos,FT
+Chrystal Mainprize-Sawyer,Recreation Coordinator,70715.00,654.00,17324.00,7017.00,88693.00,25033.62,120743.62,2023,,San Marcos,FT
+Taylor Oshinski,Recreation Supervisor Ii,67292.00,143.00,7407.00,17697.00,74842.00,27269.76,119808.76,2023,,San Marcos,FT
+Jesus Orea,Parks Maint Worker I,57809.00,0.00,8145.00,30537.00,65954.00,22752.75,119243.75,2023,,San Marcos,FT
+Christian Fortmueller,Parks Maint Worker Ii,62833.00,105.00,4377.00,25998.00,67315.00,24634.84,117947.84,2023,,San Marcos,FT
+Holly Payad,Recreation Supervisor I,66142.00,0.00,5394.00,19700.00,71536.00,25872.17,117108.17,2023,,San Marcos,FT
+Eric Leichliter,Recreation Coordinator,57897.00,1744.00,5729.00,30052.00,65370.00,21019.74,116441.74,2023,,San Marcos,FT
+Cesar Guillen,Street Maint Worker Ii,58008.00,2060.00,3550.00,27984.00,63618.00,24802.55,116404.55,2023,,San Marcos,FT
+Emad Elias,Associate Civil Engineer,65370.00,183.00,1297.00,20646.00,66850.00,28358.02,115854.02,2023,,San Marcos,PT
+Adrian Aguayo,Management Analyst,66948.00,0.00,3700.00,16838.00,70648.00,28153.04,115639.04,2023,,San Marcos,FT
+Jose Jimenez,Parks Maint Worker I,58286.00,0.00,7865.00,26987.00,66151.00,22357.70,115495.70,2023,,San Marcos,FT
+Amber Cox,Recreation Supervisor Ii,61915.00,121.00,6877.00,22453.00,68913.00,23177.62,114543.62,2023,,San Marcos,PT
+Esmeralda Villalobos,Permit Technician (Ft),58400.00,680.00,3300.00,27576.00,62380.00,24552.85,114508.85,2023,,San Marcos,FT
+Rafael Cesmat,Management Analyst,69098.00,0.00,3969.00,14497.00,73067.00,26390.21,113954.21,2023,,San Marcos,FT
+Quinton Hufferd,Management Analyst,51826.00,0.00,500.00,35498.00,52326.00,25648.56,113472.56,2023,,San Marcos,PT
+Denise North,Senior Office Specialist,63655.00,0.00,4395.00,21532.00,68050.00,23617.40,113199.40,2023,,San Marcos,FT
+Annamae Lagdaan,Payroll Coordinator,67538.00,0.00,2600.00,15179.00,70138.00,27459.83,112776.83,2023,,San Marcos,FT
+Aurelia Velasquez,Senior Office Specialist,56879.00,0.00,3300.00,27935.00,60179.00,24619.93,112733.93,2023,,San Marcos,FT
+Keith Duncan,Street Maint Worker Ii,67286.00,0.00,12594.00,7122.00,79880.00,25111.88,112113.88,2023,,San Marcos,FT
+Chad Johnson,Public Works Manager Streets,67761.00,1351.00,4498.00,8668.00,73610.00,29688.52,111966.52,2023,,San Marcos,PT
+Rene Soto,Parks Maint Worker I,54407.00,3539.00,4241.00,27302.00,62187.00,22257.07,111746.07,2023,,San Marcos,FT
+Regina Williams,Permit Technician (Ft),60961.00,0.00,600.00,23891.00,61561.00,25223.69,110675.69,2023,,San Marcos,FT
+Troy Ramsey,Pw Facilities Maint Worker I,56524.00,151.00,914.00,30438.00,57589.00,22383.79,110410.79,2023,,San Marcos,FT
+Edith Santana,Watershed Program Technician,65499.00,384.00,2885.00,14635.00,68768.00,26904.52,110307.52,2023,,San Marcos,FT
+Thomas Murphy,Parks Maint Worker Ii,65268.00,0.00,12445.00,7162.00,77713.00,25260.96,110135.96,2023,,San Marcos,FT
+Juan Carlos Carrillo Diego,Street Maint Worker I,48307.00,5576.00,13170.00,21979.00,67053.00,20852.03,109884.03,2023,,San Marcos,FT
+Trevor Owens,It Analyst,66231.00,0.00,4482.00,12175.00,70713.00,26870.98,109758.98,2023,,San Marcos,PT
+Thomas Karam,Street Maint Worker Ii,59102.00,683.00,2632.00,22308.00,62417.00,24344.14,109069.14,2023,,San Marcos,FT
+Kimberly Valdovinos,Recreation Coordinator,57298.00,0.00,2600.00,27158.00,59898.00,21929.11,108985.11,2023,,San Marcos,FT
+Louie Gonzalez,Street Maint Worker Ii,65782.00,0.00,3507.00,14491.00,69289.00,24936.72,108716.72,2023,,San Marcos,FT
+Tracy Wankner,Landscape Inspector I,52356.00,0.00,785.00,30715.00,53141.00,24690.74,108546.74,2023,,San Marcos,PT
+Javier Nicolas,Parks Maint Worker Ii,59035.00,0.00,2856.00,21721.00,61891.00,24552.85,108164.85,2023,,San Marcos,FT
+Miguel Echeverria,Parks Maint Worker I,60012.00,1079.00,16100.00,6244.00,77191.00,23270.79,106705.79,2023,,San Marcos,FT
+Karla Merino,Accounting Technician,52244.00,0.00,3900.00,27061.00,56144.00,22633.49,105838.49,2023,,San Marcos,PT
+Julie Uhren,Gis Technician,62202.00,0.00,1800.00,15450.00,64002.00,25287.05,104739.05,2023,,San Marcos,FT
+William Torres,Code Compliance Officer (Ft),57949.00,0.00,2100.00,21285.00,60049.00,22775.11,104109.11,2023,,San Marcos,PT
+Daniel Placensia,Street Maint Worker I,55541.00,991.00,3300.00,20811.00,59832.00,23296.88,103939.88,2023,,San Marcos,FT
+Veronica Ramirez,Hr/Risk Technician,60488.00,0.00,14145.00,6385.00,74633.00,22525.41,103543.41,2023,,San Marcos,FT
+Fernando Hidalgo Villegas,Parks Maint Worker I,53767.00,0.00,1800.00,26650.00,55567.00,21101.73,103318.73,2023,,San Marcos,FT
+Fernando Avila,Parks Maint Worker I,48713.00,0.00,3300.00,29776.00,52013.00,21191.18,102980.18,2023,,San Marcos,FT
+Hugo Garcia Ginez,Street Maint Worker I,49116.00,157.00,6209.00,26590.00,55482.00,20878.12,102950.12,2023,,San Marcos,FT
+Joel Hernandez,Mechanic,57539.00,1651.00,3300.00,14775.00,62490.00,24198.79,101463.79,2023,,San Marcos,FT
+Manuel Delgado,Parks Maint Worker I,50220.00,577.00,4267.00,23708.00,55064.00,21433.43,100205.43,2023,,San Marcos,FT
+Susan Neveu,Office Specialist,48087.00,0.00,600.00,30036.00,48687.00,21060.74,99783.74,2023,,San Marcos,FT
+Adrian Villalovos,Street Maint Worker I,53299.00,45.00,1500.00,23769.00,54844.00,20494.25,99107.25,2023,,San Marcos,FT
+Armando Quiroz,Street Maint Worker I,56528.00,2149.00,3546.00,13575.00,62223.00,22954.01,98752.01,2023,,San Marcos,FT
+Gina Jackson,Senior Office Specialist,60339.00,1551.00,0.00,14449.00,61890.00,21668.22,98007.22,2023,,San Marcos,FT
+Jacob Rogers,Firefighter/Paramedic,49440.00,9363.00,7785.00,21926.00,66588.00,9158.49,97672.49,2023,,San Marcos,PT
+Adam Ramirez,Firefighter/Paramedic,49638.00,21488.00,8760.00,8518.00,79886.00,8663.20,97067.20,2023,,San Marcos,PT
+MacEy Winter,Engineering Technician,57353.00,0.00,2100.00,14123.00,59453.00,23289.43,96865.43,2023,,San Marcos,FT
+Lori Dwyer,Recreation Leader (Ft),52035.00,0.00,2304.00,22146.00,54339.00,18958.76,95443.76,2023,,San Marcos,FT
+Jesus Nunez,Street Maint Worker I,57652.00,0.00,7460.00,6410.00,65112.00,23889.46,95411.46,2023,,San Marcos,FT
+Teni Garcia,Assistant Engineer,55524.00,754.00,2120.00,15438.00,58398.00,21396.16,95232.16,2023,,San Marcos,PT
+Scott Wachtler,Senior Office Specialist,48290.00,22.00,2100.00,22577.00,50412.00,20535.24,93524.24,2023,,San Marcos,PT
+Danielle Norris,Accounting Technician,53780.00,0.00,0.00,13616.00,53780.00,21988.74,89384.74,2023,,San Marcos,FT
+Quiason Holt II,Street Maint Worker I,51301.00,1083.00,2325.00,13378.00,54709.00,21086.83,89173.83,2023,,San Marcos,FT
+Sara Jacobs,Office Specialist,52982.00,0.00,7608.00,6143.00,60590.00,21794.94,88527.94,2023,,San Marcos,FT
+Humberto Ordonez,Emergency Medical Technician (Ft),38634.00,12744.00,5343.00,26754.00,56721.00,4957.29,88432.29,2023,,San Marcos,PT
+Leslie Reed,Recreation Leader (Ft),47660.00,0.00,600.00,21770.00,48260.00,17911.50,87941.50,2023,,San Marcos,FT
+Hugo Serrato,Emergency Medical Technician (Ft),49315.00,17839.00,3617.00,12012.00,70771.00,5036.18,87819.18,2023,,San Marcos,FT
+Evelyn Slay,Management Analyst,42717.00,0.00,1577.00,21968.00,44294.00,19663.15,85925.15,2023,,San Marcos,PT
+Timothy MacIas,Recreation Maintenance Aide,44653.00,0.00,2700.00,19811.00,47353.00,18552.53,85716.53,2023,,San Marcos,FT
+Kortney Craker,Emergency Medical Technician (Ft),48774.00,14406.00,3681.00,12164.00,66861.00,5202.74,84227.74,2023,,San Marcos,FT
+Zackary Schmidt,Fire Inspector,62997.00,0.00,5808.00,7069.00,68805.00,7362.51,83236.51,2023,,San Marcos,PT
+Stephanie Wilson,Recreation Supervisor Ii,49322.00,78.00,3166.00,10088.00,52566.00,19350.09,82004.09,2023,,San Marcos,PT
+Miguel Ariza Galeno,Parks Maint Worker I,46626.00,0.00,1385.00,12598.00,48011.00,19312.82,79921.82,2023,,San Marcos,PT
+Nicholas Crouch,Firefighter/Paramedic,44216.00,9525.00,4787.00,12857.00,58528.00,7502.77,78887.77,2023,,San Marcos,PT
+Morgan Wheeler,Office Specialist,47090.00,0.00,5504.00,5000.00,52594.00,18634.52,76228.52,2023,,San Marcos,FT
+Blanca Rendon,Office Specialist,38302.00,0.00,1177.00,19279.00,39479.00,17412.10,76170.10,2023,,San Marcos,PT
+Hazen Alkire,Construction Manager,43397.00,0.00,2133.00,14007.00,45530.00,15951.15,75488.15,2023,,San Marcos,PT
+Lori Hurley,Office Specialist,44907.00,0.00,5808.00,5035.00,50715.00,17814.60,73564.60,2023,,San Marcos,FT
+Erin Rimmereid,Recreation Leader (Ft),40758.00,358.00,2700.00,12079.00,43816.00,16633.18,72528.18,2023,,San Marcos,PT
+Jess Culpeper,Public Works Manager Streets,33871.00,0.00,17530.00,8933.00,51401.00,11542.22,71876.22,2023,,San Marcos,PT
+Christian Lopez,Emergency Medical Technician (Ft),37072.00,23901.00,3453.00,3073.00,64426.00,3232.54,70731.54,2023,,San Marcos,PT
+Ryan Ortega,Pw Facilities Maint Worker Ii,37643.00,171.00,2100.00,15398.00,39914.00,15030.61,70342.61,2023,,San Marcos,PT
+Sean Boswell,Emergency Medical Technician (Pt),37543.00,5224.00,3255.00,10598.00,46022.00,13055.35,69675.35,2023,,San Marcos,FT
+James Wright,Emergency Medical Technician (Ft),37713.00,13226.00,3611.00,9975.00,54550.00,4177.10,68702.10,2023,,San Marcos,PT
+Corina Flores,Assistant Planner,41205.00,0.00,0.00,9773.00,41205.00,17639.44,68617.44,2023,,San Marcos,PT
+Emilee Logee,Emergency Medical Technician (Ft),25766.00,8351.00,3239.00,25431.00,37356.00,3430.87,66217.87,2023,,San Marcos,PT
+Judith Herrera Alcaraz,Recreation Leader (Ft),33890.00,275.00,2738.00,11663.00,36903.00,15455.47,64021.47,2023,,San Marcos,PT
+Grant Blankemeier,Emergency Medical Technician (Ft),35732.00,10372.00,5560.00,2964.00,51664.00,3247.88,57875.88,2023,,San Marcos,PT
+Mark Garman,Systems & Network Admininstrator,28528.00,0.00,9532.00,9484.00,38060.00,10278.80,57822.80,2023,,San Marcos,PT
+Drake Booten,Emergency Medical Technician (Ft),31739.00,7211.00,5311.00,2927.00,44261.00,3207.33,50395.33,2023,,San Marcos,PT
+Pedro Godina,Emergency Medical Technician (Ft),25023.00,13128.00,4683.00,2016.00,42834.00,2209.08,47059.08,2023,,San Marcos,PT
+Garrett Thompson,Emergency Medical Technician (Ft),29281.00,6041.00,5148.00,2546.00,40470.00,2789.84,45805.84,2023,,San Marcos,PT
+Douglas Sallee,Engineering Inspector,24075.00,0.00,2100.00,9135.00,26175.00,8978.11,44288.11,2023,,San Marcos,PT
+Eugene Stahnke,Street Maint Worker Ii,25242.00,0.00,4124.00,2501.00,29366.00,9320.99,41187.99,2023,,San Marcos,PT
+Rebecca Jones,Mayor,6986.00,0.00,3600.00,26367.00,10586.00,3868.53,40821.53,2023,,San Marcos,PT
+Terra Lane,It Coordinator,35013.00,0.00,642.00,1461.00,35655.00,3398.94,40514.94,2023,,San Marcos,PT
+Haley Torres,Management Analyst,22543.00,0.00,3235.00,4515.00,25778.00,7889.86,38182.86,2023,,San Marcos,PT
+Miriam Lopez Salinas,Housing & Neighborhood Services Coordinator I,20683.00,0.00,1300.00,6846.00,21983.00,7800.41,36629.41,2023,,San Marcos,PT
+Charlie Harris,Senio Recreation Technician,34379.00,1386.00,0.00,692.00,35765.00,0.00,36457.00,2023,,San Marcos,PT
+Hugh McMenamin,Lead Park & Trail Ranger,24345.00,556.00,0.00,1674.00,24901.00,5314.57,31889.57,2023,,San Marcos,PT
+Ahfmed Sanders,Housing Program Technician,29455.00,0.00,0.00,593.00,29455.00,0.00,30048.00,2023,,San Marcos,PT
+Hanna Lucas,Code Compliance Officer (Pt),29294.00,0.00,0.00,590.00,29294.00,0.00,29884.00,2023,,San Marcos,PT
+Sharon Jenkins,Deputy Mayor,7957.00,0.00,3600.00,14321.00,11557.00,3868.53,29746.53,2023,,San Marcos,PT
+Luis Bustamante Briones,Street Maint Worker I,14505.00,0.00,3017.00,6261.00,17522.00,5620.17,29403.17,2023,,San Marcos,PT
+Ramon Torres,Lead Park & Trail Ranger,26079.00,1091.00,0.00,988.00,27170.00,0.00,28158.00,2023,,San Marcos,PT
+Wendy Blubaugh,Communications Specialist,26991.00,0.00,0.00,543.00,26991.00,0.00,27534.00,2023,,San Marcos,PT
+Greg Venable,Maintenance Worker,18564.00,0.00,0.00,1852.00,18564.00,6902.23,27318.23,2023,,San Marcos,PT
+Jasmine Schmidt,Communications Specialist,25324.00,522.00,900.00,510.00,26746.00,0.00,27256.00,2023,,San Marcos,PT
+Sarah Strametz,Copy Center Specialist,26397.00,0.00,0.00,531.00,26397.00,0.00,26928.00,2023,,San Marcos,PT
+Candi Roberts,Housing & Neighborhood Services Manager,10105.00,0.00,9635.00,2956.00,19740.00,3767.90,26463.90,2023,,San Marcos,PT
+Jim Reyes,It Help Desk Technician,25657.00,0.00,0.00,516.00,25657.00,0.00,26173.00,2023,,San Marcos,PT
+Liana Camarena,Office Specialist,13797.00,0.00,2792.00,3809.00,16589.00,5336.93,25734.93,2023,,San Marcos,PT
+Maria Nunez,Council,9002.00,0.00,3600.00,8542.00,12602.00,4196.49,25340.49,2023,,San Marcos,PT
+Rania Zigic,Communications Specialist,23657.00,78.00,0.00,476.00,23735.00,0.00,24211.00,2023,,San Marcos,PT
+Brian Banzuelo,Associate Civil Engineer,11469.00,0.00,6160.00,1174.00,17629.00,4375.39,23178.39,2023,,San Marcos,PT
+Satina Heap,Permit Technician (Pt),22184.00,83.00,0.00,446.00,22267.00,0.00,22713.00,2023,,San Marcos,PT
+Jennifer Quiroz Avila,Customer Service Representative,14284.00,0.00,0.00,1524.00,14284.00,5679.80,21487.80,2023,,San Marcos,PT
+Jonathan Williams,Senior Recreation Program Specialist,20941.00,0.00,0.00,421.00,20941.00,0.00,21362.00,2023,,San Marcos,PT
+Maribel Canseco,Customer Service Representative,14145.00,0.00,0.00,1374.00,14145.00,5120.77,20639.77,2023,,San Marcos,PT
+Decilia Dahlin,Senior Recreation Program Specialist,20056.00,0.00,0.00,404.00,20056.00,0.00,20460.00,2023,,San Marcos,PT
+Anasia Cuevas,Pool Manager,18886.00,441.00,250.00,385.00,19577.00,0.00,19962.00,2023,,San Marcos,PT
+Edward Musgrove,Council,10577.00,0.00,3600.00,1126.00,14177.00,4196.49,19499.49,2023,,San Marcos,PT
+Michael Sannella,Council,10577.00,0.00,3600.00,1126.00,14177.00,4196.49,19499.49,2023,,San Marcos,PT
+Angela Lorenzo,Fire/Ems Support Specialist,18677.00,0.00,0.00,376.00,18677.00,0.00,19053.00,2023,,San Marcos,PT
+Alberto Pedroza,Recreation Maint Specialist,18670.00,0.00,0.00,376.00,18670.00,0.00,19046.00,2023,,San Marcos,PT
+Michelle Mikell,Fire/Ems Support Specialist,18373.00,0.00,0.00,370.00,18373.00,0.00,18743.00,2023,,San Marcos,PT
+Kendall Newsome,Senior Recreation Leader,16700.00,0.00,1450.00,341.00,18150.00,0.00,18491.00,2023,,San Marcos,PT
+Jacqueline Lira,Recreation Program Specialist,17897.00,0.00,0.00,360.00,17897.00,0.00,18257.00,2023,,San Marcos,PT
+Kylar Eubanks,Engineering Aid,17868.00,0.00,0.00,360.00,17868.00,0.00,18228.00,2023,,San Marcos,PT
+Walter Howes,Recreation Maint Specialist,17742.00,0.00,0.00,357.00,17742.00,0.00,18099.00,2023,,San Marcos,PT
+Linda Ruiz,Park & Trail Ranger,16846.00,833.00,0.00,339.00,17679.00,0.00,18018.00,2023,,San Marcos,PT
+Rachel di Martino,Senior Recreation Leader,16710.00,0.00,250.00,341.00,16960.00,0.00,17301.00,2023,,San Marcos,PT
+Enrico Rivera,Recreation Maint Specialist,16326.00,0.00,0.00,329.00,16326.00,0.00,16655.00,2023,,San Marcos,PT
+Elizabeth McCabe,Office Assistant,16322.00,0.00,0.00,328.00,16322.00,0.00,16650.00,2023,,San Marcos,PT
+Tiana Gonzalez,Recreation Program Specialist,16292.00,0.00,0.00,328.00,16292.00,0.00,16620.00,2023,,San Marcos,PT
+Stewart Carlson,Park & Trail Ranger,15634.00,619.00,0.00,315.00,16253.00,0.00,16568.00,2023,,San Marcos,PT
+Rubi Hernandez Carrada,Office Assistant,16137.00,0.00,0.00,325.00,16137.00,0.00,16462.00,2023,,San Marcos,PT
+Megan Crawley,Office Assistant,16126.00,0.00,0.00,325.00,16126.00,0.00,16451.00,2023,,San Marcos,PT
+Brenda Lefebvre,Front Desk Attendant,16115.00,0.00,0.00,324.00,16115.00,0.00,16439.00,2023,,San Marcos,PT
+Nancy Garcia,Recreation Program Specialist,16074.00,0.00,0.00,324.00,16074.00,0.00,16398.00,2023,,San Marcos,PT
+Samantha Pendley,Recreation Leader (Pt),15619.00,0.00,250.00,319.00,15869.00,0.00,16188.00,2023,,San Marcos,PT
+Julia Nagy,Office Assistant,15477.00,0.00,0.00,312.00,15477.00,0.00,15789.00,2023,,San Marcos,PT
+Cristina Rodriguez Talavera,Office Assistant,15370.00,0.00,0.00,309.00,15370.00,0.00,15679.00,2023,,San Marcos,PT
+Matthew Huddleston,Fleet Assistant,15341.00,0.00,0.00,309.00,15341.00,0.00,15650.00,2023,,San Marcos,PT
+Sonia Muro,Office Assistant,15160.00,0.00,0.00,305.00,15160.00,0.00,15465.00,2023,,San Marcos,PT
+Christopher Waller,Head Lifeguard,14429.00,719.00,0.00,290.00,15148.00,0.00,15438.00,2023,,San Marcos,PT
+Aubrie Pache,Recreation Leader (Pt),14558.00,483.00,0.00,293.00,15041.00,0.00,15334.00,2023,,San Marcos,PT
+Tara Heinle,Office Assistant,14951.00,0.00,0.00,301.00,14951.00,0.00,15252.00,2023,,San Marcos,PT
+Marlin Romero,Head Lifeguard,14538.00,131.00,250.00,298.00,14919.00,0.00,15217.00,2023,,San Marcos,PT
+Wendy Woelke,Office Assistant,14839.00,0.00,0.00,299.00,14839.00,0.00,15138.00,2023,,San Marcos,PT
+Cinthya Canseco,Recreation Leader (Pt),14512.00,0.00,250.00,297.00,14762.00,0.00,15059.00,2023,,San Marcos,PT
+Michele Bush,Office Assistant,14520.00,0.00,0.00,292.00,14520.00,0.00,14812.00,2023,,San Marcos,PT
+Evelyn Martinez,Senior Customer Service Representative,14275.00,0.00,0.00,287.00,14275.00,0.00,14562.00,2023,,San Marcos,PT
+Marie McElligott,Front Desk Attendant,14205.00,0.00,0.00,286.00,14205.00,0.00,14491.00,2023,,San Marcos,PT
+Denise Sarram,Office Assistant,14007.00,0.00,0.00,282.00,14007.00,0.00,14289.00,2023,,San Marcos,PT
+Jeroen Enriquez,Park & Trail Ranger,13551.00,423.00,0.00,273.00,13974.00,0.00,14247.00,2023,,San Marcos,PT
+Cole Gamboa,Emergency Medical Technician (Pt),12371.00,1437.00,0.00,249.00,13808.00,0.00,14057.00,2023,,San Marcos,PT
+Adrian Richardson,Facility Attendant,9148.00,297.00,0.00,972.00,9445.00,3622.55,14039.55,2023,,San Marcos,PT
+Christiam Baez,Emergency Medical Technician (Pt),8771.00,5084.00,0.00,177.00,13855.00,0.00,14032.00,2023,,San Marcos,PT
+Ben Hernandez Miller,Facility Attendant,13490.00,249.00,0.00,272.00,13739.00,0.00,14011.00,2023,,San Marcos,PT
+Vanessa Ochoa,Recreation Leader (Pt),13435.00,0.00,250.00,275.00,13685.00,0.00,13960.00,2023,,San Marcos,PT
+Kyle Cook,Water Safety Instructor,13080.00,511.00,0.00,263.00,13591.00,0.00,13854.00,2023,,San Marcos,PT
+Lauren Corson,Fire/Ems Support Specialist,13314.00,0.00,0.00,268.00,13314.00,0.00,13582.00,2023,,San Marcos,PT
+Carlton Heiner,Parks Maint Lead Worker,3036.00,0.00,8704.00,272.00,11740.00,1013.72,13025.72,2023,,San Marcos,PT
+Brandon Warren,Lead Park & Trail Ranger,8178.00,0.00,0.00,969.00,8178.00,3611.37,12758.37,2023,,San Marcos,PT
+Butch Gonzales,Emergency Medical Technician (Pt),10051.00,2459.00,0.00,202.00,12510.00,0.00,12712.00,2023,,San Marcos,PT
+Cade Twyman,Emergency Medical Technician (Pt),10363.00,2128.00,0.00,209.00,12491.00,0.00,12700.00,2023,,San Marcos,PT
+Kylie Ortega,Senior Recreation Leader,12164.00,0.00,250.00,250.00,12414.00,0.00,12664.00,2023,,San Marcos,PT
+Andrew Wilson,Maintenance Worker,12332.00,0.00,0.00,248.00,12332.00,0.00,12580.00,2023,,San Marcos,PT
+Monica Nares,Recreation Leader (Pt),11988.00,0.00,250.00,246.00,12238.00,0.00,12484.00,2023,,San Marcos,PT
+Catherine Koenig,Front Desk Attendant,12075.00,0.00,0.00,243.00,12075.00,0.00,12318.00,2023,,San Marcos,PT
+Gustavo Adolfo Gutierrez Vera,Recreation Leader (Pt),11657.00,0.00,250.00,240.00,11907.00,0.00,12147.00,2023,,San Marcos,PT
+Bernardo Lino,Park & Trail Ranger,11174.00,634.00,0.00,225.00,11808.00,0.00,12033.00,2023,,San Marcos,PT
+David Caccavo,Emergency Medical Technician (Ft),7621.00,3385.00,380.00,290.00,11386.00,184.09,11860.09,2023,,San Marcos,PT
+Victor Dhillon,Emergency Medical Technician (Pt),4596.00,332.00,0.00,4947.00,4928.00,1829.91,11704.91,2023,,San Marcos,PT
+Abel Neri,Facility Attendant,11342.00,95.00,0.00,228.00,11437.00,0.00,11665.00,2023,,San Marcos,PT
+Courtney Green,Fire/Ems Support Specialist,11068.00,287.00,0.00,223.00,11355.00,0.00,11578.00,2023,,San Marcos,PT
+Alyce Cormier,Recreation Program Specialist,11216.00,0.00,0.00,226.00,11216.00,0.00,11442.00,2023,,San Marcos,PT
+Adriana Aguilar,Senior Recreation Leader,11157.00,0.00,0.00,225.00,11157.00,0.00,11382.00,2023,,San Marcos,PT
+Jessica Smith,Recreation Leader (Pt),7772.00,0.00,0.00,761.00,7772.00,2836.17,11369.17,2023,,San Marcos,PT
+Mitchel Adams,Emergency Medical Technician (Ft),8344.00,1989.00,380.00,333.00,10713.00,229.02,11275.02,2023,,San Marcos,PT
+Guillermo Guadarrama,Emergency Medical Technician (Pt),9947.00,1022.00,0.00,200.00,10969.00,0.00,11169.00,2023,,San Marcos,PT
+Arleen Velazquez,Recreation Leader (Pt),10673.00,0.00,250.00,220.00,10923.00,0.00,11143.00,2023,,San Marcos,PT
+Madison McCarthy,Facility Attendant,10834.00,0.00,0.00,218.00,10834.00,0.00,11052.00,2023,,San Marcos,PT
+Keeley Berg,Recreation Leader (Pt),10543.00,0.00,250.00,217.00,10793.00,0.00,11010.00,2023,,San Marcos,PT
+Megan Linn,Recreation Leader (Pt),10338.00,0.00,250.00,213.00,10588.00,0.00,10801.00,2023,,San Marcos,PT
+Daniel Homza,Emergency Medical Technician (Pt),9529.00,1022.00,0.00,192.00,10551.00,0.00,10743.00,2023,,San Marcos,PT
+Kylie-Lynn Girardelli,Head Lifeguard,9803.00,105.00,250.00,202.00,10158.00,0.00,10360.00,2023,,San Marcos,PT
+Arielle Vannoy,Emergency Medical Technician (Ft),7674.00,1464.00,380.00,320.00,9518.00,229.02,10067.02,2023,,San Marcos,PT
+Shaun Weaver,Emergency Medical Technician (Pt),8759.00,1118.00,0.00,176.00,9877.00,0.00,10053.00,2023,,San Marcos,PT
+Ryan McCowan,Emergency Medical Technician (Pt),8225.00,1464.00,0.00,166.00,9689.00,0.00,9855.00,2023,,San Marcos,PT
+Rachael Neri,Head Lifeguard,9198.00,135.00,250.00,190.00,9583.00,0.00,9773.00,2023,,San Marcos,PT
+Matthew Mason,It Help Desk Technician,9404.00,0.00,0.00,189.00,9404.00,0.00,9593.00,2023,,San Marcos,PT
+Laila Lacy,Facility Attendant,9292.00,95.00,0.00,187.00,9387.00,0.00,9574.00,2023,,San Marcos,PT
+Adam Corona,Emergency Medical Technician (Ft),7370.00,1202.00,380.00,313.00,8952.00,229.02,9494.02,2023,,San Marcos,PT
+Kade Marshall,It Help Desk Technician,9257.00,0.00,0.00,186.00,9257.00,0.00,9443.00,2023,,San Marcos,PT
+Brigida Campion,Head Lifeguard,8871.00,345.00,0.00,179.00,9216.00,0.00,9395.00,2023,,San Marcos,PT
+Dawn Fenner,Recreation Leader (Pt),8818.00,0.00,250.00,182.00,9068.00,0.00,9250.00,2023,,San Marcos,PT
+Christian Alvarado,Emergency Medical Technician (Pt),8807.00,262.00,0.00,177.00,9069.00,0.00,9246.00,2023,,San Marcos,PT
+Courtney Even,Permit Technician (Pt),8956.00,0.00,0.00,180.00,8956.00,0.00,9136.00,2023,,San Marcos,PT
+Hauna James,Recreation Program Specialist,5950.00,0.00,250.00,618.00,6200.00,2303.23,9121.23,2023,,San Marcos,PT
+Austin Crider,Emergency Medical Technician (Pt),7732.00,1105.00,0.00,156.00,8837.00,0.00,8993.00,2023,,San Marcos,PT
+Nathaniel Karney,Emergency Medical Technician (Ft),7013.00,1022.00,380.00,278.00,8415.00,184.09,8877.09,2023,,San Marcos,PT
+Raul Ortega Marin,Recreation Maint Specialist,5730.00,0.00,0.00,648.00,5730.00,2415.03,8793.03,2023,,San Marcos,PT
+Kasey Trayer,Emergency Medical Technician (Pt),6520.00,2128.00,0.00,131.00,8648.00,0.00,8779.00,2023,,San Marcos,PT
+Cecilia Rivera,Front Desk Attendant,8568.00,0.00,0.00,172.00,8568.00,0.00,8740.00,2023,,San Marcos,PT
+Sarah Taylor,Emergency Medical Technician (Pt),8199.00,359.00,0.00,165.00,8558.00,0.00,8723.00,2023,,San Marcos,PT
+Cortney Pache,Lead Park & Trail Ranger,8045.00,419.00,0.00,162.00,8464.00,0.00,8626.00,2023,,San Marcos,PT
+Shanna Puruncajas,Recreation Leader (Pt),5351.00,0.00,250.00,626.00,5601.00,2333.04,8560.04,2023,,San Marcos,PT
+Jessiah Alegre,Facility Attendant,8249.00,138.00,0.00,166.00,8387.00,0.00,8553.00,2023,,San Marcos,PT
+Noah Garcia,Head Lifeguard,8059.00,294.00,0.00,162.00,8353.00,0.00,8515.00,2023,,San Marcos,PT
+Marissa Moran,Recreation Leader (Pt),7961.00,0.00,250.00,165.00,8211.00,0.00,8376.00,2023,,San Marcos,PT
+Esther Kaufmann-Nagy,Recreation Leader (Pt),7946.00,0.00,250.00,165.00,8196.00,0.00,8361.00,2023,,San Marcos,PT
+Joshua Burnell,Lifeguard,7704.00,184.00,280.00,161.00,8168.00,0.00,8329.00,2023,,San Marcos,PT
+Monarae Ortega,Senior Recreation Leader,8031.00,0.00,0.00,162.00,8031.00,0.00,8193.00,2023,,San Marcos,PT
+Ian Fryday,Emergency Medical Technician (Ft),6378.00,580.00,59.00,940.00,7017.00,229.02,8186.02,2023,,San Marcos,PT
+Audrey Reynolds,Water Safety Instructor,6907.00,797.00,250.00,144.00,7954.00,0.00,8098.00,2023,,San Marcos,PT
+Jennifer Vasquez,Recreation Leader (Pt),7445.00,0.00,250.00,155.00,7695.00,0.00,7850.00,2023,,San Marcos,PT
+Roxana Guillen Zarate,Facility Attendant,5135.00,139.00,0.00,541.00,5274.00,2016.26,7831.26,2023,,San Marcos,PT
+Nadia Cooley,Front Desk Attendant,7672.00,0.00,0.00,154.00,7672.00,0.00,7826.00,2023,,San Marcos,PT
+Cecelia Amparan,Recreation Leader (Pt),7415.00,0.00,250.00,154.00,7665.00,0.00,7819.00,2023,,San Marcos,PT
+Nicole Mizzi,Park & Trail Ranger,7246.00,241.00,0.00,146.00,7487.00,0.00,7633.00,2023,,San Marcos,PT
+Natalie Dicesaris,Head Lifeguard,6730.00,309.00,250.00,140.00,7289.00,0.00,7429.00,2023,,San Marcos,PT
+Julianna Martin,Emergency Medical Technician (Pt),4462.00,622.00,0.00,488.00,5084.00,1818.73,7390.73,2023,,San Marcos,PT
+Cassidy Frederick,Water Safety Instructor,6884.00,0.00,265.00,144.00,7149.00,0.00,7293.00,2023,,San Marcos,PT
+Joseph Burroughs,Water Safety Instructor,6478.00,411.00,265.00,136.00,7154.00,0.00,7290.00,2023,,San Marcos,PT
+Scott Mansfield,Emergency Medical Technician (Ft),5393.00,608.00,59.00,962.00,6060.00,184.09,7206.09,2023,,San Marcos,PT
+Jessica Garcia,Recreation Leader (Pt),4483.00,0.00,250.00,512.00,4733.00,1908.18,7153.18,2023,,San Marcos,PT
+Ashlee Leon,Front Desk Attendant,4507.00,93.00,0.00,534.00,4600.00,1990.17,7124.17,2023,,San Marcos,PT
+Marie Kingma,Front Desk Attendant,6981.00,0.00,0.00,140.00,6981.00,0.00,7121.00,2023,,San Marcos,PT
+Ramona Flores,Facility Attendant,6967.00,0.00,0.00,140.00,6967.00,0.00,7107.00,2023,,San Marcos,PT
+Nicholas Clum,Emergency Medical Technician (Pt),4852.00,1906.00,0.00,98.00,6758.00,0.00,6856.00,2023,,San Marcos,PT
+Rebekah Martinez,Recreation Leader (Pt),6451.00,0.00,250.00,135.00,6701.00,0.00,6836.00,2023,,San Marcos,PT
+Lilliana Valle,Recreation Leader (Pt),6344.00,0.00,250.00,133.00,6594.00,0.00,6727.00,2023,,San Marcos,PT
+Moises Guimet,Facility Attendant,6011.00,238.00,250.00,126.00,6499.00,0.00,6625.00,2023,,San Marcos,PT
+Amsi Cubillo,Facility Attendant,6071.00,329.00,0.00,122.00,6400.00,0.00,6522.00,2023,,San Marcos,PT
+Cecilia Felipe,Senior Customer Service Representative,6304.00,0.00,0.00,127.00,6304.00,0.00,6431.00,2023,,San Marcos,PT
+Grant Fleming,Emergency Medical Technician (Pt),6055.00,221.00,0.00,122.00,6276.00,0.00,6398.00,2023,,San Marcos,PT
+Jonathon Egler,Emergency Medical Technician (Pt),6146.00,0.00,0.00,124.00,6146.00,0.00,6270.00,2023,,San Marcos,PT
+Jeffrey Menard,Park & Trail Ranger,5907.00,241.00,0.00,119.00,6148.00,0.00,6267.00,2023,,San Marcos,PT
+Hypatia Snow,Facility Attendant,5634.00,250.00,250.00,118.00,6134.00,0.00,6252.00,2023,,San Marcos,PT
+Melissa Miranda,Recreation Leader (Pt),6019.00,0.00,50.00,122.00,6069.00,0.00,6191.00,2023,,San Marcos,PT
+Ashley Wolstenholm,Lifeguard,5981.00,82.00,0.00,120.00,6063.00,0.00,6183.00,2023,,San Marcos,PT
+Teresa Quezada,Recreation Program Specialist,6001.00,0.00,0.00,121.00,6001.00,0.00,6122.00,2023,,San Marcos,PT
+Nathan Arendse,Water Safety Instructor,5730.00,273.00,0.00,115.00,6003.00,0.00,6118.00,2023,,San Marcos,PT
+Anwyn Hilderbrand,Head Lifeguard,3930.00,189.00,50.00,410.00,4169.00,1528.03,6107.03,2023,,San Marcos,PT
+Lucas Reynolds,Head Lifeguard,5663.00,0.00,300.00,120.00,5963.00,0.00,6083.00,2023,,San Marcos,PT
+Christopher Pesaniello,Emergency Medical Technician (Pt),5078.00,884.00,0.00,102.00,5962.00,0.00,6064.00,2023,,San Marcos,PT
+Joaquin del Pego,Water Safety Instructor,5610.00,0.00,250.00,118.00,5860.00,0.00,5978.00,2023,,San Marcos,PT
+Gladys Murillo Beltran,Recreation Leader (Pt),5586.00,0.00,250.00,117.00,5836.00,0.00,5953.00,2023,,San Marcos,PT
+Alyssa Platero,Front Desk Attendant,5794.00,0.00,0.00,117.00,5794.00,0.00,5911.00,2023,,San Marcos,PT
+Slater Lee,Emergency Medical Technician (Pt),5333.00,435.00,0.00,107.00,5768.00,0.00,5875.00,2023,,San Marcos,PT
+Nicolas Dautremont,Park & Trail Ranger,5375.00,362.00,0.00,108.00,5737.00,0.00,5845.00,2023,,San Marcos,PT
+Janette Pantoja,Recreation Leader (Pt),5425.00,0.00,250.00,114.00,5675.00,0.00,5789.00,2023,,San Marcos,PT
+Shawna McCormack-Corns,Recreation Program Specialist,5655.00,0.00,0.00,114.00,5655.00,0.00,5769.00,2023,,San Marcos,PT
+Ilse Gonzalez,Recreation Leader (Pt),5358.00,0.00,250.00,113.00,5608.00,0.00,5721.00,2023,,San Marcos,PT
+Jessany Avila,Office Specialist,2438.00,0.00,500.00,1595.00,2938.00,1159.07,5692.07,2023,,San Marcos,PT
+Logan Johnston,Water Safety Instructor,5241.00,0.00,250.00,110.00,5491.00,0.00,5601.00,2023,,San Marcos,PT
+Nathaniel James,Park Caretaker,5129.00,349.00,0.00,103.00,5478.00,0.00,5581.00,2023,,San Marcos,PT
+Carolina Lemus,Recreation Leader (Pt),5172.00,0.00,250.00,109.00,5422.00,0.00,5531.00,2023,,San Marcos,PT
+Sabreena Saavedra,Recreation Leader (Pt),5030.00,0.00,250.00,106.00,5280.00,0.00,5386.00,2023,,San Marcos,PT
+Kaitlyn Vitrano,Lifeguard,4999.00,0.00,265.00,106.00,5264.00,0.00,5370.00,2023,,San Marcos,PT
+Angela Licona,Senior Recreation Leader,5236.00,0.00,0.00,105.00,5236.00,0.00,5341.00,2023,,San Marcos,PT
+Elise Scheiffele,Recreation Leader (Pt),4921.00,0.00,250.00,104.00,5171.00,0.00,5275.00,2023,,San Marcos,PT
+Madison Morgan,Lifeguard,4740.00,114.00,250.00,100.00,5104.00,0.00,5204.00,2023,,San Marcos,PT
+Ava Moen,Water Safety Instructor,4865.00,233.00,0.00,98.00,5098.00,0.00,5196.00,2023,,San Marcos,PT
+Jacob Cowardin,Emergency Medical Technician (Pt),4660.00,442.00,0.00,94.00,5102.00,0.00,5196.00,2023,,San Marcos,PT
+Javier Rabago,Lifeguard,4728.00,114.00,250.00,100.00,5092.00,0.00,5192.00,2023,,San Marcos,PT
+Jordyn Dew,Lifeguard,4660.00,146.00,250.00,99.00,5056.00,0.00,5155.00,2023,,San Marcos,PT
+Jaaziel Palma,Emergency Medical Technician (Pt),4829.00,221.00,0.00,97.00,5050.00,0.00,5147.00,2023,,San Marcos,PT
+Kirby James Exciminiano,Head Lifeguard,4618.00,173.00,250.00,98.00,5041.00,0.00,5139.00,2023,,San Marcos,PT
+Reynna Saavedra,Recreation Leader (Pt),4782.00,0.00,250.00,101.00,5032.00,0.00,5133.00,2023,,San Marcos,PT
+Dominick Garcia,Facility Attendant,4663.00,337.00,0.00,94.00,5000.00,0.00,5094.00,2023,,San Marcos,PT
+Delaney Tobin,Water Safety Instructor,4742.00,0.00,250.00,100.00,4992.00,0.00,5092.00,2023,,San Marcos,PT
+Nicholas Hero,Recreation Technician,4064.00,894.00,0.00,82.00,4958.00,0.00,5040.00,2023,,San Marcos,PT
+Ava Persing,Lifeguard,4481.00,177.00,250.00,95.00,4908.00,0.00,5003.00,2023,,San Marcos,PT
+Kara Ferguson,Facility Attendant,3360.00,0.00,0.00,333.00,3360.00,1241.06,4934.06,2023,,San Marcos,PT
+Devon McDonald,Lifeguard,4359.00,163.00,250.00,93.00,4772.00,0.00,4865.00,2023,,San Marcos,PT
+Skyla Canseco,Front Desk Attendant,4717.00,0.00,0.00,95.00,4717.00,0.00,4812.00,2023,,San Marcos,PT
+Sophia Desantiago,Facility Attendant,4438.00,0.00,250.00,94.00,4688.00,0.00,4782.00,2023,,San Marcos,PT
+David Lepine,Lifeguard,4418.00,177.00,50.00,90.00,4645.00,0.00,4735.00,2023,,San Marcos,PT
+Tessa McCart,Emergency Medical Technician (Pt),4217.00,359.00,0.00,85.00,4576.00,0.00,4661.00,2023,,San Marcos,PT
+Eric Allen,Park & Trail Ranger,4385.00,113.00,0.00,88.00,4498.00,0.00,4586.00,2023,,San Marcos,PT
+Jeremiah Estrada,Lifeguard,3996.00,163.00,280.00,86.00,4439.00,0.00,4525.00,2023,,San Marcos,PT
+Lucas Zogbi,Lifeguard,3987.00,158.00,250.00,85.00,4395.00,0.00,4480.00,2023,,San Marcos,PT
+Devin Seberino,Lifeguard,4180.00,0.00,50.00,85.00,4230.00,0.00,4315.00,2023,,San Marcos,PT
+Melanie Bryan,Emergency Medical Technician (Pt),3191.00,1022.00,0.00,64.00,4213.00,0.00,4277.00,2023,,San Marcos,PT
+Joseph Sabol,Emergency Medical Technician (Pt),3600.00,580.00,0.00,72.00,4180.00,0.00,4252.00,2023,,San Marcos,PT
+Jessica Arredondo,Recreation Leader (Pt),4108.00,0.00,50.00,84.00,4158.00,0.00,4242.00,2023,,San Marcos,PT
+Jocelyn Najera,Recreation Leader (Pt),3808.00,0.00,250.00,82.00,4058.00,0.00,4140.00,2023,,San Marcos,PT
+Paul Quinter,Water Safety Instructor,3547.00,198.00,250.00,76.00,3995.00,0.00,4071.00,2023,,San Marcos,PT
+Joaquin Godinez,Recreation Leader (Pt),3664.00,0.00,250.00,79.00,3914.00,0.00,3993.00,2023,,San Marcos,PT
+Ian Cranmer,Recreation Leader (Pt),3633.00,0.00,250.00,78.00,3883.00,0.00,3961.00,2023,,San Marcos,PT
+Jackson Bollish,Recreation Leader (Pt),3615.00,0.00,250.00,78.00,3865.00,0.00,3943.00,2023,,San Marcos,PT
+Scott Nowell,Recreation Leader (Pt),3578.00,24.00,250.00,77.00,3852.00,0.00,3929.00,2023,,San Marcos,PT
+Riley Armstrong,Lifeguard,3488.00,114.00,250.00,75.00,3852.00,0.00,3927.00,2023,,San Marcos,PT
+Cristos Birbilis,Water Safety Instructor,3105.00,453.00,250.00,68.00,3808.00,0.00,3876.00,2023,,San Marcos,PT
+Madeline Bailey,Lead Park & Trail Ranger,2011.00,733.00,0.00,238.00,2744.00,887.00,3869.00,2023,,San Marcos,PT
+Wyatt Richards,Water Safety Instructor,3133.00,301.00,310.00,69.00,3744.00,0.00,3813.00,2023,,San Marcos,PT
+Marci Belling,Recreation Leader (Pt),2438.00,0.00,0.00,289.00,2438.00,1077.08,3804.08,2023,,San Marcos,PT
+Sydney Thompson,Recreation Leader (Pt),3450.00,0.00,250.00,74.00,3700.00,0.00,3774.00,2023,,San Marcos,PT
+Summer Jackson,Emergency Medical Technician (Pt),2478.00,1216.00,0.00,50.00,3694.00,0.00,3744.00,2023,,San Marcos,PT
+Rene Merino,Lifeguard,3260.00,114.00,265.00,71.00,3639.00,0.00,3710.00,2023,,San Marcos,PT
+Brayden Platz,Park & Trail Ranger,3443.00,136.00,0.00,69.00,3579.00,0.00,3648.00,2023,,San Marcos,PT
+Kelsey Tadlock,Recreation Leader (Pt),3257.00,0.00,250.00,71.00,3507.00,0.00,3578.00,2023,,San Marcos,PT
+Ivan Allen,Lifeguard,3229.00,228.00,45.00,66.00,3502.00,0.00,3568.00,2023,,San Marcos,PT
+Sophia Pedroza,Facility Attendant,3106.00,138.00,250.00,68.00,3494.00,0.00,3562.00,2023,,San Marcos,PT
+Elliot Garman,Lifeguard,3053.00,0.00,250.00,66.00,3303.00,0.00,3369.00,2023,,San Marcos,PT
+Ellie Quinter,Water Safety Instructor,2874.00,146.00,250.00,63.00,3270.00,0.00,3333.00,2023,,San Marcos,PT
+Riley Jaggi,Emergency Medical Technician (Pt),2887.00,359.00,0.00,58.00,3246.00,0.00,3304.00,2023,,San Marcos,PT
+Cailin Kamerlander,Water Safety Instructor,2975.00,0.00,250.00,65.00,3225.00,0.00,3290.00,2023,,San Marcos,PT
+Alexis Warren,Recreation Leader (Pt),2901.00,0.00,250.00,63.00,3151.00,0.00,3214.00,2023,,San Marcos,PT
+Jaden Whitehead,Recreation Leader (Pt),2854.00,0.00,250.00,62.00,3104.00,0.00,3166.00,2023,,San Marcos,PT
+Lara Miller,Recreation Leader (Pt),2850.00,0.00,250.00,62.00,3100.00,0.00,3162.00,2023,,San Marcos,PT
+Isaiah Guerrero,Front Desk Attendant,3067.00,0.00,0.00,62.00,3067.00,0.00,3129.00,2023,,San Marcos,PT
+Veronica Baird,Front Desk Attendant,3062.00,0.00,0.00,62.00,3062.00,0.00,3124.00,2023,,San Marcos,PT
+Elizabeth Lopez,Recreation Leader (Pt),2770.00,0.00,250.00,61.00,3020.00,0.00,3081.00,2023,,San Marcos,PT
+Colin Nungesser,Emergency Medical Technician (Pt),2843.00,138.00,0.00,57.00,2981.00,0.00,3038.00,2023,,San Marcos,PT
+Peter Kuey,Retired Annuitant,2981.00,0.00,0.00,0.00,2981.00,0.00,2981.00,2023,,San Marcos,PT
+Hanna Shim,Recreation Leader (Pt),2918.00,0.00,0.00,59.00,2918.00,0.00,2977.00,2023,,San Marcos,PT
+Jacob Rochman,Lifeguard,2594.00,0.00,250.00,57.00,2844.00,0.00,2901.00,2023,,San Marcos,PT
+Michael Tanghe,Emergency Medical Technician (Pt),2678.00,138.00,0.00,54.00,2816.00,0.00,2870.00,2023,,San Marcos,PT
+Ryan McVicker,Facility Attendant,2407.00,140.00,250.00,54.00,2797.00,0.00,2851.00,2023,,San Marcos,PT
+Judah McNew,Facility Attendant,2379.00,145.00,250.00,53.00,2774.00,0.00,2827.00,2023,,San Marcos,PT
+Alejandro Hurtado,Lifeguard,2491.00,0.00,250.00,55.00,2741.00,0.00,2796.00,2023,,San Marcos,PT
+Bruce Mathis,Facility Attendant,2649.00,0.00,0.00,53.00,2649.00,0.00,2702.00,2023,,San Marcos,PT
+Myra Vance,Front Desk Attendant,2562.00,0.00,0.00,52.00,2562.00,0.00,2614.00,2023,,San Marcos,PT
+Jack Smith,Park & Trail Ranger,1923.00,558.00,0.00,39.00,2481.00,0.00,2520.00,2023,,San Marcos,PT
+Lucas Steria,Park & Trail Ranger,2061.00,362.00,0.00,41.00,2423.00,0.00,2464.00,2023,,San Marcos,PT
+Evan Firestine,Lifeguard,2295.00,0.00,50.00,47.00,2345.00,0.00,2392.00,2023,,San Marcos,PT
+Joseph Lanzone,Lifeguard,1820.00,273.00,250.00,42.00,2343.00,0.00,2385.00,2023,,San Marcos,PT
+Chelsea Luevano,Front Desk Attendant,1594.00,0.00,0.00,158.00,1594.00,588.85,2340.85,2023,,San Marcos,PT
+Ryan Lee,Lifeguard,1713.00,285.00,250.00,40.00,2248.00,0.00,2288.00,2023,,San Marcos,PT
+Allen Brock,Retired Annuitant,2218.00,0.00,0.00,0.00,2218.00,0.00,2218.00,2023,,San Marcos,PT
+Audrey Kline,Recreation Leader (Pt),1907.00,0.00,250.00,43.00,2157.00,0.00,2200.00,2023,,San Marcos,PT
+Emma Sheriff,Facility Attendant,1903.00,0.00,250.00,43.00,2153.00,0.00,2196.00,2023,,San Marcos,PT
+Anna Kim,Lifeguard,1866.00,0.00,250.00,43.00,2116.00,0.00,2159.00,2023,,San Marcos,PT
+Asali Lacy,Facility Attendant,1680.00,186.00,250.00,39.00,2116.00,0.00,2155.00,2023,,San Marcos,PT
+Francisco Munoz,Maintenance Worker,2095.00,0.00,0.00,42.00,2095.00,0.00,2137.00,2023,,San Marcos,PT
+Blake Timm,Emergency Medical Technician (Pt),1913.00,138.00,0.00,39.00,2051.00,0.00,2090.00,2023,,San Marcos,PT
+Jack Lepine,Lifeguard,1987.00,0.00,50.00,41.00,2037.00,0.00,2078.00,2023,,San Marcos,PT
+Idalia Bautista,Recreation Leader (Pt),1784.00,0.00,250.00,41.00,2034.00,0.00,2075.00,2023,,San Marcos,PT
+Faith Barrett,Facility Attendant,1790.00,185.00,50.00,37.00,2025.00,0.00,2062.00,2023,,San Marcos,PT
+Halle Cubberley-Thomas,Lifeguard,1765.00,0.00,250.00,41.00,2015.00,0.00,2056.00,2023,,San Marcos,PT
+Aidan Johnson,Lifeguard,1729.00,0.00,250.00,40.00,1979.00,0.00,2019.00,2023,,San Marcos,PT
+Stratton Chadwick,Lifeguard,1765.00,158.00,50.00,37.00,1973.00,0.00,2010.00,2023,,San Marcos,PT
+Joseph la Corte,Emergency Medical Technician (Pt),1791.00,138.00,0.00,36.00,1929.00,0.00,1965.00,2023,,San Marcos,PT
+Nethra Gopalakrishnan,Lifeguard,1617.00,0.00,250.00,38.00,1867.00,0.00,1905.00,2023,,San Marcos,PT
+Alex Morgan,Recreation Leader (Pt),1793.00,0.00,50.00,37.00,1843.00,0.00,1880.00,2023,,San Marcos,PT
+Diana Antonio,Front Desk Attendant,1743.00,0.00,0.00,35.00,1743.00,0.00,1778.00,2023,,San Marcos,PT
+Emily Groom,Water Safety Instructor,1636.00,0.00,50.00,34.00,1686.00,0.00,1720.00,2023,,San Marcos,PT
+Istvan Koncz,Emergency Medical Technician (Pt),1530.00,138.00,0.00,31.00,1668.00,0.00,1699.00,2023,,San Marcos,PT
+Laken Remsberg,Front Desk Attendant,1620.00,0.00,0.00,33.00,1620.00,0.00,1653.00,2023,,San Marcos,PT
+Max de Genova,Lifeguard,1549.00,0.00,50.00,32.00,1599.00,0.00,1631.00,2023,,San Marcos,PT
+Kristi Kehl,Front Desk Attendant,1595.00,0.00,0.00,32.00,1595.00,0.00,1627.00,2023,,San Marcos,PT
+Alana Carmen Moore,Lifeguard,1285.00,0.00,265.00,31.00,1550.00,0.00,1581.00,2023,,San Marcos,PT
+Kyle Gallagher,Emergency Medical Technician (Pt),1322.00,138.00,0.00,27.00,1460.00,0.00,1487.00,2023,,San Marcos,PT
+James Bobek,Emergency Medical Technician (Pt),1322.00,138.00,0.00,27.00,1460.00,0.00,1487.00,2023,,San Marcos,PT
+Aiden Moseley,Lifeguard,1191.00,0.00,250.00,29.00,1441.00,0.00,1470.00,2023,,San Marcos,PT
+Juliana Alcantar,Recreation Program Specialist,1407.00,0.00,0.00,28.00,1407.00,0.00,1435.00,2023,,San Marcos,PT
+Simeon Kim,Lifeguard,1135.00,0.00,250.00,28.00,1385.00,0.00,1413.00,2023,,San Marcos,PT
+Zane Jillo,Lifeguard,1277.00,0.00,0.00,26.00,1277.00,0.00,1303.00,2023,,San Marcos,PT
+Joyce Anza,Front Desk Attendant,1095.00,0.00,0.00,22.00,1095.00,0.00,1117.00,2023,,San Marcos,PT
+Andrew Garcia,Engineering Aid,1091.00,0.00,0.00,22.00,1091.00,0.00,1113.00,2023,,San Marcos,PT
+Carolina Mauricio-Martinez,Recreation Leader (Pt),1055.00,0.00,0.00,21.00,1055.00,0.00,1076.00,2023,,San Marcos,PT
+Michelle Silva,Front Desk Attendant,1017.00,0.00,0.00,20.00,1017.00,0.00,1037.00,2023,,San Marcos,PT
+Noah Mazza,Lifeguard,895.00,0.00,50.00,19.00,945.00,0.00,964.00,2023,,San Marcos,PT
+Kylie Tang,Water Safety Instructor,922.00,0.00,0.00,19.00,922.00,0.00,941.00,2023,,San Marcos,PT
+Ashton Wright,Emergency Medical Technician (Pt),673.00,214.00,0.00,14.00,887.00,0.00,901.00,2023,,San Marcos,PT
+Jose Garcia,Recreation Leader (Pt),838.00,0.00,0.00,17.00,838.00,0.00,855.00,2023,,San Marcos,PT
+Jessica Pena,Front Desk Attendant,830.00,0.00,0.00,17.00,830.00,0.00,847.00,2023,,San Marcos,PT
+Christine Kerschbaum,Water Safety Instructor,447.00,0.00,250.00,14.00,697.00,0.00,711.00,2023,,San Marcos,PT
+Kairi Osterhout,Lifeguard,616.00,0.00,0.00,12.00,616.00,0.00,628.00,2023,,San Marcos,PT
+Randall Walton,Council,408.00,0.00,0.00,39.00,408.00,145.35,592.35,2023,,San Marcos,PT
+Nina Tong,Facility Attendant,520.00,0.00,0.00,10.00,520.00,0.00,530.00,2023,,San Marcos,PT
+Anthony Fernandez,Emergency Medical Technician (Pt),417.00,0.00,0.00,8.00,417.00,0.00,425.00,2023,,San Marcos,PT
+Caitlin O'Neill,Fire/Ems Support Specialist,323.00,0.00,0.00,7.00,323.00,0.00,330.00,2023,,San Marcos,PT
+Arianna Dellegrazie-Perren,Water Safety Instructor,286.00,0.00,0.00,6.00,286.00,0.00,292.00,2023,,San Marcos,PT
+Ava Aquino,Lifeguard,216.00,0.00,0.00,4.00,216.00,0.00,220.00,2023,,San Marcos,PT
+Alexander Newsome,Park & Trail Ranger,214.00,0.00,0.00,4.00,214.00,0.00,218.00,2023,,San Marcos,PT
+Sheila Izvernari,Water Safety Instructor,132.00,0.00,50.00,4.00,182.00,0.00,186.00,2023,,San Marcos,PT
+Matthew Lyons,Emergency Medical Technician (Pt),67.00,0.00,0.00,6.00,67.00,22.36,95.36,2023,,San Marcos,PT
+Cynthia Maldonado,Recreation Leader (Pt),93.00,0.00,0.00,2.00,93.00,0.00,95.00,2023,,San Marcos,PT
