@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CA AHJ Building Department Staffing — 2024</title>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'] }
+        }
+      }
+    }
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+
+  <!-- ── Header ─────────────────────────────────────────── -->
+  <header class="bg-slate-900 border-b border-slate-800 px-6 py-4 sticky top-0 z-20">
+    <div class="max-w-screen-2xl mx-auto flex items-center justify-between gap-4">
+      <div>
+        <h1 class="text-lg font-bold text-white tracking-tight leading-none">
+          CA AHJ Building Department Staffing
+        </h1>
+        <p class="text-xs text-slate-500 mt-1">2024 · 542 Jurisdictions · California Energy Commission</p>
+      </div>
+      <div class="hidden sm:flex items-center gap-3">
+        <span id="header-badge" class="text-xs bg-slate-800 text-orange-400 border border-slate-700 rounded-full px-3 py-1 font-semibold"></span>
+      </div>
+    </div>
+  </header>
+
+  <div class="max-w-screen-2xl mx-auto px-4 py-6 flex flex-col lg:flex-row gap-5">
+
+    <!-- ── Sidebar ────────────────────────────────────────── -->
+    <aside class="lg:w-60 xl:w-64 flex-shrink-0">
+      <div class="bg-slate-900 rounded-2xl border border-slate-800 p-5 lg:sticky lg:top-[73px]">
+        <h2 class="text-xs font-semibold text-slate-500 uppercase tracking-widest mb-5">Filters</h2>
+
+        <!-- County dropdown -->
+        <div class="mb-5">
+          <label class="block text-xs text-slate-400 mb-2 font-medium" for="county-select">County</label>
+          <select id="county-select"
+            class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-xl px-3 py-2 focus:ring-2 focus:ring-orange-500 focus:border-orange-500 focus:outline-none appearance-none cursor-pointer">
+            <option value="">All Counties</option>
+          </select>
+        </div>
+
+        <!-- AHJ Type toggles -->
+        <div class="mb-5">
+          <label class="block text-xs text-slate-400 mb-2 font-medium">AHJ Type</label>
+          <div id="type-filters" class="flex flex-wrap gap-1.5"></div>
+        </div>
+
+        <!-- Min Staff Slider -->
+        <div class="mb-6">
+          <label class="block text-xs text-slate-400 mb-2 font-medium">
+            Min. Staff Count:
+            <span id="slider-val" class="text-orange-400 font-bold ml-1">0</span>
+          </label>
+          <input type="range" id="staff-slider" min="0" max="150" step="1" value="0"
+            class="w-full h-1.5 accent-orange-500 cursor-pointer" />
+          <div class="flex justify-between text-xs text-slate-600 mt-1">
+            <span>0</span><span>150+</span>
+          </div>
+        </div>
+
+        <!-- Reset -->
+        <button id="reset-btn"
+          class="w-full text-xs text-slate-400 border border-slate-700 rounded-xl py-2 hover:bg-slate-800 hover:text-slate-200 transition-colors mb-5">
+          Reset All Filters
+        </button>
+
+        <!-- KPI Cards -->
+        <div class="border-t border-slate-800 pt-4 space-y-3">
+          <div class="flex justify-between items-baseline">
+            <span class="text-xs text-slate-500">Jurisdictions</span>
+            <span class="text-sm font-bold text-slate-200" id="kpi-count">—</span>
+          </div>
+          <div class="flex justify-between items-baseline">
+            <span class="text-xs text-slate-500">Total Staff</span>
+            <span class="text-sm font-bold text-orange-400" id="kpi-staff">—</span>
+          </div>
+          <div class="flex justify-between items-baseline">
+            <span class="text-xs text-slate-500">Avg Staff / AHJ</span>
+            <span class="text-sm font-bold text-slate-200" id="kpi-avg">—</span>
+          </div>
+          <div class="flex justify-between items-baseline">
+            <span class="text-xs text-slate-500">Total Wages</span>
+            <span class="text-sm font-bold text-slate-200" id="kpi-wages">—</span>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- ── Main Charts ────────────────────────────────────── -->
+    <main class="flex-1 min-w-0 flex flex-col gap-5">
+
+      <!-- Loading / Error state -->
+      <div id="loading-state" class="flex-1 flex items-center justify-center py-24">
+        <div class="text-center">
+          <div class="loading-spinner mx-auto mb-4"></div>
+          <p class="text-slate-500 text-sm">Loading staffing data…</p>
+        </div>
+      </div>
+
+      <!-- Charts (hidden until data loads) -->
+      <div id="charts-container" class="flex flex-col gap-5" style="display:none">
+
+        <!-- Bar Chart Card -->
+        <section class="chart-card">
+          <div class="flex items-start justify-between mb-1">
+            <div>
+              <h3 class="text-sm font-semibold text-slate-200">Top 20 AHJs by Staff Count</h3>
+              <p class="text-xs text-slate-500 mt-0.5">Filtered jurisdictions ranked by building department employees</p>
+            </div>
+            <span id="bar-count-badge" class="text-xs text-slate-500 bg-slate-800 rounded-full px-2.5 py-1 flex-shrink-0 ml-3"></span>
+          </div>
+          <div id="bar-chart" class="w-full mt-3"></div>
+        </section>
+
+        <!-- Scatter Chart Card -->
+        <section class="chart-card">
+          <div class="flex items-start justify-between mb-1">
+            <div>
+              <h3 class="text-sm font-semibold text-slate-200">Staff Count vs. Employer Population</h3>
+              <p class="text-xs text-slate-500 mt-0.5">Each dot is one AHJ · Circle size = total wages · Color = AHJ type</p>
+            </div>
+          </div>
+          <div id="scatter-chart" class="w-full mt-3"></div>
+        </section>
+
+      </div>
+
+      <!-- Error state (hidden by default) -->
+      <div id="error-state" class="hidden bg-red-950/30 border border-red-800/50 rounded-2xl p-8 text-center">
+        <p class="text-red-400 font-semibold text-sm mb-2">Failed to load data</p>
+        <p id="error-message" class="text-slate-400 text-xs"></p>
+        <p class="text-slate-600 text-xs mt-2">Make sure the dashboard is served via HTTP/HTTPS, not opened as a local file.</p>
+      </div>
+
+    </main>
+  </div>
+
+  <!-- ── Tooltip ─────────────────────────────────────────── -->
+  <div id="tooltip" class="d3-tooltip hidden"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
